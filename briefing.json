@@ -1,643 +1,338 @@
 {
-  "versao": "2026-07-08",
-  "gerado_em": "2026-07-08T00:00:00Z",
-  "contexto_do_dia": "Esta semana está dominada pela separação chocante de Camila Coelho e Icaro Brenner após 21 anos juntos, pelo caso viral de traição exposto num chá de revelação que dividiu o TikTok, e pela confirmação de que o Brasil lidera o ranking mundial de ansiedade com 18 milhões de pessoas afetadas. Paralelamente, a tendência das beige flags tomou conta das conversas sobre relacionamentos nas redes sociais, enquanto o romantismo lúcido e o movimento slow living ganham força entre mulheres que buscam autenticidade e equilíbrio.",
+  "versao": "2026-07-14",
+  "gerado_em": "2026-07-14T06:00:00Z",
+  "contexto_do_dia": "Esta semana está marcada por separações bombásticas: Thais Carla e Israel Reis anunciaram o fim de 11 anos de casamento (CNN Brasil), e Jojo Todynho encerrou o namoro com Polidoro Junior após traição. No campo da saúde mental, dados de julho 2026 confirmam que 60% dos afastamentos por saúde mental no Brasil são de mulheres. No digital, as 'beige flags' viralizaram no TikTok como novo conceito pós-red flags, e pesquisa publicada em 01/07/2026 na RECIMA21 aprofunda o impacto das redes sociais na autoestima feminina.",
   "items": [
     {
       "id": 1,
-      "titulo": "Camila Coelho separa após 21 anos: o que isso diz sobre o amor que não cresce junto",
-      "resumo": "A influenciadora Camila Coelho anunciou o fim do casamento com Icaro Brenner após mais de duas décadas, chocando milhões. O ângulo psicológico é o da identidade feminina que se transforma ao longo do tempo e como o casal que começa junto nem sempre é o que cresce junto.",
+      "titulo": "Thais Carla anuncia fim de 11 anos — o que ninguém está falando",
+      "resumo": "Thais Carla, símbolo do body positive no Brasil, anunciou publicamente em julho de 2026 o fim de seu casamento de 11 anos com Israel Reis. O anúncio sereno e centrado nas filhas revela um movimento psicológico raro: a mulher que já processou a dor antes de comunicar ao mundo. Priscilla pode explorar o que leva uma mulher a terminar uma relação longa com dignidade — e o que isso diz sobre maturidade emocional.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Estrelando.com.br / Contigo! — Separação Camila Coelho e Icaro Brenner 2026",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "CNN Brasil — https://www.cnnbrasil.com.br/pop/celebridades/thais-carla-e-israel-reis-anunciam-separacao-apos-casamento-de-11-anos/",
       "copies": {
         "reels-react": {
-          "ideia_central": "A separação de Camila Coelho após 21 anos revela que o maior desafio do amor não é o começo — é continuar crescendo na mesma direção.",
-          "gancho": "Camila Coelho terminou o casamento de 21 anos. E a maior lição que ninguém está falando é essa.",
+          "ideia_central": "Thais Carla não deixou 11 anos de casamento — ela escolheu a si mesma, e existe uma psicologia muito específica por trás disso.",
+          "gancho": "Thais Carla acabou de anunciar o fim de 11 anos de casamento. E tem uma coisa que ninguém está dizendo sobre isso.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Camila Coelho terminou o casamento de 21 anos com Icaro Brenner. E enquanto todo mundo está em choque, eu quero te contar o que realmente acontece nesses relacionamentos."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Eles começaram juntos jovens, cresceram juntos, construíram muito. Mas existe um fenômeno que a psicologia chama de divergência de identidade — quando dois indivíduos evoluem em direções diferentes ao longo dos anos e o relacionamento não acompanha essa evolução."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "O que ninguém fala é que em muitos casamentos longos, um dos dois — geralmente a mulher — acorda um dia e percebe que se perdeu dentro do relacionamento. Que cresceu muito, mas sozinha. E separar, nesses casos, não é fracasso. É reconhecer que você se tornou outra pessoa."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Você já sentiu que cresceu, mas o seu relacionamento não cresceu com você? Me conta aqui embaixo."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Thais Carla e Israel Reis anunciaram a separação depois de 11 anos. E o que me chamou atenção não foi o fim — foi a forma."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "Ela anunciou publicamente, com clareza, colocando as filhas no centro. Sem drama, sem ataque. Do ponto de vista psicológico, isso é extremamente raro. A maioria das mulheres que sai de um casamento longo sai envergonhada, na defensiva, ou em silêncio total."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "Quando uma mulher consegue terminar uma relação de 11 anos sem precisar justificar, atacar ou pedir permissão — ela já passou por um processo interno muito sério. Isso não é frieza. É maturidade emocional. É saber que você não é obrigada a explicar por que não aguenta mais."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Você já esteve num relacionamento que durou muito mais do que deveria? Me conta nos comentários."}
           ],
-          "legenda": "Camila Coelho anunciou o fim do casamento com Icaro Brenner após 21 anos juntos. E enquanto a internet processa o choque, eu quero trazer o olhar da psicologia para essa situação.\n\nExiste um fenômeno chamado divergência de identidade — quando duas pessoas evoluem em direções diferentes e o vínculo não consegue acompanhar essa transformação.\n\nEm relacionamentos longos, é comum que a mulher acorde um dia com a sensação de que cresceu muito — mas de forma solitária.\n\nE separar, nesses casos, não é fracasso. É reconhecimento de si mesma.\n\nJá sentiu isso? 👇\n\n#CamilaCoelho #Separação #PsicologiaFeminina #Relacionamento #AutoConhecimento #Psicologia #PriscillaAndrade"
+          "legenda": "Thais Carla anunciou o fim de 11 anos de casamento com Israel Reis — e a forma como ela fez isso diz mais do que o próprio anúncio.\n\nA maioria das mulheres termina um relacionamento longo em silêncio, com vergonha, ou precisando justificar cada passo. Thais foi pública, serena e centrada nas filhas.\n\nDo ponto de vista da psicologia, isso tem um nome: regulação emocional consciente. É quando você processa a dor antes de precisar gerenciar a reação dos outros.\n\nE isso só acontece quando a mulher já fez um trabalho interno sério — de se conhecer, de saber o que quer e o que não aceita mais.\n\n💬 Você já ficou mais tempo do que deveria numa relação? Me conta.\n\n#ThaisCarla #Separação #RelacionamentoSaudável #PsicologiaFeminina #AutoconhecimentoFeminino #PriscillaAndrade"
         },
         "carrossel": {
-          "ideia": "Guia psicológico: por que relacionamentos longos chegam ao fim e o que isso revela sobre identidade feminina.",
+          "ideia": "Os 5 sinais de que uma mulher já processou emocionalmente o fim de um relacionamento — baseado no caso de Thais Carla.",
           "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "21 anos juntos... e então o fim.",
-              "subtitulo": "O que a separação de Camila Coelho revela sobre nós mesmas"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O que aconteceu",
-              "texto": "Camila Coelho anunciou o fim do casamento com Icaro Brenner após mais de duas décadas. Uma relação pública, admirada — e que chegou ao fim assim mesmo."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "O fenômeno da divergência de identidade",
-              "texto": "A psicologia chama de divergência de identidade o processo em que dois indivíduos evoluem em direções distintas. É comum, real, e não significa que o amor acabou — significa que as pessoas mudaram."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "Por que isso acontece mais com mulheres",
-              "texto": "Mulheres que começam relacionamentos jovens muitas vezes moldam a própria identidade em torno do casal. Quando elas finalmente se encontram — na carreira, nos desejos — percebem que o relacionamento não comporta quem elas se tornaram."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Você já sentiu que cresceu, mas o seu relacionamento ficou parado? Me conta nos comentários. 💬"
-            }
+            {"numero": 1, "tipo": "Capa", "titulo": "Thais Carla e os 5 sinais de quem já decidiu de verdade", "subtitulo": "Quando a separação sai sem drama, tem psicologia por trás"},
+            {"numero": 2, "tipo": "Contextualização", "titulo": "O que aconteceu", "texto": "Thais Carla e Israel Reis anunciaram a separação após 11 anos e duas filhas. O anúncio foi sereno, público e centrado nas filhas — sem ataques."},
+            {"numero": 3, "tipo": "Desenvolvimento", "titulo": "Por que isso é diferente", "texto": "A maioria das mulheres termina relações longas no caos ou no silêncio. Anunciar com serenidade é sinal de que o luto já começou internamente — antes de virar público."},
+            {"numero": 4, "tipo": "Virada", "titulo": "Os 5 sinais de quem já processou", "texto": "1. Não precisa atacar quem está saindo\n2. Coloca os filhos no centro, não a dor\n3. Usa linguagem de responsabilidade, não de vítima\n4. Não pede validação externa\n5. O anúncio é informativo, não emocional"},
+            {"numero": 5, "tipo": "CTA", "titulo": "E você?", "texto": "Você está terminando (ou já terminou) uma relação longa? Qual desses sinais você reconhece em você?"}
           ],
-          "legenda": "A separação de Camila Coelho e Icaro Brenner após 21 anos está fazendo muita gente repensar seus próprios relacionamentos. ✨\n\nEu trouxe aqui o olhar da psicologia pra entender o que realmente acontece em relacionamentos longos — e por que muitas mulheres chegam ao ponto de perceber que cresceram sozinhas dentro deles.\n\nSalva esse carrossel se ressoou com você. 💛\n\n#CamilaCoelho #Separação #RelacionamentoLongo #PsicologiaFeminina #Identidade #AutoConhecimento #PriscillaAndrade"
+          "legenda": "Thais Carla nos deu uma aula de como terminar um casamento longo com dignidade 🙌\n\nExiste um processo psicológico claro por trás disso — salva esse carrossel se você está passando por algo parecido 💛\n\n#ThaisCarla #Separação #MaturidadeEmocional #PsicologiaFeminina #RelacionamentoSaudável"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Mulher expõe traição do marido ao vivo no chá de revelação — a psicologia do breaking point feminino",
-      "resumo": "Um vídeo viral mostra uma mulher revelando a traição do marido durante o próprio chá de revelação, reunindo a família para expor mensagens e provas. Para Priscilla, esse caso é a porta de entrada para falar sobre o breaking point — o momento em que a mulher decide que chega e age de forma inesperada, mesmo num dos dias mais simbólicos da vida.",
+      "titulo": "Jojo Todynho foi traída por Polidoro Junior — a psicologia de quem vai embora na hora",
+      "resumo": "Jojo Todynho terminou o namoro com o jogador Polidoro Junior após descobrir que foi traída logo no início do relacionamento. O caso expõe uma dinâmica psicológica importante: sair imediatamente de uma traição no começo da relação não é impulsividade — é autoestima funcional. Priscilla pode contrastar com o padrão mais comum de mulheres que ficam por medo de perder o investimento emocional.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "O Tempo / TikTok viral — Traição no chá de revelação 2026",
+      "formatos_alternativos": ["lo-fi"],
+      "fonte": "Pesquisa em estrelando.com.br e ofuxico.com.br — traição e separação Jojo Todynho 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A mulher que expôs a traição no chá de revelação não perdeu o controle — ela finalmente se colocou em primeiro lugar.",
-          "gancho": "Uma mulher expôs a traição do marido no próprio chá de revelação dela. E eu preciso te contar o que a psicologia vê nesse momento.",
+          "ideia_central": "Jojo saiu imediatamente após a traição — e isso revela um nível de autoestima que a maioria das mulheres ainda não alcançou.",
+          "gancho": "Jojo Todynho foi traída no início do namoro e foi embora na hora. E eu preciso falar sobre a psicologia por trás disso.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Você viu o vídeo da mulher que expôs a traição do marido no próprio chá de revelação? Todo mundo está falando, mas poucos estão entendendo o que realmente aconteceu ali."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Ela estava grávida. Reuniu a família. E em vez de revelar o sexo do bebê, ela revelou as traições do marido — com provas, mensagens, tudo. O vídeo viralizou e as pessoas ficaram divididas: algumas a chamam de corajosa, outras de exagerada."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "Mas a psicologia tem um nome para o que aconteceu ali: breaking point. É o momento em que a mulher que aguentou em silêncio por tanto tempo simplesmente não consegue mais. Não é loucura. É o ponto de saturação emocional de quem foi ignorada, minimizada e traída — e decidiu que não vai mais se calar."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Você acha que ela foi corajosa ou foi longe demais? Me conta nos comentários."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Jojo Todynho foi traída pelo jogador Polidoro Junior e encerrou o relacionamento. Sem chances, sem conversa longa. E isso não é impulsividade — é clareza de limite."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "Quando uma mulher descobre uma traição no começo do namoro, existe uma pressão enorme para 'dar uma chance', 'entender o contexto', 'não jogar fora'. A narrativa cultural diz que sair é reação, ficar é maturidade."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "Mas a psicologia diz o contrário: sair imediatamente de uma relação onde houve traição no início é sinal de autoestima funcional. Quem fica geralmente não está processando — está evitando a dor da decisão. Jojo escolheu a dor curta."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Você já ficou numa relação depois de uma traição? O que te fez ficar ou ir embora?"}
           ],
-          "legenda": "O vídeo da mulher que expôs a traição do marido no próprio chá de revelação está dividindo a internet. E enquanto todo mundo debate se ela foi corajosa ou exagerada, eu quero trazer o olhar da psicologia.\n\nO que vimos ali se chama breaking point — o ponto de saturação emocional de quem aguentou em silêncio por muito tempo.\n\nNão é loucura. É o momento em que a mulher decide que não vai mais se sacrificar pelo conforto de quem a traiu.\n\nQual lado você está? 👇\n\n#CháDeRevelação #Traição #BreakingPoint #PsicologiaFeminina #Viral #Relacionamento #PriscillaAndrade #Psicóloga"
+          "legenda": "Jojo Todynho foi traída e saiu. Sem segunda chance, sem 'vamos conversar'.\n\nE eu sei que muita gente vai dizer que ela agiu por impulso. Mas como psicóloga, eu vejo diferente.\n\nQuando uma mulher consegue sair imediatamente onde foi traída logo no começo, ela está mostrando que o limite está claro — antes de qualquer apego profundo.\n\nA maioria das mulheres fica. Não por amor — por medo. Medo de estar errada, de ficar sozinha, de ter 'desperdiçado' o investimento emocional.\n\nJojo escolheu a dor curta. E isso é saúde emocional.\n\n💬 Você já ficou depois de uma traição? O que te fez ficar?\n\n#JojoTodynho #Traição #Autoestima #PsicologiaFeminina #LimitesEmocionais #PriscillaAndrade"
         },
         "lo-fi": {
-          "ideia": "Reflexão íntima sobre o silêncio que antecede o breaking point feminino — ancorada no caso viral do chá de revelação.",
-          "gancho": "Tem uma coisa que ninguém está falando sobre o caso do chá de revelação que viralizou essa semana.",
+          "ideia": "Conversa íntima sobre o que acontece na cabeça de uma mulher no momento em que descobre a traição — e por que tantas ficam.",
+          "gancho": "Jojo foi traída e foi embora. Você faria o mesmo? Porque a maioria das mulheres não faz — e existe uma razão psicológica para isso.",
           "o_que_falar": [
-            "Contextualiza o caso: mulher grávida que reuniu a família e, em vez do chá de revelação, revelou as traições do marido com provas ao vivo",
-            "Insight psicológico: o breaking point não é loucura — é o acúmulo de uma mulher que foi ignorada e minimizada repetidas vezes até não aguentar mais",
-            "Conexão com as seguidoras: quantas de nós já carregamos silêncios pesados por medo de parecer dramática ou fazer escândalo?",
-            "CTA: se você já chegou perto do seu próprio breaking point, me conta nos comentários — você não está sozinha"
+            "Contextualiza o caso: Jojo Todynho e Polidoro Junior — ela descobriu a traição e encerrou na hora",
+            "Explica a psicologia do 'ficar após a traição': medo de estar errada, investimento emocional já feito, pressão social para 'salvar o relacionamento'",
+            "Insight: sair imediatamente não é impulso, é autoestima funcional. A dor de ir embora agora é menor do que a dor de ficar se traindo por dentro",
+            "CTA: chama para mandar direct se está passando por isso e não sabe o que fazer"
           ],
-          "legenda": "Esse vídeo do chá de revelação com traição virou tema dessa semana — e eu precisava falar sobre isso de um jeito mais real com vocês.\n\nO breaking point feminino não é loucura. É o grito de quem ficou em silêncio tempo demais.\n\nE quantas de nós já passamos por isso — sem câmera, sem audiência, mas com a mesma dor?\n\nMe conta aqui embaixo. 💛\n\n#CháDeRevelação #Traição #Viral #PsicologiaFeminina #BreakingPoint #PriscillaAndrade",
-          "vibe": "Câmera estática, luz natural, tom íntimo e direto — como se estivesse conversando com uma amiga próxima. Fala fluida, sem roteiro rígido."
+          "legenda": "Falei sobre o caso da Jojo Todynho e o que a psicologia diz sobre sair de uma traição imediatamente 🎙️\n\nSe você está passando por algo parecido e não sabe o que fazer — me chama no direct.\n\n#JojoTodynho #Traição #PsicologiaFeminina #Autoestima #Relacionamento",
+          "vibe": "Câmera estática, luz natural, tom íntimo e direto — como se estivesse conversando com uma amiga próxima"
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Beige Flags: a tendência viral que está mudando como mulheres avaliam relacionamentos",
-      "resumo": "Após o fenômeno das red flags, surgiu a beige flag — comportamentos estranhos ou levemente irritantes que uma pessoa tem, mas que não são prejudiciais. A tendência tomou o TikTok e abre espaço para Priscilla falar sobre hiper-vigilância relacional: quando o radar de alerta fica tão ativado que detecta perigo onde existe apenas diferença.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Pesquisa de julho 2026: redes sociais destroem autoestima feminina desde os 13 anos",
+      "resumo": "Pesquisa publicada em 01/07/2026 na revista científica RECIMA21 analisou como redes sociais impactam autoestima, imagem corporal e dinâmicas afetivas das mulheres. Um dado chocante: 75% das meninas de 13 anos já usaram aplicativos para manipular digitalmente a própria imagem antes de postar. Priscilla pode explorar como esse condicionamento precoce atravessa para a vida adulta e para os relacionamentos.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Bons Fluidos / Terra / Metrópoles — tendência beige flag viral TikTok 2026",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "RECIMA21 — https://recima21.com.br/recima21/article/view/8347 (publicado 01/07/2026)",
       "copies": {
         "reels-react": {
-          "ideia_central": "A beige flag revelou que muitas mulheres confundem incompatibilidade com diferença — e estão descartando relacionamentos bons por isso.",
-          "gancho": "Já ouviu falar em beige flag? A nova tendência viral que está fazendo as mulheres repensar o que realmente importa num relacionamento.",
+          "ideia_central": "Uma pesquisa de julho 2026 confirmou o que a psicologia já sabia: o dano começa aos 13 anos — e chega inteiro para os relacionamentos adultos.",
+          "gancho": "Uma pesquisa publicada essa semana revelou um dado que me deixou sem chão: 75% das meninas de 13 anos já editaram o próprio corpo antes de postar. Isso explica muita coisa sobre nós adultas.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Todo mundo conhece red flag. Mas a tendência que viralizou essa semana é outra: a beige flag. E o que ela revela sobre como estamos avaliando nossos relacionamentos é muito mais profundo do que parece."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Beige flag é aquele comportamento estranho, excêntrico ou levemente irritante que a outra pessoa tem — mas que não faz mal nenhum. Ele guarda os talheres em ordem? Ela faz lista de absolutamente tudo? São beige flags. Estranhezas inofensivas."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "Mas o que me preocupa é o seguinte: muitas mulheres que cresceram numa cultura de red flags estão descartando relacionamentos saudáveis porque confundem diferença com incompatibilidade. A psicologia chama isso de hiper-vigilância relacional — quando o radar fica tão calibrado que começa a detectar perigo onde não existe."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Qual é a beige flag mais engraçada do seu parceiro? Me conta aqui embaixo."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Uma pesquisa científica publicada essa semana mostrou que 75% das meninas de 13 anos já manipularam digitalmente a própria imagem antes de postar. Isso me fez pensar em quantas mulheres adultas ainda fazem isso — mas por dentro."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "A pesquisa, publicada na RECIMA21 em julho de 2026, analisou como as redes sociais impactam autoestima, imagem corporal e relações afetivas das mulheres. E o que ela encontrou não é surpresa para mim — mas os números chocam."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "Quando uma menina de 13 anos aprende a editar o próprio corpo antes de mostrar para o mundo, ela internaliza uma mensagem: 'do jeito que eu sou, não é suficiente.' Essa crença não fica no Instagram — ela vai para o espelho, para os relacionamentos, para o trabalho. É por isso que tantas mulheres adultas ainda sentem que precisam se adequar para serem amadas."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Com que idade você começou a se achar 'insuficiente'? Quero muito saber nos comentários."}
           ],
-          "legenda": "Beige flag é a nova tendência que tomou conta do TikTok — e eu precisava trazer meu olhar de psicóloga para essa conversa.\n\nA ideia é simples: existem comportamentos estranhos e levemente irritantes que não são sinais de perigo. São apenas diferentes.\n\nMas o que me preocupa é a hiper-vigilância relacional: quando o radar de red flags fica tão ativado que começa a ver problema onde só existe diferença.\n\nSaber distinguir isso é uma habilidade relacional que poucas pessoas ensinam.\n\nQual é a beige flag mais engraçada do seu relacionamento? 👇\n\n#BeigeFlag #RedFlag #Relacionamento #PsicologiaFeminina #TikTokViral #PriscillaAndrade #Psicóloga"
+          "legenda": "Uma pesquisa publicada em julho de 2026 revelou: 75% das meninas de 13 anos já editam digitalmente a própria imagem antes de postar.\n\n75%. Aos 13 anos.\n\nE essas meninas crescem. Viram mulheres adultas que ainda não conseguem se olhar no espelho sem um filtro mental.\n\nComo psicóloga, eu vejo isso no consultório: mulheres que nunca se sentiram suficientes. Que buscam relacionamentos para se sentir validadas. Que evitam fotos, espelhos, intimidade real.\n\nO problema não começa na autoestima adulta. Começa muito antes.\n\nSalva esse vídeo para compartilhar com alguém que precisa ouvir isso 💛\n\n#AutoEstima #ImagemCorporal #RedesSociais #PsicologiaFeminina #BodyPositive #PriscillaAndrade"
         },
         "carrossel": {
-          "ideia": "Guia visual: a diferença entre red flag, beige flag e green flag — e como parar de descartar relacionamentos saudáveis.",
+          "ideia": "Como o condicionamento digital da adolescência vira problema de autoestima na vida adulta — com dados da pesquisa RECIMA21 julho 2026.",
           "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Beige Flag: você sabe o que é?",
-              "subtitulo": "A nova tendência viral que está mudando como avaliamos relacionamentos"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O que é Beige Flag?",
-              "texto": "É aquele comportamento estranho, excêntrico ou levemente irritante do parceiro — mas que não faz mal nenhum. Não é red flag. É só diferente."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Exemplos reais de Beige Flags",
-              "texto": "Guardar talheres em ordem. Assistir o mesmo episódio todos os dias. Fazer lista de tudo. São estranhezas inofensivas — não sinais de perigo."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O perigo da hiper-vigilância relacional",
-              "texto": "Muitas mulheres estão descartando relacionamentos saudáveis porque confundem diferença com incompatibilidade. O radar de red flags ficou tão ativado que detecta perigo onde não existe."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "Qual é a sua?",
-              "texto": "Me conta nos comentários qual é a beige flag mais engraçada do seu parceiro! 😄💬"
-            }
+            {"numero": 1, "tipo": "Capa", "titulo": "75% das meninas de 13 anos já editaram o próprio corpo para postar", "subtitulo": "Pesquisa de julho 2026 revela a raiz do problema de autoestima das mulheres adultas"},
+            {"numero": 2, "tipo": "Contextualização", "titulo": "O que a pesquisa encontrou", "texto": "Publicada em 01/07/2026 na RECIMA21, a pesquisa analisou como redes sociais impactam autoestima, imagem corporal e dinâmicas afetivas das mulheres — com dados que começam na adolescência."},
+            {"numero": 3, "tipo": "Desenvolvimento", "titulo": "A mensagem que fica", "texto": "Quando uma adolescente edita o próprio corpo para postar, ela aprende: 'Meu corpo natural não é aceitável.' Essa crença não fica no app — vai para espelhos, relacionamentos e carreira."},
+            {"numero": 4, "tipo": "Virada", "titulo": "O elo que ninguém conecta", "texto": "Mulheres adultas que buscam validação constante no relacionamento, que não conseguem receber um elogio, que sentem que precisam se adequar para serem amadas — esse ciclo começou aos 13 anos num aplicativo de foto."},
+            {"numero": 5, "tipo": "CTA", "titulo": "E você?", "texto": "Com que idade você começou a se achar 'insuficiente'? O que te fez chegar nessa conclusão?"}
           ],
-          "legenda": "Beige Flag é a tendência viral da semana — e eu precisava traduzir isso com o olhar da psicologia para vocês!\n\nDiferenciar o que é sinal de alerta do que é simplesmente diferente é uma das habilidades mais importantes nos relacionamentos modernos.\n\nSalva esse carrossel para mandar para aquela amiga que descarta todo mundo por qualquer coisinha! 😂\n\n#BeigeFlag #RedFlag #GreenFlag #Relacionamento #TikTokViral #PsicologiaFeminina #PriscillaAndrade"
+          "legenda": "Essa pesquisa de julho 2026 me impactou profundamente 👇\n\n75% das meninas de 13 anos já editaram digitalmente a própria imagem antes de postar.\n\nIsso não é problema de adolescência — é o início de uma ferida de autoestima que a maioria das mulheres carrega até hoje.\n\nSalva e compartilha com quem precisa 💛\n\n#AutoEstima #ImagemCorporal #Adolescência #PsicologiaFeminina #RedesSociais"
         }
       }
     },
     {
       "id": 4,
-      "titulo": "49% das mulheres desconfiam do homem feministo: pesquisa 2026 revela o sensor de autenticidade feminino",
-      "resumo": "Uma pesquisa de 2026 revelou que 49% das mulheres desconfiam de homens com discursos feministas performáticos, preferindo exemplos reais a slogans. Para Priscilla, esse dado é o ponto de partida para falar sobre a inteligência emocional feminina e como as mulheres estão aprendendo a distinguir alinhamento real de postura estratégica.",
+      "titulo": "60% dos afastamentos por saúde mental no Brasil são de mulheres — isso não é acidente",
+      "resumo": "Dado divulgado em julho de 2026 revela que mais de 60% dos afastamentos por saúde mental no trabalho no Brasil são de mulheres. Especialistas apontam o 'custo invisível do cuidado' como principal causa: as mulheres continuam sendo as principais responsáveis por filhos, idosos e organização emocional da família — mesmo trabalhando em tempo integral. Priscilla pode trazer o recorte psicológico do que leva ao ponto de ruptura.",
       "pilar": "Posicionamento & Carreira",
-      "urgencia": "semana",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "Meio & Mensagem — O comportamento feminino diante das tendências para 2026",
+      "formatos_alternativos": ["post-estatico"],
+      "fonte": "HiperNotícias — https://www.hnt.com.br/saude-e-bem-estar/mais-de-60-dos-afastamentos-por-saude-mental-no-brasil-sao-de-mulheres/563170",
       "copies": {
         "reels-react": {
-          "ideia_central": "As mulheres desenvolveram um sensor sofisticado para detectar postura performática — e 49% delas já o usam conscientemente.",
-          "gancho": "49% das mulheres desconfiam do homem que se diz feminista. E uma pesquisa de 2026 explica exatamente o porquê.",
+          "ideia_central": "60% dos afastamentos por saúde mental são de mulheres — isso não é fragilidade, é estrutura. E existe uma psicologia muito específica nesse adoecimento.",
+          "gancho": "Saiu um dado essa semana que me travou: 60% dos afastamentos por saúde mental no trabalho no Brasil são de mulheres. Isso não é acidente.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Uma pesquisa de 2026 mostrou que 49% das mulheres desconfiam de homens com discurso feminista. E antes de você achar que isso é contraditório, deixa eu te explicar o que a psicologia vê aqui."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "A pesquisa mostrou que as mulheres preferem exemplos reais a slogans bonitos. Elas não estão rejeitando o feminismo — estão rejeitando a performance. O homem que faz o discurso correto nas redes mas que em casa não divide o mental load, não abre espaço para a voz dela."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "A psicologia chama isso de detector de autenticidade. E as mulheres que ativam esse sensor não estão sendo desconfiadas à toa — estão respondendo a um padrão aprendido de decepção. Quando o discurso e o comportamento não se alinham, a mulher percebe. Sempre."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Você já se deparou com esse tipo de performance num relacionamento ou no trabalho? Conta pra mim."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Mais de 60% dos afastamentos por saúde mental no trabalho no Brasil são de mulheres. Esse dado saiu essa semana. E eu preciso falar sobre o que está por trás dele."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "Não é porque mulheres são mais frágeis. É porque carregam mais. Trabalham em tempo integral e voltam para uma segunda jornada: filhos, idosos, organização, emoções da família. É um custo que não aparece no contracheque mas aparece no psiquiatra."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "O que me preocupa como psicóloga não é o afastamento em si — é o que vem antes. Meses, às vezes anos, de uma mulher ignorando os sinais do corpo e da mente. Porque pedir ajuda parece fraqueza. Parar parece irresponsabilidade. Adoecer virou o único motivo 'válido' para descansar."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Você está esperando adoecer para ter permissão de parar? Me conta nos comentários."}
           ],
-          "legenda": "49% das mulheres desconfiam do homem feministo. E essa pesquisa de 2026 diz muito mais sobre inteligência emocional feminina do que parece.\n\nAs mulheres não estão rejeitando o feminismo — estão rejeitando a performance.\n\nO sensor de autenticidade feminino é uma resposta aprendida a anos de discurso que não virou prática.\n\nVocê já viveu isso? Me conta aqui embaixo. 👇\n\n#Feminismo #Autenticidade #PsicologiaFeminina #Relacionamento #InteligênciaEmocional #PriscillaAndrade #Pesquisa2026"
+          "legenda": "60% dos afastamentos por saúde mental no Brasil são de mulheres.\n\nIsso não é fragilidade feminina. É estrutura.\n\nA mulher trabalha fora, chega em casa e começa o segundo turno: filhos, casa, emoções da família. E em algum ponto, o corpo para.\n\nO que dói como psicóloga é que a maioria chega ao afastamento depois de meses ignorando os sinais. Porque parar parece errado. Pedir ajuda parece fraqueza.\n\nAdoecer virou o único motivo 'válido' para descansar.\n\nSe você está no limite, isso é sinal. Não espera o colapso.\n\n💬 Você está esperando adoecer para ter permissão de parar?\n\n#SaúdeMental #Burnout #PsicologiaFeminina #MulherNoCorporativo #CuidadoInvisível #PriscillaAndrade"
         },
         "post-estatico": {
-          "ideia": "Dado impactante transformado em arte: 49% das mulheres preferem ações a discursos.",
-          "titulo_visual": "49% das mulheres desconfiam do feminismo performático.",
-          "legenda": "E se isso não for desconfiança — e sim inteligência emocional? 🧠\n\nUma pesquisa de 2026 mostrou que quase metade das mulheres preferem exemplos reais a discursos bonitos.\n\nPorque a mulher que já foi decepcionada por palavras aprendeu a observar ações.\n\nSalva e manda para quem precisa ver isso. 💛\n\n#Feminismo #InteligênciaEmocional #PsicologiaFeminina #PriscillaAndrade #Mulher #Autenticidade",
-          "cta": "Você concorda? Me conta nos comentários. 👇"
+          "ideia": "Dado chocante transformado em arte de impacto para gerar compartilhamento.",
+          "titulo_visual": "60% dos afastamentos por saúde mental no Brasil são de mulheres.",
+          "legenda": "E não é porque somos mais fracas.\n\nÉ porque carregamos mais.\n\nTrabalho + casa + filhos + família emocional. Tudo ao mesmo tempo, todo dia.\n\nO colapso não é fraqueza — é aritmética.\n\nSe você está chegando no limite, me chama. Você não precisa esperar adoecer para pedir ajuda.\n\n💬 Salva e compartilha com uma mulher que precisa ouvir isso hoje.\n\n#SaúdeMental #BurnoutFeminino #PsicologiaFeminina #PriscillaAndrade",
+          "cta": "Salva e compartilha com uma mulher que precisa ver isso hoje."
         }
       }
     },
     {
       "id": 5,
-      "titulo": "Brasil lidera ranking mundial de ansiedade: 18 milhões afetados — e mulheres são as mais vulneráveis",
-      "resumo": "O Brasil é o país com maior taxa de transtorno de ansiedade do mundo, com 9,3% da população afetada e 18 milhões de pessoas atingidas. Mulheres têm 2 a 3 vezes mais chance de desenvolver transtornos mentais que homens. Em 2026, o Ministério da Saúde lançou a primeira Pesquisa Nacional de Saúde Mental do país. Priscilla pode reagir a esse dado com o olhar de quem trabalha diariamente com mulheres ansiosas.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "Fórum Econômico Mundial 2026: avanço das mulheres na liderança desacelerou — a psicologia que ninguém discute",
+      "resumo": "Relatório do Fórum Econômico Mundial publicado em junho de 2026 confirma que o avanço das mulheres à alta liderança está desacelerando globalmente. Além das barreiras estruturais conhecidas, Priscilla pode explorar a dimensão que poucos discutem: os bloqueios internos — síndrome da impostora, medo de visibilidade, crença de que poder custa feminilidade — que freiam mulheres mesmo quando as portas estão abertas.",
+      "pilar": "Posicionamento & Carreira",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "CNN Brasil / Ministério da Saúde 2026 / OMS — Pesquisa Nacional de Saúde Mental",
+      "formatos_alternativos": ["post-estatico"],
+      "fonte": "Movimento Mulher 360 — https://movimentomulher360.com.br/noticias/relatorio-do-forum-economico-mundial-junho-2026/",
       "copies": {
         "reels-react": {
-          "ideia_central": "O Brasil é o país mais ansioso do mundo — e isso não é fraqueza das mulheres, é o resultado de décadas de expectativas impossíveis.",
-          "gancho": "O Brasil é o país mais ansioso do mundo. 18 milhões de pessoas. E como psicóloga, eu preciso te contar o que eu vejo todo dia no consultório.",
+          "ideia_central": "O Fórum Econômico Mundial confirmou a desaceleração das mulheres na liderança — mas o bloqueio interno que ninguém quer discutir é tão real quanto o teto de vidro externo.",
+          "gancho": "O Fórum Econômico Mundial confirmou: o avanço das mulheres na liderança desacelerou em 2026. E eu preciso falar sobre o motivo que ninguém quer ouvir.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "O Brasil acaba de confirmar: somos o país com maior taxa de ansiedade do mundo. 18 milhões de pessoas. E mulheres têm até 3 vezes mais chance de desenvolver isso. Como psicóloga, eu preciso falar sobre o que está por trás desse número."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Em 2026, o Ministério da Saúde lançou a primeira Pesquisa Nacional de Saúde Mental do Brasil. Os dados são alarmantes. E a maioria das pessoas ainda trata ansiedade como fraqueza — especialmente quando é uma mulher que está sentindo."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "O que eu vejo no consultório: a mulher ansiosa não é fraca. Ela é uma pessoa que internalizou a responsabilidade de dar conta de tudo — família, carreira, aparência, relacionamento, saúde — e o corpo cobra essa conta. Ansiedade, muitas vezes, é o grito do corpo de uma mulher que nunca aprendeu a dizer não."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Se você se identificou com isso, comenta aqui: qual das responsabilidades te pesa mais?"
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "O relatório do Fórum Econômico Mundial de 2026 mostrou que o avanço das mulheres à alta liderança está desacelerando. Todo mundo fala de estrutura, machismo, teto de vidro. Tudo verdade. Mas tem um motivo que ninguém quer discutir."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "Existe a barreira externa: estrutura corporativa, viés inconsciente, dupla jornada. Isso é real e precisa ser combatido. Mas existe também a barreira interna: a síndrome da impostora, o medo de visibilidade, a crença de que ser poderosa vai custar alguma coisa — um relacionamento, a aprovação das pessoas, a feminilidade."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "Tenho acompanhado mulheres incrivelmente capazes que recusam promoções, diminuem o currículo, falam mais baixo em reuniões. Não por falta de mérito. Mas porque existe um medo profundo: se eu aparecer de verdade, vou perder alguma coisa ou alguém."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Você já se autossabotou numa oportunidade de carreira? Me conta — sem julgamento nenhum."}
           ],
-          "legenda": "O Brasil é oficialmente o país mais ansioso do mundo. 18 milhões de pessoas. E as mulheres lideram esse número.\n\nO Ministério da Saúde lançou em 2026 a primeira Pesquisa Nacional de Saúde Mental — e os dados confirmam o que eu vejo todo dia no consultório.\n\nAnsiedade feminina não é fraqueza. É o resultado de décadas de expectativas impossíveis.\n\nO corpo cobra essa conta — de uma forma ou de outra.\n\nVocê se identifica? Me conta aqui. 💛\n\n#SaúdeMental #Ansiedade #Brasil #PsicologiaFeminina #Mulher #PesquisaNacional #PriscillaAndrade #Psicóloga"
+          "legenda": "O Fórum Econômico Mundial confirmou em 2026: o avanço das mulheres na liderança está desacelerando.\n\nTodo mundo fala da estrutura externa. E ela existe, é real e precisa mudar.\n\nMas como psicóloga, eu preciso falar da barreira interna:\n\n→ A síndrome da impostora que faz a mulher se sentir fraude mesmo com o currículo cheio\n→ O medo de visibilidade que faz ela falar mais baixo do que pode\n→ A crença de que ser poderosa vai custar o amor ou a aprovação\n\nIsso não é fraqueza. É condicionamento. E ele pode ser desfeito.\n\n💬 Você já recusou ou diminuiu uma oportunidade por medo de aparecer?\n\n#LiderançaFeminina #SíndromeImpostora #PsicologiaFeminina #CarreiraFeminina #PriscillaAndrade"
         },
-        "lo-fi": {
-          "ideia": "Conversa íntima sobre o peso de ser mulher num país onde a ansiedade virou norma — ancorada no dado do ranking mundial.",
-          "gancho": "O Brasil acabou de confirmar que é o país mais ansioso do mundo. E eu quero conversar sobre o que isso significa pra você.",
-          "o_que_falar": [
-            "Apresenta o dado: 18 milhões de brasileiros com ansiedade, mulheres 2-3x mais vulneráveis, Ministério da Saúde lançou a primeira pesquisa nacional em 2026",
-            "Insight psicológico: ansiedade feminina é frequentemente o resultado de cobranças acumuladas — dar conta de tudo sem reclamar, sem pausar, sem pedir ajuda",
-            "Conexão com as seguidoras: qual é o peso que você carrega hoje que ninguém vê? A conta da casa, os filhos, o chefe, o relacionamento, a sua própria aparência",
-            "CTA: se você está se sentindo assim, comenta EU aqui embaixo — e saiba que não está sozinha"
-          ],
-          "legenda": "Quero ter uma conversa real com vocês sobre esse número que apareceu essa semana.\n\nBrasil: país mais ansioso do mundo. 18 milhões de pessoas. E mulheres são as mais afetadas.\n\nIsso não é fraqueza. É o resultado de expectativas impossíveis que a sociedade coloca nas costas femininas.\n\nSe você está carregando um peso invisível hoje — eu te vejo. 💙\n\n#Ansiedade #SaúdeMental #Brasil #PsicologiaFeminina #PriscillaAndrade",
-          "vibe": "Câmera estática, luz natural suave, tom de conversa íntima — como se estivesse no sofá falando com uma amiga de confiança. Olhar direto para a câmera."
+        "post-estatico": {
+          "ideia": "Frase provocadora sobre o teto de vidro interno versus o externo.",
+          "titulo_visual": "O teto de vidro que ninguém vê é o que você construiu por dentro.",
+          "legenda": "O Fórum Econômico Mundial confirmou: as mulheres estão avançando menos nas lideranças em 2026.\n\nA barreira externa existe e precisa ser destruída.\n\nMas a barreira interna — a síndrome da impostora, o medo de visibilidade, a crença de que poder custa feminilidade — também precisa.\n\nE essa, só você pode derrubar.\n\n💬 Marca uma mulher que está pronta para ocupar o espaço que é dela.\n\n#LiderançaFeminina #ForumEconomicoMundial #PsicologiaFeminina #CarreiraFeminina",
+          "cta": "Marca uma mulher que está pronta para ocupar o espaço que é dela."
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Carol Duarte e Wesley: traição viral no TikTok — expor cura ou aprisiona?",
-      "resumo": "Um vídeo viral no TikTok mostra Carol Duarte revelando que Wesley a traiu, gerando enorme repercussão e dividindo opiniões. Para Priscilla, o caso abre uma discussão rica sobre a diferença entre buscar justiça e buscar validação — e o que leva uma mulher a escolher a exposição como forma de cura.",
+      "titulo": "Bruna Biancardi e os famosos que deram segunda chance após traição — quando é amor e quando é medo",
+      "resumo": "Artigo viral publicado em maio de 2026 no Estrelando reuniu celebridades que abriram o jogo sobre dar segunda chance após traição — com Bruna Biancardi entre elas. O debate reacendeu nas redes: reconciliação após infidelidade é escolha consciente ou apego ansioso? Priscilla pode criar o conteúdo que separa as duas coisas com clareza psicológica.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "TikTok viral — Carol Duarte / Wesley 2026",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "Estrelando — https://www.estrelando.com.br/foto/2026/05/31/famosos-que-ja-abriram-o-jogo-sobre-traicao-239123.html",
       "copies": {
         "reels-react": {
-          "ideia_central": "Expor uma traição publicamente pode ser um ato de poder — ou uma forma de permanecer presa na dor. A psicologia explica a diferença.",
-          "gancho": "Carol Duarte viralizou contando que Wesley a traiu. Mas o que ninguém está perguntando é: expor a traição nas redes ajuda ou prejudica quem foi traída?",
+          "ideia_central": "Bruna Biancardi e outras celebridades deram segunda chance após traição — mas existe uma diferença enorme entre escolher ficar e ter medo de ir.",
+          "gancho": "Bruna Biancardi abriu o jogo sobre ter dado segunda chance após a traição. E eu preciso falar quando isso é escolha consciente — e quando é medo disfarçado de amor.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "O vídeo da Carol Duarte contando que Wesley a traiu virou assunto da semana. E eu não vou falar só sobre o caso — eu quero falar sobre o que move uma mulher a escolher expor isso publicamente."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "O vídeo viralizou e as opiniões se dividiram: tem quem aplauda a coragem dela, tem quem critique a exposição. E ambos os lados têm um ponto. Mas o que a psicologia observa é algo diferente: a mulher que expõe publicamente muitas vezes está buscando uma validação que não recebeu de quem a traiu."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "A exposição pública de uma traição pode ser um ato de poder — ou uma forma de permanecer presa na dor. Quando uma mulher precisa que o mundo confirme que ela foi errada, é porque ainda não conseguiu confirmar isso para si mesma. O verdadeiro empoderamento começa quando você não precisa da validação de mais ninguém."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Você acredita que expor publicamente uma traição ajuda ou prende? Me conta aqui."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Bruna Biancardi, entre outras celebridades, falou sobre ter dado segunda chance após traição. E eu recebi dezenas de perguntas: 'como saber se estou fazendo a coisa certa?'"},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "Quando uma celebridade assume publicamente que ficou depois da traição, duas coisas acontecem: algumas mulheres se sentem validadas ('então não sou fraca'), outras se perguntam se estão cometendo o mesmo erro. A verdade é que dar segunda chance pode ser amor maduro — ou o maior ato de abandono de si mesma."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "A diferença está na pergunta que a mulher se faz. Se é 'eu quero ficar, mas ele precisa mudar e eu vou exigir isso' — pode ser escolha consciente. Se é 'tenho medo do que vai acontecer comigo se eu for' — é apego ansioso. Uma é amor. A outra é sobrevivência emocional disfarçada."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Você já se perguntou: 'Estou ficando por amor ou por medo?' Me conta aqui."}
           ],
-          "legenda": "O caso da Carol Duarte e Wesley está em todo lugar essa semana — e eu quero ir além do drama e te entregar o olhar da psicologia.\n\nExpor uma traição publicamente pode ser um ato de poder. Mas também pode ser uma forma de permanecer presa na dor, buscando a validação que a outra pessoa se recusou a dar.\n\nO verdadeiro ponto de virada para uma mulher traída não é quando o mundo acredita nela.\n\nÉ quando ela acredita em si mesma.\n\nO que você acha? Me conta aqui embaixo. 👇\n\n#Traição #Viral #TikTok #PsicologiaFeminina #Relacionamento #Empoderamento #PriscillaAndrade #Psicóloga"
+          "legenda": "Bruna Biancardi falou sobre dar segunda chance depois da traição. E isso abriu um debate que eu vejo todo dia no consultório.\n\nDar segunda chance não é certo nem errado. Depende de uma coisa só:\n\n✅ Você está ficando porque QUER, com condições claras e expectativas reais?\n❌ Ou está ficando porque TEM MEDO de ficar sozinha, de recomeçar, de encarar a dor?\n\nA primeira pode funcionar. A segunda vai te custar muito mais do que a separação custaria.\n\n💬 Você já deu (ou está pensando em dar) uma segunda chance? O que te fez ficar?\n\n#BrunaBiancardi #SegundaChance #Traição #PsicologiaFeminina #Relacionamento #PriscillaAndrade"
         },
         "carrossel": {
-          "ideia": "O que fazer depois da traição: o que a psicologia pergunta antes de qualquer decisão — ancorado no caso viral da Carol Duarte.",
+          "ideia": "Checklist psicológico: dar segunda chance após traição — quando é amor consciente e quando é medo disfarçado.",
           "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Você foi traída. E agora?",
-              "subtitulo": "O que a psicologia diz antes de qualquer decisão — a partir do caso viral da Carol Duarte"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O que aconteceu",
-              "texto": "O vídeo da Carol Duarte revelando a traição do Wesley viralizou e dividiu opiniões. Expor ou não expor? A dor gera urgência — mas urgência costuma ser a pior conselheira."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "A psicologia da exposição pública",
-              "texto": "Expor uma traição publicamente pode ser libertador — ou pode ser uma busca por validação. A pergunta que a psicologia faz: você está agindo por força ou por necessidade de que o mundo acredite em você?"
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que realmente cura",
-              "texto": "A cura não começa quando o mundo confirma que você foi errada. Começa quando você consegue confirmar isso para si mesma — independente de plateia."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Se você já passou por uma traição, o que te ajudou a se mover? Me conta nos comentários. 💙"
-            }
+            {"numero": 1, "tipo": "Capa", "titulo": "Segunda chance após traição: amor consciente ou medo disfarçado?", "subtitulo": "O caso de Bruna Biancardi e o que a psicologia diz sobre ficar"},
+            {"numero": 2, "tipo": "Contextualização", "titulo": "O que as celebridades revelaram", "texto": "Bruna Biancardi e outras famosas admitiram ter dado segunda chance após traição. O debate viral: quando ficar é escolha consciente e quando é apego ansioso?"},
+            {"numero": 3, "tipo": "Desenvolvimento", "titulo": "Sinais de que é amor consciente", "texto": "→ Ele reconheceu o erro sem se vitimizar\n→ Você colocou condições claras e ele aceitou\n→ Você quer ficar, não tem medo de ir\n→ Existe trabalho real (terapia, conversas honestas)\n→ Sua decisão não depende de aprovação externa"},
+            {"numero": 4, "tipo": "Virada", "titulo": "Sinais de que é medo disfarçado", "texto": "→ Você pensa mais no que vai perder do que no que merece\n→ A decisão vem do pânico, não da clareza\n→ Você já perdoou antes e o padrão se repetiu\n→ Está esperando ele mudar sem condições reais\n→ Dói mais imaginar ir do que ficar machucada"},
+            {"numero": 5, "tipo": "CTA", "titulo": "A pergunta que importa", "texto": "Você está ficando porque quer — ou porque tem medo?"}
           ],
-          "legenda": "O caso da Carol Duarte e Wesley trouxe uma discussão importante sobre traição, exposição e cura.\n\nE eu quero te entregar aqui o que a psicologia observa nesses momentos — porque a dor é real, mas as decisões tomadas na dor raramente são as melhores.\n\nSalva esse carrossel se conhece alguém que está passando por isso. 🙏\n\n#Traição #Viral #Relacionamento #PsicologiaFeminina #Cura #PriscillaAndrade"
+          "legenda": "Bruna Biancardi deu segunda chance. E isso dividiu opiniões 👇\n\nNão existe resposta certa. Mas existe uma pergunta que você precisa responder com honestidade.\n\nSalva esse carrossel se você está nessa situação agora 💛\n\n#Traição #SegundaChance #BrunaBiancardi #PsicologiaFeminina #Relacionamento"
         }
       }
     },
     {
       "id": 7,
-      "titulo": "Romantismo Lúcido: a tendência de relacionamento de 2026 e o que diz sobre a mulher que você está se tornando",
-      "resumo": "Pesquisas de 2026 identificaram o romantismo lúcido como a grande tendência relacional: pessoas que buscam conexões reais e sinceras, sem ilusões ou romantismo ingênuo. A tendência emerge especialmente entre mulheres de 23 a 30 anos que abandonaram os jogos relacionais em favor de clareza e autenticidade. Priscilla pode explorar o conceito com seu ângulo psicológico sobre apego seguro.",
+      "titulo": "'Beige flags' viralizaram no TikTok — e revelam algo sério sobre como evitamos intimidade",
+      "resumo": "O conceito de 'beige flags' está dominando o TikTok: as manias estranhas mas inofensivas de um parceiro que não são red flags — mas revelam compatibilidade real. Priscilla pode virar a chave: a obsessão por catalogar 'flags' pode ser uma forma sofisticada de evitar intimidade de verdade, criando critérios que mantêm a outra pessoa sempre a uma distância segura.",
       "pilar": "Casamento & Relacionamento",
-      "urgencia": "semana",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "CNN Brasil / Correio Braziliense / Estado de Minas — Tendências de relacionamento 2026",
+      "formatos_alternativos": ["lo-fi"],
+      "fonte": "Bons Fluidos / TikTok trends julho 2026 — beige flags viral",
       "copies": {
         "reels-react": {
-          "ideia_central": "Romantismo lúcido não é falta de romantismo — é a mulher que aprendeu a amar sem perder a si mesma.",
-          "gancho": "A grande tendência de relacionamento de 2026 tem um nome: romantismo lúcido. E eu vou te contar o que isso diz sobre a mulher que você está se tornando.",
+          "ideia_central": "Beige flags viralizaram — mas o que elas revelam é que estamos usando 'flags' como escudo para não nos aproximar de verdade.",
+          "gancho": "Beige flags estão dominando o TikTok. E como psicóloga, isso me faz pensar numa coisa que ninguém está dizendo sobre essa tendência.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Uma pesquisa revelou que a maior tendência relacional de 2026 se chama romantismo lúcido. E quando eu li isso, eu pensei: finalmente as pesquisas estão chegando onde eu já vejo no consultório há anos."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Romantismo lúcido é quando você quer amor real, conexão verdadeira, comprometimento — mas sem ilusões. Sem idealizar. Sem aguentar o inaceitável com a desculpa de que amor é assim. Mulheres entre 23 e 30 anos estão liderando essa mudança: clareza no que querem, autenticidade no que oferecem."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "A psicologia chama isso de apego seguro com fronteiras saudáveis. É quando a mulher consegue amar profundamente sem dissolver sua própria identidade no relacionamento. Ela não tem medo de perder o amor porque ela não se perdeu. E é exatamente isso que diferencia um relacionamento que sustenta de um que consome."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Você se considera uma pessoa que pratica o romantismo lúcido? Me conta nos comentários."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Você já ouviu falar em beige flag? É o novo viral do TikTok. São aquelas manias estranhas mas inofensivas do parceiro. E isso revelou algo muito interessante sobre como a gente está — ou evitando — se relacionar."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "A gente passou anos com o vocabulário das red flags. E agora surgem as beige flags: a mania de organizar gaveta por cor, o costume esquisito de comer antes de dormir. Coisas que não machucam, mas 'incomodam'. E eu fico pensando: isso é análise ou é afastamento?"},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "Como psicóloga, eu me pergunto: e se a nossa obsessão por flags — red, green, beige — for uma forma sofisticada de evitar intimidade real? Porque intimidade real exige aceitar que a outra pessoa é estranha, imperfeita, e que isso não é sinal de perigo — é condição humana."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Qual é a beige flag do seu parceiro (ou ex) que você simplesmente não conseguia ignorar? Me conta nos comentários."}
           ],
-          "legenda": "Romantismo lúcido: a tendência relacional de 2026 que finalmente tem um nome para o que muitas de nós já estávamos vivendo. ✨\n\nQuerer amor real sem ilusões. Querer conexão sem se dissolver. Querer comprometimento sem abrir mão de si mesma.\n\nIsso não é falta de romantismo. É maturidade emocional.\n\nE a psicologia confirma: relacionamentos que sustentam são construídos por pessoas que não precisam do outro para se completar.\n\nVocê se identifica? Me conta. 💛\n\n#RomantismoLúcido #Relacionamento #Tendência2026 #PsicologiaFeminina #ApegoSeguro #PriscillaAndrade #Psicóloga"
+          "legenda": "Beige flags: a nova tendência que está dominando o TikTok.\n\nSão aquelas manias inofensivas mas 'estranhas' do parceiro. Ok, é divertido.\n\nMas como psicóloga, eu fico com uma pergunta: e se a gente estiver usando red flags, green flags e beige flags como desculpa para não se aproximar de verdade?\n\nA intimidade real é bagunçada. A outra pessoa vai ter manias irritantes, inconsistências, momentos feios. Isso não é red flag — é humanidade.\n\nQuando a gente fica catalogando flags, às vezes está fugindo de algo mais profundo: o medo de ser vista de perto também.\n\n💬 Qual a beige flag mais marcante que você já encontrou num parceiro?\n\n#BeigeFlag #RedFlag #Relacionamento #TikTokTendência #PsicologiaFeminina #PriscillaAndrade"
         },
-        "carrossel": {
-          "ideia": "O que é romantismo lúcido e como saber se você já pratica — guia psicológico baseado na tendência de 2026.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Romantismo Lúcido",
-              "subtitulo": "A maior tendência de relacionamento de 2026 — e o que ela diz sobre você"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O que é romantismo lúcido?",
-              "texto": "É querer amor real e conexão verdadeira — mas sem ilusões. Sem idealizar o parceiro. Sem aguentar o inaceitável. Com clareza sobre o que você quer e autenticidade no que você oferece."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Por que essa tendência surgiu agora?",
-              "texto": "Mulheres de 23 a 30 anos estão liderando essa mudança. Elas abandonaram os jogos relacionais e passaram a exigir clareza e alinhamento — fruto de uma geração que aprendeu a nomear o que não presta."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que a psicologia vê aqui",
-              "texto": "Romantismo lúcido é apego seguro com fronteiras saudáveis. A mulher que ama profundamente sem se perder. Que não tem medo de perder o amor porque não perdeu a si mesma."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Você já pratica o romantismo lúcido — ou ainda está saindo de um relacionamento onde perdeu a si mesma? Me conta. 💛"
-            }
+        "lo-fi": {
+          "ideia": "Conversa casual e reflexiva sobre a era dos flags e o que isso revela sobre nossa incapacidade de aceitar imperfeição nos relacionamentos.",
+          "gancho": "Beige flags viralizaram. Mas você já pensou que talvez a gente esteja usando os 'flags' para não precisar se aprofundar de verdade?",
+          "o_que_falar": [
+            "Explica rapidamente o que são beige flags e por que viralizaram no TikTok em julho 2026",
+            "Virada: a obsessão por flags pode ser mecanismo de defesa — se eu fico analisando o outro, não preciso me expor",
+            "Insight: intimidade real é aceitar que a outra pessoa é estranha e imperfeita — não é bandeira, é condição humana",
+            "CTA: pergunta qual é a beige flag mais inofensiva (e engraçada) que já encontraram"
           ],
-          "legenda": "Romantismo Lúcido é a tendência de 2026 que eu precisava trazer aqui com o olhar da psicologia.\n\nAmar com profundidade e clareza ao mesmo tempo. Sem ilusões. Sem se perder.\n\nSalva esse carrossel e marca aquela amiga que está aprendendo a amar com mais consciência. 💛\n\n#RomantismoLúcido #Relacionamento #Tendência #PsicologiaFeminina #PriscillaAndrade"
+          "legenda": "Falei hoje sobre os beige flags e o que eles revelam sobre como a gente está evitando se relacionar de verdade 🎙️\n\n💬 Me conta a beige flag mais estranha que você já encontrou num parceiro!\n\n#BeigeFlag #Relacionamento #PsicologiaFeminina #TikTokBrasil",
+          "vibe": "Câmera na mão leve, ambiente casual (sala ou quarto), tom descontraído mas com profundidade"
         }
       }
     },
     {
       "id": 8,
-      "titulo": "7 em 10 mulheres se sentem pressionadas a estar sempre apresentáveis — o dado que a internet não quer encarar",
-      "resumo": "Pesquisas de 2026 revelam que 7 em cada 10 jovens mulheres sentem pressão constante para estarem arranjadas, enquanto 74% acreditam que as redes sociais influenciam diretamente sua percepção corporal. O Instagram está associado a maior insatisfação corporal, depressão e ansiedade. Priscilla pode reagir a esses dados com o ângulo sobre identidade feminina além da aparência.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "hoje",
+      "titulo": "Microromances: a tendência que revela que as mulheres pararam de acreditar em amor longo",
+      "resumo": "Pesquisas apontam que 2026 é o ano dos microromances: conexões breves, intensas e sem comprometimento profundo. Especialistas conectam o fenômeno a múltiplas decepções afetivas acumuladas. Priscilla pode explorar a dimensão psicológica: microromances como mecanismo de proteção emocional — e o que isso diz sobre o nível de confiança que as mulheres têm na possibilidade de amor duradouro.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "Revista FT / RECIMA21 / Instituto CRIAP — Pesquisas 2026 sobre imagem corporal e redes sociais",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "CNN Brasil — https://www.cnnbrasil.com.br/lifestyle/descubra-quais-sao-as-tendencias-de-relacionamentos-para-2026/ | Revista Kdea 360 — https://revistakdea360.com.br/noticia/46800/por-que-os-relacionamentos-estao-desacelerando-em-2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "7 em 10 mulheres vivem pressionadas pela aparência — e enquanto fingimos que isso é normal, a autoestima de milhões paga a conta.",
-          "gancho": "7 em cada 10 mulheres sentem pressão para estar sempre apresentáveis. E esse dado me incomoda profundamente como psicóloga.",
+          "ideia_central": "Microromances são o sintoma — e para uma psicóloga, eles mostram que as mulheres pararam de acreditar que amor longo vale o risco.",
+          "gancho": "A tendência de relacionamento que está dominando 2026 se chama microromance. E como psicóloga, ela me preocupa e me explica muita coisa ao mesmo tempo.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Uma pesquisa de 2026 revelou que 7 em cada 10 mulheres sentem pressão constante para estar sempre apresentáveis. E 74% dizem que as redes sociais influenciam diretamente como elas se enxergam. Como psicóloga, esses números me incomodam demais."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "O Instagram especificamente está associado à insatisfação corporal, depressão e ansiedade entre mulheres. E o mais preocupante: isso não é sobre vaidade. É sobre uma mulher que internalizou que seu valor está na aparência — e que acorda todos os dias sentindo que precisa provar que merece espaço."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "A psicologia chama isso de aparência condicional de valor. O que alimenta esse ciclo são algoritmos projetados para comparação. A solução não é fechar o Instagram — é desenvolver o que chamamos de ancoragem de identidade: saber quem você é além de como você parece. Porque sua aparência muda. Sua identidade não precisa depender dela."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Você já passou um dia inteiro sem se preocupar com como estava aparecendo? Me conta nos comentários."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Microromances: conexões breves, intensas, sem comprometimento. Essa é a tendência de 2026. E como psicóloga, eu preciso falar o que isso realmente significa."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "Pesquisas mostram que os relacionamentos estão desacelerando em 2026. As pessoas se conectam por menos tempo, com menos expectativas, sem falar em futuro. E a maior parte das mulheres nesse padrão não está assim porque quer — mas porque aprendeu que querer demais dói."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "Microromances são, na maioria das vezes, um mecanismo de proteção emocional: se eu não me apego, não me machuco. Mas o que ninguém diz é o preço disso: a proteção também bloqueia a conexão real. Você pode se proteger tanto que nunca mais se permite ser amada de verdade."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Você está nesse padrão por escolha — ou por proteção? Me conta com honestidade."}
           ],
-          "legenda": "7 em 10 mulheres sentem pressão para estar sempre apresentáveis. E 74% admitem que as redes sociais influenciam como elas se veem.\n\nComo psicóloga, esses dados me incomodam — porque enquanto a gente normaliza essa pressão, a autoestima de milhões de mulheres está sendo corroída silenciosamente.\n\nVocê não precisa conquistar o direito de existir pela sua aparência.\n\nSua identidade vai muito além do que o espelho mostra.\n\nVocê se identifica? Me conta. 💛\n\n#ImagemCorporal #Autoestima #PsicologiaFeminina #RedesSociais #Identidade #PriscillaAndrade #Psicóloga #SaúdeMental"
+          "legenda": "Microromances: a tendência de 2026 que ninguém está interpretando direito.\n\nNão é que as mulheres não querem amor. É que elas pararam de acreditar que amor longo vale o risco.\n\nE eu entendo. Depois de tantas decepções, a gente aprende a se proteger.\n\nMas a proteção que bloqueia a dor também bloqueia a conexão. E você pode chegar nos 40 anos com uma vida 'segura' e um vazio que não consegue nomear.\n\n💬 Você está nesse ciclo por escolha — ou por proteção?\n\n#Microromance #Relacionamento #PsicologiaFeminina #TendênciaAmor2026 #PriscillaAndrade"
         },
-        "post-estatico": {
-          "ideia": "Dado impactante sobre pressão de aparência transformado em arte com call to action reflexivo.",
-          "titulo_visual": "7 em 10 mulheres sentem pressão para estar sempre apresentáveis.",
-          "legenda": "E quantas delas acordaram hoje já pensando: será que estou boa o suficiente? 💔\n\nIsso não é vaidade. É o peso de uma cultura que condiciona o valor feminino à aparência.\n\nSua identidade vai além do que o espelho mostra.\n\nSalva esse post e manda para quem precisa ouvir isso hoje. 💛\n\n#Autoestima #ImagemCorporal #PsicologiaFeminina #Identidade #PriscillaAndrade #Mulher #SaúdeMental",
-          "cta": "Você consegue passar um dia inteiro sem se preocupar com a aparência? Me conta. 👇"
+        "carrossel": {
+          "ideia": "Microromances em 2026 — o que são, por que surgem, e o que revelam sobre a psicologia do vínculo feminino.",
+          "cards": [
+            {"numero": 1, "tipo": "Capa", "titulo": "Microromances: a tendência de 2026 que revela nossas feridas", "subtitulo": "Por que as mulheres estão escolhendo (ou sendo empurradas para) conexões sem futuro"},
+            {"numero": 2, "tipo": "Contextualização", "titulo": "O que é microromance", "texto": "Conexões breves, intensas e sem compromisso profundo. Sem falar de futuro, sem expectativas longas. Essa é a tendência dominante nos relacionamentos em 2026, segundo pesquisas."},
+            {"numero": 3, "tipo": "Desenvolvimento", "titulo": "Por que estão surgindo", "texto": "Múltiplas decepções afetivas criaram um padrão: se não me apego, não me machuco. A mulher aprendeu a se proteger limitando o investimento emocional."},
+            {"numero": 4, "tipo": "Virada", "titulo": "O preço da proteção", "texto": "A mesma armadura que bloqueia a dor bloqueia a conexão real. Microromances como modo de vida criam uma solidão profunda — a de nunca ser verdadeiramente conhecida por ninguém."},
+            {"numero": 5, "tipo": "CTA", "titulo": "E você?", "texto": "Você está nos microromances por escolha consciente — ou porque já não sabe mais como se abrir sem ter medo?"}
+          ],
+          "legenda": "Microromances estão dominando 2026 👇\n\nMas tem uma coisa que a maioria das matérias não fala: o que está por trás dessa tendência.\n\nSalva esse carrossel e compartilha com quem precisa refletir sobre isso 💛\n\n#Microromance #Relacionamento #PsicologiaFeminina #TendênciaAmor2026"
         }
       }
     },
     {
       "id": 9,
-      "titulo": "Slow Living: a tendência de desacelerar que domina 2026 — e por que a mulher moderna está precisando disso agora",
-      "resumo": "O movimento slow living — priorizando descanso, tempo offline e prazer simples — emergiu como a maior tendência de autocuidado de 2026. Para Priscilla, esse é o ângulo sobre a culpa do descanso: a incapacidade de parar sem sentir que está falhando, um dos padrões mais comuns em mulheres no consultório — e que o slow living propõe desconstruir.",
+      "titulo": "Slow living em 2026: por que as mulheres estão escolhendo desacelerar — e o que isso tem de espiritual",
+      "resumo": "O slow living — desacelerar, priorizar descanso e cultivar prazer simples — está sendo apontado como a principal tendência de autocuidado de 2026. Após anos de produtividade tóxica, mulheres estão buscando vida com mais presença e sentido. Priscilla pode conectar essa tendência à espiritualidade feminina: quando parar de correr se torna um ato profundo de autoconhecimento e resistência.",
       "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "Estado de Minas / Afinamenina.com.br — Tendências de autocuidado 2026",
+      "formatos_alternativos": ["lo-fi"],
+      "fonte": "Estado de Minas — https://www.em.com.br/emfoco/2025/12/14/a-tendencia-de-autocuidado-que-vai-dominar-2026-com-descanso-e-tempo-offline/",
       "copies": {
         "reels-react": {
-          "ideia_central": "Slow living não é preguiça — é a mulher que aprendeu que descanso também é produtividade.",
-          "gancho": "A maior tendência de autocuidado de 2026 tem um nome: slow living. E como psicóloga, eu precisava falar sobre por que tantas mulheres estão precisando disso agora.",
+          "ideia_central": "Slow living não é estética do Instagram — é um ato de resistência espiritual de mulheres que pararam de se provar para o mundo.",
+          "gancho": "Slow living é a tendência de 2026. Mas o que me interessa não é a estética — é o porquê de tantas mulheres estarem escolhendo parar de correr agora.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Slow living é a maior tendência de autocuidado de 2026 — desacelerar, priorizar descanso, cultivar prazer simples. E quando li isso, pensei: não é por acaso que isso está em alta agora. Existe um motivo psicológico muito profundo aqui."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "A mulher moderna foi condicionada a ser produtiva o tempo todo. Trabalhar, cuidar da casa, dos filhos, do corpo, do relacionamento, da espiritualidade — tudo ao mesmo tempo, sem parar. O slow living surge como uma resposta coletiva a esse esgotamento."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "A psicologia chama o que muitas mulheres vivem de culpa do descanso — a incapacidade de parar sem sentir que está falhando. E o slow living, em sua essência, é a prática de desconstruir essa culpa. O descanso não é o oposto da produtividade — é o que a torna possível."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Você consegue descansar sem sentir culpa? Me conta aqui — quero saber onde você está nessa jornada."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Slow living está em todo lugar em 2026. Mas isso não é só tendência estética. É um movimento espiritual de mulheres que chegaram num limite."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "Depois de anos sendo bombardeadas com produtividade tóxica — acorda cedo, faz mais, otimiza tudo — as mulheres estão chegando na conclusão: essa velocidade não está me levando para onde eu quero ir. Está me levando para o esgotamento."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "Do ponto de vista espiritual e psicológico, slow living não é preguiça. É discernimento. É a mulher que aprende a se perguntar: 'o que é meu de verdade e o que estou fazendo por validação?' Parar de correr exige mais coragem do que correr — porque no silêncio, você se encontra com você mesma."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Se você pudesse remover uma coisa da sua vida que drena energia mas você mantém por obrigação — o que seria? Me conta nos comentários."}
           ],
-          "legenda": "Slow living é a tendência de 2026 que eu precisava trazer com o olhar da psicologia.\n\nDesacelerar não é preguiça. É reconhecer que a mulher que não descansa vai eventualmente quebrar.\n\nE a culpa do descanso — essa sensação de que parar significa falhar — é um dos padrões mais comuns que eu vejo em mulheres no consultório.\n\nVocê consegue descansar sem se sentir culpada? Me conta aqui. 💛\n\n#SlowLiving #Autocuidado #Descanso #PsicologiaFeminina #Tendência2026 #SaúdeMental #PriscillaAndrade #Psicóloga"
+          "legenda": "Slow living não é foto bonita no campo com linho bege.\n\nÉ uma mulher que decidiu parar de correr para provar alguma coisa que ninguém pediu.\n\nÉ a mulher que chegou no limite da produtividade tóxica e perguntou: 'para quem eu estou vivendo desse jeito?'\n\nDo ponto de vista da psicologia e da espiritualidade feminina, desacelerar é um dos atos de autoconhecimento mais corajosos que existe.\n\nPorque no silêncio, você se encontra com você mesma. E isso pode ser assustador.\n\n💬 Se você pudesse tirar uma coisa da sua vida que drena energia mas você mantém por obrigação — qual seria?\n\n#SlowLiving #Espiritualidade #AutoConhecimento #Autocuidado #PsicologiaFeminina #PriscillaAndrade"
         },
         "lo-fi": {
-          "ideia": "Conversa íntima sobre a dificuldade de descansar sem culpa — ancorada na tendência slow living de 2026.",
-          "gancho": "Sabe essa coisa de não conseguir ficar parada sem sentir que está desperdiçando tempo? Eu preciso falar sobre isso.",
+          "ideia": "Reflexão íntima sobre o que slow living representa psicologicamente — para além da estética.",
+          "gancho": "Slow living não é estética. É a mulher que decidiu parar de se provar. E isso tem muito de espiritual.",
           "o_que_falar": [
-            "Apresenta a tendência: slow living como maior tendência de autocuidado de 2026 — desacelerar, priorizar descanso e prazer simples",
-            "Insight psicológico: a culpa do descanso é um padrão muito comum em mulheres — foram condicionadas a ser produtivas 24h e o descanso passou a parecer falha",
-            "Conexão com as seguidoras: quantas de vocês abrem o celular nos primeiros minutos de descanso? Ou ficam pensando no que ainda têm para fazer?",
-            "CTA: me conta aqui uma coisa que você vai fazer essa semana apenas por prazer — sem produtividade, sem resultado"
+            "Contextualiza: slow living está em toda tendência de 2026, mas vai muito além da estética de linho e chá",
+            "O que está por trás: mulheres chegando no limite da produtividade tóxica e perguntando 'para quem estou vivendo assim?'",
+            "Insight espiritual e psicológico: desacelerar exige coragem porque no silêncio você se encontra com você mesma — assustador e transformador",
+            "CTA: convida para um desafio simples — identificar uma coisa que drena energia e não serve mais"
           ],
-          "legenda": "Quero ter uma conversa real sobre descanso sem culpa com vocês.\n\nSlow living é a tendência de 2026 — e ela apareceu porque muitas de nós chegamos no limite.\n\nDescansar não é fraqueza. É o que permite que você continue sendo quem você é.\n\nO que você vai fazer de gostoso essa semana, só porque quer? Me conta aqui. 💛\n\n#SlowLiving #Descanso #Autocuidado #PsicologiaFeminina #PriscillaAndrade",
-          "vibe": "Câmera estática ou leve movimento de caminhar lentamente, luz natural, tom suave e contemplativo — como se estivesse num momento tranquilo de reflexão pessoal."
+          "legenda": "Falei hoje sobre slow living — mas não o slow living do Instagram 🎙️\n\nFalei sobre o que acontece dentro de uma mulher que decide parar de correr.\n\n💬 O que você removeria da sua semana hoje se tivesse coragem?\n\n#SlowLiving #Espiritualidade #AutoConhecimento #PsicologiaFeminina #Autocuidado",
+          "vibe": "Câmera estática, ambiente tranquilo (jardim, varanda ou sala com luz natural), tom contemplativo e acolhedor"
         }
       }
     },
     {
       "id": 10,
-      "titulo": "A carreira feminina virou ativo estratégico para empresas em 2026: e você ainda não sabe o seu valor?",
-      "resumo": "Em 2026, relatório de mercado consolidou que a experiência de carreira feminina tornou-se fator estratégico de competitividade — com empresas alinhando promoção, sucessão e retenção de mulheres às metas de negócio. Para Priscilla, esse é o ângulo sobre a síndrome da impostora: o mercado reconheceu o valor feminino, mas a mulher ainda pede desculpa por ocupar o espaço que ela mesma construiu.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "O custo invisível do cuidado: por que mulheres adoecem e não sabem por quê",
+      "resumo": "Dados de 2026 mostram que 45% das brasileiras têm diagnóstico de ansiedade ou depressão, e 60% dos afastamentos por saúde mental no trabalho são de mulheres. Especialistas apontam o 'custo invisível do cuidado' como causa estrutural: mulheres são as principais responsáveis pelos filhos, idosos e gestão emocional da família — mesmo trabalhando em tempo integral. Priscilla pode nomear esse padrão e ensinar a reconhecê-lo antes do colapso.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "evergreen",
       "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "Vital Work / Forbes Brasil — Mulheres no mercado de trabalho 2026",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "Amesuamente / CNN Brasil / HiperNotícias — dados saúde mental feminina 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "As empresas perceberam que mulher é ativo estratégico — a psicologia explica por que tantas mulheres ainda não perceberam isso sobre elas mesmas.",
-          "gancho": "Um relatório de 2026 confirmou: a carreira feminina é ativo estratégico para empresas. Mas a pergunta que eu faço como psicóloga é: por que você ainda não se trata assim?",
+          "ideia_central": "O custo invisível do cuidado está adoecendo as mulheres — e a maioria não sabe que está pagando esse preço até o corpo parar.",
+          "gancho": "Você cuida de todo mundo. E quem cuida de você? Porque o corpo está mandando a conta — 60% dos afastamentos por saúde mental no trabalho são de mulheres.",
           "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Em 2026, um relatório de mercado consolidou que a carreira feminina é ativo estratégico — não diversidade, não cota. Ativo. E enquanto as empresas finalmente perceberam isso, muitas mulheres ainda não perceberam esse valor sobre elas mesmas."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "As empresas estão alinhando promoção, sucessão e retenção de mulheres às metas de negócio. O mercado reconhece que a mulher que lidera, que cria, que constrói relações entrega resultados que os modelos tradicionais não entregam. Mas o que eu vejo no consultório é uma mulher que pede desculpa por existir no espaço profissional."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicológica",
-              "fala": "A psicologia chama isso de síndrome da impostora — a mulher que, mesmo competente, não acredita que merece o lugar que ocupa. E esse padrão é tão comum que muitas o confundem com humildade. Mas humildade e desvalorização são coisas muito diferentes. Você pode ser generosa e saber o seu valor ao mesmo tempo."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Você já sentiu que precisava provar mais do que os outros para ser levada a sério? Me conta aqui."
-            }
+            {"tempo": "0–3s", "descricao": "Abertura", "fala": "Você cuida dos filhos, cuida do parceiro, cuida dos pais, cuida das emoções da família. E você fica para o final. Sempre. Isso tem um nome — e um preço altíssimo."},
+            {"tempo": "3–15s", "descricao": "Contexto", "fala": "Chama-se custo invisível do cuidado. É o trabalho que não aparece no contracheque: a organização mental da casa, a gestão das emoções de todos, a disponibilidade emocional constante. É invisível porque ninguém vê. E é caro porque ela paga com saúde mental."},
+            {"tempo": "15–25s", "descricao": "Virada psicológica", "fala": "O adoecimento de uma mulher raramente é repentino. É lento. São anos ignorando os próprios sinais porque 'não tenho tempo para isso agora'. Até que o corpo para sozinho. E aí o afastamento vira a única opção — porque o descanso voluntário nunca foi permitido."},
+            {"tempo": "25–30s", "descricao": "CTA", "fala": "Quando foi a última vez que você colocou a sua necessidade em primeiro lugar sem se sentir culpada? Me conta."}
           ],
-          "legenda": "A carreira feminina é ativo estratégico — não mais cota, não mais diversidade, mas diferencial de competitividade real.\n\nAs empresas finalmente entenderam isso em 2026.\n\nAgora eu pergunto: você já entendeu isso sobre si mesma?\n\nA síndrome da impostora faz com que muitas mulheres ocupem o espaço que mereceriam com desculpas e auto-sabotagem.\n\nVocê merece o lugar que ocupa. Ponto.\n\nMe conta: você já foi minada pela síndrome da impostora? 👇\n\n#Carreira #Mulher #MercadoDeTrabalho #SíndromeImpostora #PsicologiaFeminina #Empoderamento #PriscillaAndrade #Psicóloga #Liderança"
+          "legenda": "Você cuida de todo mundo. Mas quem cuida de você?\n\n45% das mulheres brasileiras têm diagnóstico de ansiedade ou depressão.\nMais de 60% dos afastamentos por saúde mental no trabalho são de mulheres.\n\nEsses números têm um nome: custo invisível do cuidado.\n\nÉ o trabalho que ninguém vê: organização mental da casa, gestão emocional da família, disponibilidade constante. Invisível para os outros. Devastador para ela.\n\nE o pior: esse cuidado foi ensinado como virtude. 'Mulher boa é a que dá conta de tudo.' Quando ela para, a culpa vem primeiro — antes da cura.\n\nSe você está no limite, não é fraqueza. É o resultado de anos carregando o que nunca deveria ter sido só seu.\n\n💬 Quando foi a última vez que você colocou sua necessidade em primeiro lugar sem culpa?\n\n#SaúdeMental #CuidadoInvisível #BurnoutFeminino #PsicologiaFeminina #Autocuidado #PriscillaAndrade"
         },
         "carrossel": {
-          "ideia": "O que significa ser ativo estratégico para as empresas — e como a mulher pode parar de pedir desculpa pela sua presença no mercado.",
+          "ideia": "O custo invisível do cuidado explicado — o que é, como reconhecer no próprio corpo, e como começar a mudar.",
           "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Você é ativo estratégico.",
-              "subtitulo": "O mercado finalmente percebeu — agora é sua vez"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O que diz o relatório de 2026",
-              "texto": "A carreira feminina passou de pauta de diversidade para fator estratégico de competitividade. Empresas que investem em mulheres líderes têm melhores resultados — e os dados confirmam isso."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que o mercado enxerga em você",
-              "texto": "Inteligência relacional, capacidade de construção de consenso, visão sistêmica, resiliência. Habilidades que a mulher desenvolveu ao longo de décadas — e que agora o mercado reconhece como vantagem competitiva."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "Mas você ainda pede desculpa por existir?",
-              "texto": "A síndrome da impostora faz com que mulheres competentes minimizem seus resultados, recusem promoções e esperem permissão para liderar. O mercado já te deu o aval. Falta você mesma se dar."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Qual foi a última vez que você se desvalorizou profissionalmente? Me conta nos comentários. 💛"
-            }
+            {"numero": 1, "tipo": "Capa", "titulo": "O custo invisível do cuidado: por que você está exausta e ninguém vê", "subtitulo": "A raiz psicológica do adoecimento feminino que ninguém está nomeando"},
+            {"numero": 2, "tipo": "Contextualização", "titulo": "O que é o custo invisível do cuidado", "texto": "É o trabalho não pago e não reconhecido: gestão emocional da família, organização mental da casa, disponibilidade constante. Não aparece no contracheque — mas cobra um preço enorme na saúde mental."},
+            {"numero": 3, "tipo": "Desenvolvimento", "titulo": "Como ele aparece no corpo", "texto": "→ Cansaço que o sono não resolve\n→ Irritabilidade sem causa aparente\n→ Vazio mesmo cercada de pessoas\n→ Dificuldade de pedir ajuda\n→ Culpa quando tenta descansar"},
+            {"numero": 4, "tipo": "Virada", "titulo": "O que está acontecendo psicologicamente", "texto": "A mulher foi condicionada a acreditar que cuidar de si é egoísmo. Então adia, ignora os sinais, e só para quando o corpo para. O adoecimento não é fraqueza — é a única saída que ela encontrou para descansar sem culpa."},
+            {"numero": 5, "tipo": "CTA", "titulo": "Por onde começar", "texto": "Um pequeno passo: nomear UMA necessidade sua hoje — e atendê-la sem pedir permissão para ninguém. Isso é o começo."}
           ],
-          "legenda": "O mercado de 2026 finalmente colocou em números o que muitas já sabiam: mulher é ativo estratégico.\n\nMas de que adianta o mercado reconhecer se a gente ainda se sabota?\n\nEsse carrossel é para a mulher que precisa parar de pedir desculpa pelo espaço que ela mesma construiu.\n\nSalva e manda para aquela amiga incrível que ainda não acredita no próprio potencial. 💛\n\n#Carreira #Mulher #Liderança #SíndromeImpostora #PsicologiaFeminina #PriscillaAndrade #MercadoDeTrabalho"
+          "legenda": "O custo invisível do cuidado está adoecendo as mulheres em silêncio 👇\n\n60% dos afastamentos por saúde mental no trabalho são de mulheres. Não é coincidência.\n\nSalva esse carrossel e compartilha com uma mulher que precisa ouvir isso hoje 💛\n\n#CuidadoInvisível #SaúdeMental #BurnoutFeminino #PsicologiaFeminina #Autocuidado"
         }
       }
     }
