@@ -1,623 +1,613 @@
 {
-  "versao": "2026-07-25",
-  "gerado_em": "2026-07-25T06:00:00Z",
-  "contexto_do_dia": "Semana agitada nos relacionamentos famosos: Xamã e Sophie Charlotte foram flagrados de mãos dadas no RJ após 3 meses separados (reconciliação confirmada); Bruna Biancardi abriu o jogo sobre ter vivenciado traição; Alinne Moraes e Mauro Lima confirmaram separação após 14 anos. Nas tendências, 'beige flags' viralizou redefinindo o que é tolerável num relacionamento, 45% das brasileiras já têm diagnóstico de ansiedade e o Summit Mulheres nas Profissões espera 10 mil participantes em SP em agosto.",
+  "versao": "2026-07-27",
+  "gerado_em": "2026-07-27T10:00:00Z",
+  "contexto_do_dia": "A semana foi dominada por grandes separações: Alinne Moraes e Mauro Lima confirmaram o fim do casamento de 14 anos, Ivi Pizzott e Luis Navarro anunciaram divórcio após 10 anos com dois filhos pequenos, e Mara Maravilha revelou o término com Gabriel Torres. Internacionalmente, o suposto casamento secreto de Zendaya e Tom Holland acendeu debate sobre privacidade no amor. No campo social, o Julho das Pretas (25/07) reaqueceu a discussão sobre mulheres negras em postos de decisão, enquanto dados do INSS revelam que mais de 60% dos afastamentos por saúde mental no Brasil são de mulheres.",
   "items": [
     {
       "id": 1,
-      "titulo": "Xamã e Sophie Charlotte voltaram — mas o que esse vai-e-vem diz sobre ela?",
-      "resumo": "Xamã e Sophie Charlotte foram fotografados de mãos dadas em shopping do RJ após 3 meses separados, confirmando reconciliação. Para o público de Priscilla, o caso levanta uma pergunta poderosa: por que mulheres inteligentes ficam presas em ciclos de término e reconciliação? O ângulo psicológico é o padrão de apego ansioso e a ilusão de que 'voltar' é sinal de amor profundo.",
+      "titulo": "Alinne Moraes e Mauro Lima se separam após 14 anos — o que ninguém quer admitir sobre relacionamentos longos",
+      "resumo": "O casal, que formalizou a união em 2012, confirmou o fim do casamento nesta semana, chocando fãs que acreditavam na solidez da relação. Para o público de Priscilla, esse caso abre uma conversa urgente sobre como relacionamentos longos podem chegar ao fim não por desamor, mas por falta de evolução conjunta. O ângulo psicológico: a duração de um relacionamento não é sinônimo de saúde — e confundir os dois é um dos maiores erros emocionais das mulheres.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "Estrelando / fotos de paparazzi em shopping RJ, junho-julho 2026",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Estrelando.com.br — Separações famosos 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O vai-e-vem de Sophie Charlotte e Xamã não é romantismo — é apego ansioso que muitas mulheres normalizam.",
-          "gancho": "Sophie Charlotte e Xamã voltaram. De novo. E o internet adorou. Mas eu preciso te contar o que isso realmente significa.",
+          "ideia_central": "A separação de Alinne Moraes prova que tempo junto não é o mesmo que relacionamento saudável.",
+          "gancho": "14 anos juntos e ainda assim acabou. O que a separação de Alinne Moraes revela sobre o seu relacionamento também.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Sophie Charlotte e Xamã voltaram depois de 3 meses separados — e o internet tá comemorando. Mas espera. Eu preciso te dizer algo que ninguém tá falando."
+              "fala": "Alinne Moraes e Mauro Lima. 14 anos de casamento. E acabou. E se eu te dissesse que isso não é a exceção — é a regra?"
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Eles foram fotografados de mãos dadas no RJ. Fofo, né? Mas esse casal já teve idas e vindas antes. Separaram no Carnaval, ficaram 3 meses sem aparecer juntos, e voltaram. E as pessoas chamam isso de amor intenso. Eu chamo de outra coisa."
+              "fala": "A notícia saiu essa semana e muita gente ficou em choque. 'Mas eles pareciam tão bem!' Sim. E é exatamente isso que precisamos falar. Porque a maioria das separações longas não acontecem por uma traição, uma briga, um momento de ruptura. Elas acontecem em silêncio, ao longo de anos."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Psicologicamente, quando um casal repete ciclos de término e reconciliação, isso geralmente indica apego ansioso — onde a intensidade do sofrimento da separação é confundida com profundidade de amor. O alívio de voltar parece amor. Mas é regulação do sistema nervoso. E isso não resolve o que fez eles terminarem."
+              "fala": "A psicologia chama isso de 'erosão relacional'. O casal para de crescer junto. As conversas ficam na superfície. Cada um vai construindo uma vida paralela dentro do mesmo teto. E um dia, você acorda e não reconhece mais a pessoa ao lado. Tempo não cura isso. Só trabalho conjunto cura."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já ficou num ciclo desses? Terminou, sofreu muito, voltou e achou que era sinal de amor? Me conta aqui nos comentários."
+              "fala": "Comenta aqui: você já sentiu que o seu relacionamento estava 'longo' mas não estava evoluindo? Preciso saber."
             }
           ],
-          "legenda": "Sophie Charlotte e Xamã voltaram. E o internet vibrou.\n\nMas enquanto todo mundo comemora a reconciliação, eu — como psicóloga especialista em comportamento feminino — preciso te contar o que esse padrão de vai-e-vem realmente revela.\n\nQuando terminar dói demais e voltar parece alívio enorme... esse alívio é facilmente confundido com amor profundo.\n\nMas psicologicamente, o que acontece é diferente: é o sistema nervoso sendo regulado. O sofrimento da separação ativa nossos mecanismos de apego mais primitivos — e quando a pessoa volta, o alívio é tão intenso que o cérebro grava aquilo como 'prova de amor'.\n\nO problema? Nada do que causou o término foi resolvido.\n\nIsso é padrão de apego ansioso. E é muito mais comum do que parece — especialmente em mulheres que amam de verdade.\n\nMe conta: você já ficou num ciclo de término e volta?\n\n#relacionamentos #apegansioso #sophiecharlotte #xama #psicologia #comportamentofeminino #relacionamentosaudavel #priscillaandrade"
+          "legenda": "14 anos e acabou. 💔\n\nA separação de Alinne Moraes e Mauro Lima chocou muita gente essa semana — mas talvez não devesse.\n\nA gente romantiza duração. Pensa que porque deu 10, 14, 20 anos, o amor é sólido. Mas existe uma diferença crucial entre um relacionamento que durou e um relacionamento que cresceu.\n\nA erosão relacional é silenciosa. Ela não chega com uma traição ou uma briga feia. Ela chega quando as conversas ficam na superfície. Quando o casal para de ter curiosidade um pelo outro. Quando a rotina vira o único laço.\n\nE aí um dia você olha para o outro e não consegue mais se ver nessa história.\n\nIf que a duração não é mérito. Evolução conjunta é mérito.\n\nSalva esse post se você quiser revisitar essa reflexão. 💛\n\n#AlineMoraes #Separação #RelacionamentoSaudavel #Psicologia #ComportamentoFeminino #PriscillaAndrade #ErosaoRelacional #CasamentoERelacionamento"
         },
         "carrossel": {
-          "ideia": "Os 5 sinais de que você está num ciclo de apego ansioso — usando o caso Sophie e Xamã como ponto de partida.",
+          "ideia": "Os 5 sinais de que seu relacionamento está 'longo' mas não está evoluindo — baseado no que casos como o de Alinne Moraes ensinam.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Xamã e Sophie Charlotte voltaram. Mas isso é amor — ou apego ansioso?",
-              "subtitulo": "A psicóloga explica o que o vai-e-vem revela sobre relacionamentos"
+              "titulo": "14 anos e acabou.",
+              "subtitulo": "O que a separação de Alinne Moraes revela sobre o seu relacionamento"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
               "titulo": "O que aconteceu",
-              "texto": "Depois de 3 meses separados, Xamã e Sophie Charlotte foram flagrados de mãos dadas no RJ. Todo mundo comemorou. Mas existe um padrão aqui que merece atenção."
+              "texto": "Alinne Moraes e Mauro Lima confirmaram o fim do casamento de 14 anos esta semana. A notícia chocou — afinal, eles 'pareciam tão bem'. Mas é exatamente aí que está a armadilha."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "O ciclo que parece amor mas não é",
-              "texto": "No apego ansioso, a separação dói de forma intensa e desproporcional. Quando a pessoa volta, o alívio é tão enorme que o cérebro confunde aquilo com amor profundo. Mas o que resolveu? Nada."
+              "titulo": "Duração ≠ Saúde",
+              "texto": "Tempo junto não é sinônimo de relacionamento saudável. A psicologia chama de 'erosão relacional' o processo lento em que dois parceiros param de crescer juntos — e começam a construir vidas paralelas dentro do mesmo teto."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que poucos percebem: você pode estar regulando emoção, não amando",
-              "texto": "Ciclos de término e reconciliação são frequentemente mecanismos de regulação emocional — não provas de amor. Quanto mais intenso o sofrimento na separação, mais o retorno parece necessário. Isso mantém a mulher presa."
+              "titulo": "5 sinais de erosão relacional",
+              "texto": "1. As conversas ficam só na logística do dia a dia\n2. Você parou de sentir curiosidade genuína pelo outro\n3. Projetos futuros são mais 'meus' do que 'nossos'\n4. O silêncio deixou de ser confortável\n5. Você se sente mais sozinha dentro da relação do que fora dela"
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Já ficou num ciclo de vai e volta achando que a intensidade do sofrimento provava que era amor? Salva esse carrossel e me conta nos comentários."
+              "titulo": "E você reconhece algum desses sinais?",
+              "texto": "Comenta aqui qual número mais te tocou. Esse é o início de uma conversa importante — e você não precisa ter as respostas agora."
             }
           ],
-          "legenda": "O caso de Sophie Charlotte e Xamã levantou algo que eu precisava trazer aqui.\n\nCiclos de término e reconciliação são normalizados quando o casal é famoso e bonito. Mas o que está por trás disso, psicologicamente, é muito mais complexo.\n\nDesliza para entender o que é apego ansioso e por que tantas mulheres ficam presas nesse padrão sem perceber.\n\nSalva para quando precisar.\n\n#apegansioso #relacionamentos #sophiecharlotte #xama #psicologia #comportamentofeminino #relacionamentosaudavel"
+          "legenda": "O que a separação de Alinne Moraes nos ensina sobre relacionamentos longos 👇\n\nNão é sobre ela. É sobre o que a gente projeta nos casais famosos — e o que a gente evita enxergar no próprio.\n\nDesliza para ver os 5 sinais de erosão relacional que ninguém fala abertamente.\n\n💬 Comenta qual número você reconheceu.\n\n#AlinneMoreas #Separação #RelacionamentoSaudavel #Psicologia #ErosaoRelacional #PriscillaAndrade #ComportamentoFeminino #Casamento"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Alinne Moraes e Mauro Lima: 14 anos e acabou — o que ninguém te conta sobre perder um casamento longo",
-      "resumo": "Alinne Moraes e o cineasta Mauro Lima confirmaram separação após 14 anos juntos e um filho. A narrativa pública foi de separação amigável, mas para o público de Priscilla gera uma discussão poderosa: por que o fim de um casamento longo, mesmo sem drama, causa uma crise de identidade tão profunda nas mulheres? O ângulo psicológico é a identidade relacional feminina.",
+      "titulo": "Ivi Pizzott e Luis Navarro se separam com dois filhos pequenos — o que ninguém fala sobre divórcio com crianças",
+      "resumo": "O casal anunciou o fim do casamento de 10 anos sendo pais de Kali (7) e Zuri (3). Para o público de Priscilla, esse caso abre uma conversa sobre como a separação com filhos pequenos expõe dinâmicas que o casal nunca resolveu enquanto estava junto. O ângulo psicológico: casais que ficam juntos 'pelos filhos' costumam criar o ambiente mais prejudicial que queriam evitar.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["lo-fi"],
-      "fonte": "Colunista Ancelmo Gois / O Globo — separação de Alinne Moraes e Mauro Lima, 2026",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Estrelando.com.br — Separações famosos 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A separação de Alinne Moraes após 14 anos revela por que o fim de um casamento longo destrói a identidade feminina — e como reconstruir.",
-          "gancho": "Alinne Moraes e Mauro Lima: 14 anos juntos, um filho — e acabou. E a primeira coisa que eu pensei foi: quem é a Alinne agora?",
+          "ideia_central": "O caso de Ivi Pizzott prova que ficar junto pelos filhos pode ser o maior erro que pais separam de amor.",
+          "gancho": "Ivi Pizzott e Luis Navarro terminaram. Dois filhos pequenos. E a frase que mais ouço em consultório é: 'Fiquei por causa deles'. Precisamos conversar.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Alinne Moraes e Mauro Lima terminaram depois de 14 anos juntos. E a minha primeira pergunta não foi 'por que?'. Foi: quem é a Alinne agora?"
+              "fala": "Ivi Pizzott e Luis Navarro anunciaram o fim do casamento de 10 anos essa semana. Dois filhos pequenos, Kali e Zuri. E eu sei o que você está pensando agora."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Eles se casaram em 2012, têm um filho, Pedro, e se separaram de forma amigável. Tudo tranquilo na narrativa pública. Mas quando um casamento de mais de uma década termina, mesmo que bem, existe uma crise silenciosa que ninguém fala: a crise de identidade."
+              "fala": "A primeira reação de muita gente foi: 'Coitados das crianças'. E eu entendo. Mas, como psicóloga, preciso te dizer: o que mais machuca crianças não é a separação dos pais. É conviver diariamente com dois adultos infelizes que ficam juntos fingindo que tudo está bem."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Quando uma mulher vive mais de dez anos numa relação, parte da identidade dela fica ancorada naquele papel: esposa de, mãe junto com, parceira de. Quando isso acaba — mesmo sem briga, mesmo em paz — há uma pergunta que aparece: quem eu sou agora, sozinha? E essa pergunta assusta muito mais do que as pessoas admitem."
+              "fala": "Crianças são antenas emocionais. Elas captam a tensão, o distanciamento, o silêncio pesado. E aprendem, desde cedo, que amor é sufocamento. Dois pais que se respeitam separados ensinam mais sobre relacionamentos saudáveis do que um casal que convive em guerra fria por anos a fio."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já passou por isso? Ou conhece alguém que passou? Manda aqui nos comentários."
+              "fala": "Se você está passando por isso, comenta 'força' aqui. E salva esse vídeo — porque às vezes a gente precisa ouvir isso mais de uma vez."
             }
           ],
-          "legenda": "Alinne Moraes e Mauro Lima confirmaram o fim do casamento depois de 14 anos. E todos disseram 'que pena, mas ficaram amigos'.\n\nMas o que ninguém fala é sobre a crise silenciosa que vem depois de um relacionamento longo terminar — mesmo que sem drama.\n\nQuando você constrói 14 anos ao lado de alguém, parte de quem você é fica amarrada àquele papel. Esposa. Mãe-junto-com. Parceira-de.\n\nQuando isso acaba, aparece uma pergunta que assusta: quem sou eu, agora, sozinha?\n\nIsso não é fraqueza. É identidade relacional — um fenômeno muito comum na psicologia feminina, e que quase nunca é nomeado.\n\nVocê já sentiu isso? Me conta.\n\n#alinnemorares #separacao #identidade #psicologiafeminina #relacionamentos #autoconhecimento #priscillaandrade"
+          "legenda": "Ivi Pizzott e Luis Navarro anunciaram o fim do casamento essa semana. 10 anos juntos, dois filhos pequenos. 💔\n\nE sei que a primeira reação de muita gente foi: 'Coitados das crianças.'\n\nMas eu preciso te dizer algo como psicóloga:\n\nO que mais machuca crianças NÃO é a separação dos pais.\n\nÉ conviver com dois adultos infelizes que ficam juntos por obrigação.\n\nCrianças são antenas emocionais. Elas sentem a tensão, o distanciamento, o silêncio carregado. E aprendem que amor é isso: peso, sacrifício, ausência de alegria.\n\nDois pais que se respeitam separados são um presente. Uma família unida e disfuncional é um trauma.\n\nSe você está passando por isso, comenta aqui. Você não está sozinha. 💛\n\n#IviPizzott #Separação #FilhosEDivorcio #Psicologia #FamiliaeSaúdeMental #PriscillaAndrade #ComportamentoFeminino #Maternidade"
         },
         "lo-fi": {
-          "ideia": "Conversa íntima sobre o vazio de identidade que vem depois de um casamento longo terminar.",
-          "gancho": "Alinne Moraes separou depois de 14 anos. E eu preciso falar sobre o que ninguém cobre nessa notícia.",
+          "ideia": "Um desabafo íntimo sobre o mito de 'ficar pelos filhos' — a partir do caso de Ivi Pizzott.",
+          "gancho": "Ivi Pizzott se separou essa semana. E a primeira coisa que ouvi foi 'coitadas as crianças'. Deixa eu te contar o que eu penso sobre isso como psicóloga.",
           "o_que_falar": [
-            "Contexto do caso: 14 anos, um filho, separação amigável — mas isso não significa que é fácil por dentro.",
-            "Insight psicológico: identidade relacional — quando parte do 'quem você é' está amarrada à relação. Fim da relação = crise de identidade.",
-            "Conexão com a vida das seguidoras: quantas de vocês já acordaram depois de uma separação longa sem saber o que gostar, o que querer, quem são.",
-            "CTA: se você já viveu isso ou está vivendo, me conta aqui. Quero entender o que mais dói nesse processo."
+            "Contextualiza: Ivi e Luis terminaram o casamento de 10 anos, dois filhos pequenos, anúncio essa semana",
+            "Insight psicológico: crianças são antenas emocionais — elas sentem a tensão do casal infeliz muito antes de entender o que é separação",
+            "Conexão com a vida das seguidoras: quantas mulheres ficam em relacionamentos ruins por medo do que a separação vai fazer com os filhos — e esquecem o que a infelicidade já está fazendo",
+            "CTA: comenta se você ou alguém próxima já viveu essa decisão — 'ficar pelos filhos' ou 'ir por você e por eles'"
           ],
-          "legenda": "Alinne Moraes e Mauro Lima: 14 anos e acabou.\n\nE enquanto todo mundo cobre o lado público da notícia, eu preciso falar sobre o que acontece por dentro quando um casamento longo termina.\n\nÉ uma crise silenciosa. É a crise de identidade.\n\nPorque quando você passa anos sendo 'a esposa de', parte de quem você é fica ancorada naquilo. E quando acaba, você se pergunta: quem sou eu, agora?\n\nIsso é muito mais comum do que as pessoas admitem. E muito mais doloroso do que parece na notícia.\n\nVocê já sentiu isso?\n\n#separacao #identidade #psicologiafeminina #alinne #relacionamentos #autoconhecimento",
-          "vibe": "Câmera estática, luz natural, tom íntimo e próximo. Olho direto na câmera, tom de conversa entre amigas. Sem cortes rápidos."
+          "legenda": "Sobre o caso de Ivi Pizzott e a frase que mais ouço no consultório: 'fiquei pelos filhos.' 💛\n\nEssa conversa é necessária.\n\nCrianças não precisam de pais juntos. Precisam de pais presentes, leves e saudáveis — mesmo que em casas separadas.\n\nComenta aqui o que você pensa sobre isso. 👇\n\n#IviPizzott #Separação #FilhosEDivorcio #Psicologia #PriscillaAndrade #SaudeMentalFeminina #Maternidade #ComportamentoFeminino",
+          "vibe": "Câmera estática, luz natural suave, tom íntimo e direto — como se fosse uma conversa entre amigas. Sem produção excessiva. Pode estar em casa, sentada."
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Bruna Biancardi abriu o jogo sobre a traição — e o que ela revelou diz tudo sobre o que mulheres aguentam por amor",
-      "resumo": "Bruna Biancardi fez declarações públicas sobre ter vivenciado traição em seu relacionamento, tornando-se um dos assuntos mais comentados nas redes sociais brasileiras. O caso abre espaço para discutir por que mulheres altamente capazes escolhem ficar após traições — e o papel do vínculo traumático, da maternidade e da escalada de comprometimento nesse processo.",
+      "titulo": "Mara Maravilha termina com Gabriel Torres — o que move uma mulher a apostar no amor depois dos 50",
+      "resumo": "Mara Maravilha anunciou nas redes sociais o fim do relacionamento com Gabriel Torres. O caso é relevante para o público de Priscilla porque toca num tema pouco discutido: a coragem (e a vulnerabilidade) de mulheres mais velhas que decidem se arriscar no amor novamente. O ângulo psicológico: a sociedade pune mulheres que amam tardio e ainda assim apostam — mas essa é, na verdade, uma das expressões mais maduras do autoconhecimento feminino.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["post-estatico"],
-      "fonte": "Estrelando — 'famosos que já abriram o jogo sobre traição', maio-julho 2026",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Noticiasaominuto.com.br / Estrelando.com.br — famosos traição 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "Bruna Biancardi falar publicamente sobre traição é um espelho para milhões de mulheres que normalizam o inaceitável.",
-          "gancho": "Bruna Biancardi finalmente falou sobre a traição. E a pergunta que ninguém está fazendo é: por que uma mulher linda, bem-sucedida e mãe aguenta isso?",
+          "ideia_central": "Mara Maravilha terminou. Mas o ato de se arriscar no amor depois dos 50 é, na verdade, o maior sinal de saúde emocional.",
+          "gancho": "Mara Maravilha terminou com Gabriel Torres. E já tem gente comentando 'nossa, ela nunca aprende'. Eu preciso responder isso.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Bruna Biancardi abriu o jogo sobre a traição. E a internet foi dividida entre 'coitada' e 'ela sabia'. Mas eu quero fazer a pergunta que realmente importa."
+              "fala": "Mara Maravilha anunciou o fim do relacionamento com Gabriel Torres. E já apareceu aquele comentário: 'ela nunca aprende'. Sabe o que eu acho disso? Que diz muito mais sobre quem comenta do que sobre ela."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Bruna é linda, é empreendedora, é mãe, tem uma vida invejável nas redes. E mesmo assim, ficou numa situação de traição — e falou sobre isso publicamente. Isso não é fraqueza. Mas revela algo importante sobre como o amor pode distorcer a percepção que temos de nós mesmas."
+              "fala": "A gente tem um problema cultural sério com mulheres que amam depois de uma certa idade. Existe uma narrativa tóxica que diz que mulher que se arrisca no amor depois dos 50 é ingênua, desesperada, tola. Que depois de tanto sofrimento, ela deveria ter 'aprendido a lição' e ficado sozinha."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Psicologicamente, quando uma mulher tem um filho com alguém e investiu anos numa relação, o custo emocional de sair parece maior do que o custo de ficar. Isso se chama escalada de comprometimento. Somado ao vínculo traumático — onde dor e amor estão tão misturados que a mulher não consegue separar — fica difícil enxergar a saída. Isso não é burrice. É um mecanismo psicológico real."
+              "fala": "Mas a psicologia diz o contrário. Continuar se abrindo para o amor após múltiplas decepções é um sinal de maturidade emocional e resiliência, não de ingenuidade. Mulher que ainda aposta no amor não é fraca. Ela é corajosa. E quando não dá certo, ela chora, se levanta e segue. Isso se chama saúde."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já ficou numa situação que sabia que precisava sair, mas não conseguia? Me conta aqui embaixo."
+              "fala": "Você concorda? Ou acha que tem uma hora de parar de tentar? Comenta aqui embaixo."
             }
           ],
-          "legenda": "Bruna Biancardi falou. E o que ela disse ecoa na vida de muitas mulheres que nunca vão ter microfone pra isso.\n\nNão é sobre ela ser 'coitada' ou sobre 'ela sabia'. É sobre entender por que mulheres incríveis ficam em situações de traição.\n\nE a resposta não é simples — mas é poderosa.\n\nExiste um fenômeno chamado vínculo traumático: quando dor e amor se misturam tanto que a mulher não consegue mais separar um do outro.\n\nSomado a isso: maternidade, anos de investimento, identidade construída na relação. O custo emocional de sair parece maior do que o de ficar.\n\nIsso não é falta de amor próprio. É um mecanismo psicológico que precisa ser nomeado para ser quebrado.\n\nSe você já ficou numa situação assim, você não é fraca. Você estava presa num ciclo que vai muito além da superfície.\n\nMe conta: já ficou mais tempo do que devia por medo de perder o que tinha?\n\n#brunabiancardi #traicao #vinculotraumatico #relacionamentos #psicologiafeminina #autoestima #priscillaandrade"
+          "legenda": "Mara Maravilha terminou com Gabriel Torres essa semana. 💔\n\nE os comentários vieram: 'ela nunca aprende', 'com essa idade ainda assim', 'devia ter ficado sozinha'.\n\nVou ser direta: esse discurso é violento.\n\nA gente pune mulheres que continuam apostando no amor. Como se a única opção inteligente fosse se fechar, se proteger, nunca mais se arriscar.\n\nMas existe uma diferença enorme entre ser ingênua e ser corajosa.\n\nMulher que se abre para o amor depois de múltiplas decepções não é tola. Ela é emocionalmente saudável. Ela conhece a dor — e escolhe tentar de novo mesmo assim.\n\nEssa é, na minha visão, uma das expressões mais maduras do autoconhecimento feminino.\n\nE você? Ainda aposta no amor? Comenta aqui. 💛\n\n#MaraMaravilha #Separação #AmorDepoisDos50 #Psicologia #ComportamentoFeminino #PriscillaAndrade #SaudeMentalFeminina #Autoconhecimento"
         },
         "post-estatico": {
-          "ideia": "Frase de impacto que ressoa com mulheres que já ficaram mais tempo do que deviam num relacionamento.",
-          "titulo_visual": "Ficar depois da traição não é fraqueza.\nÉ um mecanismo psicológico que tem nome.",
-          "legenda": "Bruna Biancardi abriu o jogo. E muito além da fofoca, o que ela disse revela algo que afeta milhões de mulheres.\n\nVínculo traumático. Escalada de comprometimento. Custo emocional de sair.\n\nEsses são os mecanismos reais que prendem mulheres incríveis em situações que não merecem.\n\nNão é fraqueza. É psicologia.\n\nSe você já viveu isso, salva esse post. E se precisar conversar, estou aqui.\n\n#brunabiancardi #traicao #vinculotraumatico #psicologiafeminina #relacionamentos #autoestima",
-          "cta": "Você já ficou mais tempo do que devia? Me conta nos comentários."
+          "ideia": "Transformar o caso de Mara Maravilha numa frase de impacto sobre mulheres que continuam apostando no amor.",
+          "titulo_visual": "Mulher que ainda se arrisca no amor depois de tudo que viveu não é ingênua. É corajosa.",
+          "legenda": "Mara Maravilha terminou o relacionamento essa semana. E os comentários não perdoaram.\n\nMas eu me recuso a chamar de fraqueza o que é, na verdade, uma das maiores coragens que uma mulher pode ter: continuar se abrindo para o amor mesmo depois de ter sido machucada. 💛\n\nSalva esse post se isso faz sentido pra você.\n\n#MaraMaravilha #AmorFeminino #Psicologia #PriscillaAndrade #Autoconhecimento #ComportamentoFeminino #Relacionamentos",
+          "cta": "Salva e manda pra aquela amiga que ainda acredita no amor."
         }
       }
     },
     {
       "id": 4,
-      "titulo": "Ivi Pizzott e Luis Navarro: separação após 10 anos mostra o que mata relacionamentos em silêncio",
-      "resumo": "Ivi Pizzott e Luis Navarro anunciaram fim do casamento após 10 anos e duas filhas (Kali, 7, e Zuri, 3). O caso é relevante para mostrar que relações longas e aparentemente estáveis podem terminar de forma silenciosa — e que o desgaste acumulado é mais perigoso do que as crises visíveis.",
+      "titulo": "Zendaya e Tom Holland se casaram em segredo — o que guardar o amor da internet diz sobre saúde relacional",
+      "resumo": "O stylist de Zendaya, Law Roach, afirmou que o casal teria se casado secretamente, surpreendendo o mundo. Para o público de Priscilla, esse caso é uma oportunidade de discutir algo raro entre celebridades: a escolha consciente de proteger o amor da exposição pública. O ângulo psicológico: manter o relacionamento privado não é vergonha — é um ato sofisticado de preservação emocional.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "Estrelando — separações de famosos 2026",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "AOL.com — All the Celebrity Weddings in 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A separação de Ivi Pizzott depois de 10 anos e duas filhas mostra que o que mata relacionamentos longos não é uma explosão — é o acúmulo silencioso.",
-          "gancho": "Ivi Pizzott e Luis Navarro: 10 anos juntos, duas filhas — e acabou. Isso me faz pensar em algo que precisa ser dito.",
+          "ideia_central": "Zendaya e Tom Holland mostram que a maior prova de amor em 2026 é proteger o que você sente da exposição das redes.",
+          "gancho": "Zendaya e Tom Holland se casaram em segredo. Sem foto, sem post, sem anúncio. E isso me diz tudo sobre a saúde desse relacionamento.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Ivi Pizzott e Luis Navarro terminaram depois de 10 anos. Duas filhas. E a pergunta que fica é: como um casal que durou tanto chega ao fim?"
+              "fala": "Zendaya e Tom Holland supostamente se casaram — e você só ficou sabendo pelo stylist dela. Nenhuma foto. Nenhum post. E eu acho isso lindo."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Eles têm Kali, de 7 anos, e Zuri, de 3. Uma família linda. Mas de repente, 10 anos não foram suficientes. E isso não é raro — relacionamentos longos também morrem. Só que a morte costuma ser mais lenta."
+              "fala": "A gente vive numa era em que as pessoas postam o relacionamento antes mesmo de ele estar estabelecido. Foto de primeiro encontro. Stories do café da manhã junto. 'Officializando' no Instagram para um relacionamento que tem duas semanas. Isso é normal agora. E eu preciso dizer: isso tem um custo emocional enorme."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "O que mais mata relacionamentos longos não é uma traição ou uma briga grande. É o acúmulo silencioso: pequenas negligências emocionais, falta de admiração ao longo do tempo, cada pessoa crescendo em direções diferentes sem perceber. O amor vai sendo substituído pela rotina e a intimidade vira distância disfarçada de conforto."
+              "fala": "Quando você expõe seu relacionamento para validação externa, você começa a gerenciar a percepção, não a conexão. Você começa a performar amor em vez de vivê-lo. A escolha de Zendaya de manter o casamento privado não é elitismo de celebridade. É uma decisão que qualquer pessoa pode tomar — e que protege o que há de mais precioso: a intimidade real."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Se você está num relacionamento longo, te pergunto: quando foi a última vez que vocês se escolheram de verdade? Pensa nisso."
+              "fala": "Você acha que postar o relacionamento nas redes ajuda ou atrapalha? Comenta aqui."
             }
           ],
-          "legenda": "Ivi Pizzott e Luis Navarro. 10 anos. Duas filhas. Fim.\n\nE a gente fica com aquela pergunta: como um casamento longo chega ao fim?\n\nNa maioria das vezes, não é com uma explosão. É com um sussurro.\n\nÉ o acúmulo de pequenas negligências emocionais. É cada um crescendo em direções opostas sem se reconectar no caminho.\n\nRelacionamentos longos também morrem. Só que a morte costuma ser mais lenta e mais silenciosa.\n\nE o que mais dói não é o fim em si — é perceber que o distanciamento começou há muito tempo e ninguém fez nada.\n\nSe você está num relacionamento há anos, uma pergunta simples: quando foi a última vez que você se sentiu realmente escolhida?\n\nMe conta nos comentários.\n\n#ivipizzott #separacao #relacionamentoslongos #casamento #psicologia #comportamentofeminino #priscillaandrade"
+          "legenda": "Zendaya e Tom Holland se casaram — e a internet só ficou sabendo pelo stylist dela. Sem post. Sem anúncio. Sem foto. 🤍\n\nE enquanto todo mundo tentava encontrar algum registro nas redes, eu estava aqui pensando: isso é exatamente o que uma relação saudável parece.\n\nA gente normalizou expor o amor para validação externa. E esqueceu que o que você oferece para os olhos do mundo, você tira da intimidade que vocês dois têm.\n\nRelacionamento não precisa de audiência para ser real.\n\nSe você e seu parceiro conseguem estar bem sem postar, sem provar, sem performar — parabéns. Vocês têm algo raro.\n\nComenta aqui: você posta muito ou pouco do seu relacionamento? E por quê? 💛\n\n#Zendaya #TomHolland #Relacionamento #Privacidade #Psicologia #PriscillaAndrade #ComportamentoFeminino #SaudeRelacional"
         },
-        "carrossel": {
-          "ideia": "Os 5 sinais silenciosos de que um relacionamento longo está morrendo — sem brigas, sem traições.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "5 sinais de que seu relacionamento está morrendo em silêncio",
-              "subtitulo": "Ivi Pizzott e Luis Navarro nos lembraram: casamentos longos também terminam"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "10 anos não são garantia",
-              "texto": "Ivi Pizzott e Luis Navarro anunciaram o fim do casamento depois de 10 anos e duas filhas. Relacionamentos longos também terminam — e a morte costuma ser mais lenta do que a gente imagina."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Os sinais que aparecem antes do fim",
-              "texto": "1. Vocês param de se contar o dia. 2. A admiração vira crítica. 3. O silêncio deixa de ser confortável. 4. As decisões são tomadas individualmente. 5. Você para de se sentir vista."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem: não é falta de amor — é desconexão acumulada",
-              "texto": "A maioria dos relacionamentos não termina com traição. Termina com negligência emocional acumulada. Com dois adultos crescendo em direções opostas sem se reconectar no caminho."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Algum desses sinais está presente no seu relacionamento? Salva esse carrossel e me conta nos comentários."
-            }
+        "lo-fi": {
+          "ideia": "Uma reflexão íntima sobre o que significa proteger o amor das redes sociais, a partir do casamento secreto de Zendaya.",
+          "gancho": "Zendaya se casou e ninguém sabia. E eu fiquei pensando: quando foi a última vez que você viveu algo bonito sem precisar postar?",
+          "o_que_falar": [
+            "Contextualiza: o casamento secreto de Zendaya e Tom Holland veio à tona pelo stylist dela — sem nenhum post do casal",
+            "Insight psicológico: quando você expõe o relacionamento para a internet, você começa a gerenciar a percepção do amor, não o amor em si",
+            "Conexão com a vida das seguidoras: quantas vezes você postou algo do relacionamento mais por ansiedade de mostrar do que por alegria genuína?",
+            "CTA: manda esse vídeo pra quem precisa ouvir que amor não precisa de audiência"
           ],
-          "legenda": "Ivi Pizzott e Luis Navarro terminaram depois de 10 anos. E isso nos lembra: durar muito não é garantia de ser saudável.\n\nO que mata relacionamentos longos geralmente não é uma traição — é o silêncio acumulado.\n\nDesliza para ver os 5 sinais que aparecem antes do fim — e que muita gente ignora.\n\nSalva se isso fez sentido pra você.\n\n#ivipizzott #casamento #relacionamentos #psicologia #comportamentofeminino"
+          "legenda": "Zendaya se casou em segredo. E isso me fez pensar em você. 🤍\n\nQuando foi a última vez que você viveu algo bonito sem precisar compartilhar?\n\nAmor não precisa de validação externa. Ele só precisa de dois.\n\n#Zendaya #Relacionamento #Privacidade #PriscillaAndrade #Psicologia #ComportamentoFeminino",
+          "vibe": "Câmera estática, tom reflexivo e suave, luz quente natural. Pode segurar uma xícara de café. Clima de intimidade — como se estivesse falando com uma amiga próxima."
         }
       }
     },
     {
       "id": 5,
-      "titulo": "7 em 10 jovens mulheres sentem pressão para estar sempre arranjadas — o dado que muda como você olha pro espelho",
-      "resumo": "Pesquisas recentes mostram que 7 em cada 10 jovens mulheres sentem pressão constante para estar sempre apresentáveis, reflexo dos padrões de beleza amplificados pelas redes sociais. Para Priscilla, esse dado é um espelho para discutir como a pressão estética afeta autoestima, identidade e saúde mental — e como se libertar disso.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "semana",
+      "titulo": "Julho das Pretas: debate sobre mulher negra em postos de decisão — o que o topo do poder ainda recusa",
+      "resumo": "No mês do Dia Internacional da Mulher Negra Latino-Americana (25 de julho), um encontro no Rio debateu a ainda alarmante sub-representação de mulheres negras em cargos de liderança. Para o público de Priscilla, esse é um tema de saúde mental coletiva: a ausência de referências no topo tem impacto direto na autoestima e na ambição de mulheres negras. O ângulo psicológico: não se pode sonhar com o que nunca se viu.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "Estudos sobre impacto das redes sociais na autoestima feminina (RevistaFT 2026; Estado de Minas maio 2026)",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Agência Brasil — Encontro no Rio debate papel da mulher preta em postos de decisão (julho 2026)",
       "copies": {
         "reels-react": {
-          "ideia_central": "7 em 10 mulheres pressionadas a estar sempre arranjadas é a prova de que a pressão estética virou uma segunda jornada de trabalho invisível.",
-          "gancho": "7 em cada 10 mulheres sentem pressão para estar sempre arranjadas. Esse dado saiu essa semana. E ele não é sobre vaidade — é sobre exaustão.",
+          "ideia_central": "A sub-representação de mulheres negras no topo não é só questão política — é uma ferida na autoestima de milhões de mulheres que nunca viram alguém como elas no poder.",
+          "gancho": "Julho das Pretas. E o dado que mais me impacta como psicóloga não é político — é emocional. Você consegue sonhar com algo que nunca viu?",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "7 em cada 10 mulheres jovens sentem pressão para estar sempre apresentáveis. Esse dado saiu essa semana. E ele não é sobre vaidade. É sobre exaustão."
+              "fala": "É Julho das Pretas. E essa semana aconteceu no Rio um encontro debatendo o papel da mulher negra em postos de decisão. Eu preciso falar sobre o impacto psicológico disso."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "As redes sociais amplificaram um padrão que já existia, mas agora é constante: a mulher perfeita que acorda com a pele boa, o corpo sarado, a roupa certinha, a casa organizada, os filhos felizes, a carreira em ordem. E se você não está assim, você falhou. Isso não é motivação. É uma armadilha."
+              "fala": "Os números são conhecidos: mulheres negras representam uma das maiores fatias da população brasileira, mas são as menos presentes em cargos de liderança, em conselhos, em posições de poder. O debate político já acontece. Mas o debate psicológico — esse, poucos fazem."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Psicologicamente, essa pressão constante de 'precisar estar arranjada' é uma forma de vigilância do corpo que esgota o sistema nervoso. Você gasta energia mental monitorando sua aparência, comparando, ajustando — energia que podia estar sendo usada pra criar, pra se conectar, pra simplesmente existir. A exaustão não vem de fazer muito. Vem de nunca ser o suficiente."
+              "fala": "Existe na psicologia um conceito chamado 'espelho de representação'. A ideia é simples: a gente só consegue imaginar o que já viu. Quando uma menina negra cresce sem ver nenhuma mulher parecida com ela em posição de poder, ela não aprende que esse espaço é impossível para ela — ela simplesmente não aprende que existe. E aí a ambição morre antes mesmo de nascer."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você se reconhece nesse dado? Que pressão você mais sente sobre a sua aparência? Me conta aqui."
+              "fala": "Se você é mulher negra e viu alguma líder que te inspirou, comenta o nome dela aqui. Vamos criar nossa própria galeria de referências."
             }
           ],
-          "legenda": "7 em cada 10 mulheres jovens sentem pressão para estar sempre arranjadas. Esse dado diz muito mais do que parece.\n\nNão é sobre vaidade.\n\nÉ sobre uma segunda jornada de trabalho invisível que a maioria das mulheres faz todos os dias: monitorar a própria aparência, comparar, ajustar, corrigir.\n\nEssa vigilância constante do corpo é psicologicamente exaustiva. E os estudos já mostram associação direta com ansiedade, insatisfação corporal e dismorfia.\n\nOs algoritmos reforçam isso todo dia. Te mostram o que você 'deveria' ser.\n\nO que você pode fazer? Começar a questionar: essa pressão é minha ou foi construída pra mim?\n\nMe conta: qual pressão de aparência você mais sente?\n\n#autoestima #imagemcorporal #pressaoestetica #redessociais #psicologiafeminina #mulher #priscillaandrade"
+          "legenda": "Julho das Pretas. 🖤\n\nEssa semana, um encontro no Rio debateu a presença de mulheres negras em postos de decisão. E eu quero falar sobre o que esse debate significa emocionalmente — não só politicamente.\n\nExiste um conceito em psicologia chamado 'espelho de representação'. A gente só consegue imaginar com clareza o que já viu existir.\n\nQuando meninas negras crescem sem ver nenhuma mulher parecida com elas em cargos de liderança, elas não aprendem que esse espaço é proibido. Elas simplesmente não aprendem que existe.\n\nE aí a ambição morre antes mesmo de nascer.\n\nRepresentação não é só política. É saúde mental. É autoestima coletiva. É o direito de sonhar.\n\nComenta aqui o nome de uma líder negra que te inspira. Vamos criar nossa própria galeria. 🖤\n\n#JulhoDasPretas #MulherNegra #Representatividade #Psicologia #PriscillaAndrade #AutoestimaFeminina #Posicionamento #Carreira"
         },
         "carrossel": {
-          "ideia": "Como a pressão estética das redes virou uma segunda jornada de trabalho — e como sair disso.",
+          "ideia": "O que a ausência de representação feminina negra no poder faz com a psicologia de mulheres e meninas negras.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "A pressão de estar sempre arranjada está te esgotando — e você nem percebeu",
-              "subtitulo": "7 em 10 mulheres sentem isso. E tem um nome psicológico para isso."
+              "titulo": "Julho das Pretas.",
+              "subtitulo": "O que a ausência de mulheres negras no poder faz com a nossa mente"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O dado que você precisa conhecer",
-              "texto": "Pesquisas mostram que 7 em cada 10 jovens mulheres sentem pressão constante para estar sempre apresentáveis. Isso não é sobre querer se cuidar — é sobre não ter permissão de não estar perfeita."
+              "titulo": "O que aconteceu essa semana",
+              "texto": "No mês do Dia Internacional da Mulher Negra Lat.-Amer. (25/07), um encontro no Rio de Janeiro debateu a sub-representação de mulheres negras em cargos de decisão no Brasil."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "O que está por trás dessa pressão",
-              "texto": "Algoritmos que só mostram corpos e rostos perfeitos. Influencers que nunca têm um dia ruim. A sensação de que você precisa se manter para ser amada, desejada, respeitada. Isso é construído. E cansa."
+              "titulo": "O dado que mais impacta",
+              "texto": "Mulheres negras são uma das maiores fatias da população brasileira. Mas seguem sendo as menos presentes em boardrooms, conselhos e posições de poder. Isso não é coincidência. É estrutura."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "Vigilância do corpo: o esgotamento que ninguém nomeia",
-              "texto": "Psicologicamente, monitorar constantemente a própria aparência ativa o sistema de ameaça. Você gasta energia cognitiva que podia estar em outros lugares. O resultado: ansiedade, insatisfação crônica, dismorfia. Não é frescura — é ciência."
+              "titulo": "O impacto psicológico que ninguém calcula",
+              "texto": "'Espelho de representação': a gente só consegue imaginar o que já viu. Quando meninas negras crescem sem referências no topo, a ambição não é destruída — ela nunca é construída. A ausência de representação é uma ferida na autoestima antes mesmo de ser uma questão política."
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "A primeira pergunta para começar a sair disso:",
-              "texto": "'Essa pressão é minha, ou foi construída pra mim?' Salva esse carrossel e me conta qual pressão você mais sente."
+              "titulo": "Qual líder negra te inspira?",
+              "texto": "Comenta o nome dela aqui. Vamos criar nossa própria galeria de referências. Representação começa com cada uma de nós nomeando quem admira. 🖤"
             }
           ],
-          "legenda": "7 em 10 mulheres sentem pressão para estar sempre arranjadas. Esse número diz muito sobre o mundo em que vivemos.\n\nE por trás desse dado tem psicologia, algoritmo e um sistema que lucra com a sua insatisfação.\n\nDesliza para entender o que realmente está acontecendo — e a primeira pergunta que pode mudar tudo.\n\nSalva.\n\n#autoestima #imagemcorporal #pressaoestetica #psicologia #mulher #autoconhecimento"
+          "legenda": "Julho das Pretas. 🖤 O que a ausência de representação faz com a nossa mente — um olhar psicológico.\n\nDesliza para entender por que representatividade é saúde mental, não só política.\n\nComenta o nome de uma líder negra que te inspira. 💛\n\n#JulhoDasPretas #MulherNegra #Representatividade #Psicologia #PriscillaAndrade #AutoestimaFeminina #Carreira #Posicionamento"
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Influencers e autoestima: por que o Instagram ainda destrói a confiança feminina em 2026",
-      "resumo": "Reportagem do Estado de Minas (maio 2026) voltou a circular mostrando como a exposição a influencers nas redes amplifica insatisfação corporal e ansiedade, com especialistas ligando isso ao aumento de casos de dismorfia corporal. Para Priscilla — que é psicóloga e influencer — há um ângulo único: o paradoxo de buscar conexão numa plataforma que destrói a identidade.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "hoje",
+      "titulo": "10 milhões de mulheres empreendedoras no Brasil — e o peso invisível que esse número não conta",
+      "resumo": "Dados de julho de 2026 revelam que o Brasil tem mais de 10 milhões de mulheres empreendedoras, com crescimento expressivo em modelos de negócio acessíveis e flexíveis. Para o público de Priscilla, o ângulo é a sombra desse número: mulheres empreendedoras frequentemente trocam a CLT pela PJ sem abandonar a dupla jornada — e isso tem um custo emocional invisível. O ângulo psicológico: empreender sem se cuidar é só trocar um chefe pelo espelho.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["lo-fi"],
-      "fonte": "Estado de Minas — 'A pressão estética nas redes: o impacto de influencers na autoestima', maio 2026",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "IssoéSãoPaulo.com.br — Empreendedorismo feminino ganha força, julho 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A pressão estética no Instagram não diminuiu em 2026 — ficou mais sofisticada. E eu preciso falar sobre isso de dentro.",
-          "gancho": "Uma reportagem dessa semana mostrou que influencers ainda estão destruindo a autoestima de mulheres em 2026. Eu sou psicóloga. Eu sou influencer. E tenho algo importante a dizer.",
+          "ideia_central": "O Brasil tem 10 milhões de mulheres empreendedoras — e ninguém está falando do esgotamento por trás desse número.",
+          "gancho": "10 milhões de mulheres empreendedoras no Brasil. Número incrível. E eu vou te contar o lado que a matéria não mostrou.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Uma reportagem circulou essa semana: influencers ainda causam dano à autoestima de mulheres em 2026. Eu sou psicóloga. Sou influencer. E preciso falar sobre esse paradoxo."
+              "fala": "O Brasil tem mais de 10 milhões de mulheres empreendedoras. A notícia saiu essa semana celebrando esse número. E é lindo. E também é urgente falar o que está por baixo."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A pesquisa mostrou que exposição a corpos e rostos ideais está associada ao aumento de ansiedade e dismorfia. E o que piorou em 2026 é que a pressão ficou mais sofisticada: não é mais só foto retocada — é o wellness aesthetic, a mulher que acorda cedo, medita, come bem, treina, tem a casa bonita e ainda é feliz. Isso é tão danoso quanto o corpo magro."
+              "fala": "Boa parte dessas mulheres empreendeu não por liberdade, mas por necessidade. Para conciliar filho, casa e renda. Para ter a flexibilidade que a CLT não dava. E aí saíram de um chefe e foram trabalhar 14 horas por dia para si mesmas — sem carteira assinada, sem férias, sem descanso."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "A comparação social é automática — o cérebro faz isso sem pedir permissão. Quando o feed só mostra o melhor de todo mundo, o seu pior parece ainda maior. A chave não é sair das redes — é curadoria consciente do que você consome. Seu feed é o seu ambiente mental."
+              "fala": "Empreender sem trabalhar o seu próprio valor, os seus limites e a sua relação com o descanso é só trocar um ambiente tóxico por outro com o seu rosto. O empreendedorismo feminino só é libertador quando vai junto de um trabalho interno: saber cobrar, saber recusar, saber parar."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já percebeu seu humor mudar depois de rolar o feed? Me conta."
+              "fala": "Se você empreende, comenta aqui: liberdade ou sobrecarga? Ou os dois ao mesmo tempo?"
             }
           ],
-          "legenda": "Uma reportagem desta semana confirmou o que a psicologia já sabia: influencers ainda impactam negativamente a autoestima feminina — e em 2026 isso ficou mais sutil e mais difícil de perceber.\n\nEu sou psicóloga. E sou influencer. Então eu preciso falar sobre esse paradoxo de dentro.\n\nA pressão estética evoluiu. Não é só mais a foto retocada do corpo perfeito. Agora é o wellness aesthetic: acorda cedo, medita, toma água com limão, treina, trabalha, é boa mãe, tem a casa bonita, e ainda parece feliz o tempo todo.\n\nIsso também machuca. Porque a comparação social é automática.\n\nSeu feed é o seu ambiente mental. Escolha o que te nutre.\n\nVocê já percebeu seu humor mudar depois de rolar o Instagram?\n\n#autoestima #influencer #redessociais #imagemcorporal #psicologia #saudemental #priscillaandrade"
+          "legenda": "10 milhões de mulheres empreendedoras no Brasil. 🇧🇷\n\nEssa notícia veio essa semana celebrando o crescimento do empreendedorismo feminino. E eu celebro também.\n\nE ao mesmo tempo preciso falar sobre o que esse número esconde.\n\nPorque muitas dessas mulheres não empreenderam por sonho. Empreenderam por necessidade. Para encaixar a maternidade, a casa e a renda num calendário impossível.\n\nE aí saíram de um emprego que exigia demais e foram trabalhar para si mesmas — sem férias, sem limite de horário, sem ninguém dizendo 'pode parar'.\n\nEmpreendedorismo sem autoconhecimento é só outra forma de sobrecarga com CNPJ.\n\nO que faz o negócio de uma mulher prosperar de verdade não é só a estratégia. É saber o seu valor. É saber dizer não. É saber descansar.\n\nComenta aqui: sua experiência empreendendo é de liberdade ou de exaustão? 👇\n\n#Empreendedorismo #MulheresEmpreendedoras #PriscillaAndrade #Psicologia #Carreira #ComportamentoFeminino #Burnout #Autoconhecimento"
         },
-        "lo-fi": {
-          "ideia": "Conversa honesta e paradoxal: psicóloga que usa Instagram fala sobre o dano que o Instagram causa à autoestima.",
-          "gancho": "Sou psicóloga. Sou influencer. E preciso falar sobre o paradoxo de existir nessa plataforma.",
-          "o_que_falar": [
-            "Contexto: reportagem da semana mostrando que influencers ainda impactam negativamente a autoestima em 2026 — e como a pressão ficou mais sutil (wellness aesthetic).",
-            "Insight psicológico: comparação social automática. Quando o feed é de melhores momentos, seu pior parece amplificado.",
-            "Conexão pessoal: eu também rolo o feed e sinto isso. Ninguém é imune. Mas existe diferença entre consumir conscientemente e consumir passivamente.",
-            "CTA: desafio — siga 3 contas que te façam sentir bem hoje. Me marca."
-          ],
-          "legenda": "Sou psicóloga. E sou influencer. E hoje preciso falar sobre essa contradição.\n\nUma reportagem desta semana mostrou que influencers ainda impactam a autoestima feminina em 2026 — e que a pressão ficou mais sofisticada.\n\nNão é mais só sobre corpos. É sobre ter a vida perfeita, o autocuidado perfeito, a rotina perfeita.\n\nE o nosso cérebro compara isso automaticamente com a nossa vida real.\n\nSeu feed é seu ambiente mental. Escolha melhor.\n\nMe conta: você já fez uma limpeza no seu feed?\n\n#autoestima #redessociais #influencer #psicologiafeminina #imagemcorporal #autocuidado",
-          "vibe": "Câmera na mão, tom informal e honesto. Em casa, tom de desabafo construtivo. Sem filtro pesado — mostrar autenticidade."
+        "post-estatico": {
+          "ideia": "Transformar o dado de 10 milhões de empreendedoras num provocação sobre o custo invisível da liberdade.",
+          "titulo_visual": "10 milhões de mulheres empreendedoras. Quantas estão descansando?",
+          "legenda": "O Brasil tem mais de 10 milhões de mulheres empreendedoras — e esse número merece ser celebrado. 🎉\n\nMas também merece uma pergunta honesta: quantas dessas mulheres trocaram um chefe por outra forma de sobrecarga?\n\nEmpreender é poderoso. E só funciona quando vem junto de autoconhecimento, limites e cuidado com si mesma. 💛\n\nSalva esse post se você reconhece esse padrão.\n\n#Empreendedorismo #MulheresEmpreendedoras #PriscillaAndrade #Psicologia #Carreira #Autoconhecimento #ComportamentoFeminino",
+          "cta": "Salva e manda pra uma mulher empreendedora que precisa ouvir isso."
         }
       }
     },
     {
       "id": 7,
-      "titulo": "Summit Mulheres nas Profissões 2026: 10 mil mulheres em SP e o que isso revela sobre síndrome do impostor",
-      "resumo": "O Summit Mulheres nas Profissões (Grupo Mulheres do Brasil + Magazine Luiza) acontece em 4-5 agosto em SP, com 10 mil participantes esperadas. No mesmo período, encontro no RJ debate o papel da mulher preta em postos de decisão (25 jul). Para Priscilla, o ângulo psicológico é a síndrome do impostor: mulheres se preparam infinitamente para um espaço que já é delas.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "'Ser magra é ser feliz?' — o debate que Ana Rita Barros trouxe ao TikTok e que toca um trauma coletivo",
+      "resumo": "Ana Rita Barros, criadora de conteúdo conhecida no TikTok pela rubrica 'Conversas com a Gorda', acendeu um debate sobre a equação perversa entre corpo e felicidade. Para o público de Priscilla, esse é um caso que ilustra um trauma coletivo real: a crença de que o corpo precisa ser corrigido antes de merecer ser amado. O ângulo psicológico: a ideia de que 'quando eu emagrecer, minha vida começa' é uma armadilha que a indústria da beleza não quer que as mulheres percebam.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["post-estatico"],
-      "fonte": "boca.com.br — Summit Mulheres nas Profissões agosto 2026 / Agência Brasil — Encontro debate mulher preta em postos de decisão, 25 jul 2026",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Máxima.pt — 'Ser magra é ser feliz? O impacto da estética na saúde mental e o caso de Ana Rita', 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "10 mil mulheres num Summit de liderança em SP mostra que a busca por posicionamento feminino não é tendência — é urgência. Mas o que ainda segura essa mulher é o impostor interno.",
-          "gancho": "10 mil mulheres vão a um Summit de liderança em SP em agosto. E isso me diz algo sobre onde o Brasil feminino está agora.",
+          "ideia_central": "O debate de Ana Rita Barros prova que a frase 'quando eu emagrecer, minha vida começa' é um dos traumas mais comuns e mais silenciosos entre mulheres.",
+          "gancho": "Ana Rita Barros — criadora do TikTok 'Conversas com a Gorda' — virou assunto essa semana. E ela tocou em algo que vejo toda semana no consultório.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "O Summit Mulheres nas Profissões espera 10 mil participantes em São Paulo em agosto. Dez mil mulheres num evento de liderança e carreira. Isso não é tendência. É urgência."
+              "fala": "Ana Rita Barros, do TikTok 'Conversas com a Gorda', virou debate essa semana com uma pergunta simples e devastadora: ser magra é ser feliz? E eu, como psicóloga, tenho uma resposta muito clara."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Ao mesmo tempo, aqui no Rio, aconteceu nessa semana um encontro sobre o papel da mulher preta em postos de decisão, dentro do Julho das Pretas. Dois movimentos paralelos que mostram a mesma coisa: mulheres brasileiras estão com fome de ocupar espaço."
+              "fala": "7 em cada 10 jovens mulheres sentem pressão constante para estar sempre 'apresentáveis'. A comparação nas redes alimenta insatisfação corporal. E o que se vende é sempre a mesma ideia: que existe uma versão melhor de você esperando do outro lado de uma dieta, de um procedimento, de um número na balança."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mas tem um aspecto psicológico nessa busca que poucos falam: muitas mulheres se preparam infinitamente para ocupar um espaço que já é delas. Mais um curso, mais uma certificação, mais um pouco de experiência. Isso se chama síndrome do impostor — e é muito mais comum entre mulheres do que entre homens. O problema não é preparo. É permissão interna."
+              "fala": "Mas o que eu vejo no consultório é o seguinte: quando as mulheres chegam ao corpo que perseguiram por anos, a felicidade não aparece. Porque a felicidade nunca estava no corpo. Estava numa relação com elas mesmas que elas nunca desenvolveram enquanto estavam ocupadas odiando o que viam no espelho. O corpo nunca foi o problema."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você tem se preparado para algo que no fundo você já está pronta? Me conta nos comentários."
+              "fala": "Comenta aqui: você já viveu a fase de 'quando eu emagrecer, minha vida começa'? Quero ouvir."
             }
           ],
-          "legenda": "10 mil mulheres se inscrevendo num Summit de liderança feminina em SP.\n\nAo mesmo tempo, esta semana, um encontro no RJ debateu o papel da mulher preta em postos de decisão — dentro do Julho das Pretas.\n\nEsses dois eventos dizem a mesma coisa: mulheres brasileiras estão com fome de ocupar espaço. E estão se movimentando.\n\nMas como psicóloga, preciso trazer um ponto que aparece sempre:\n\nMuitas mulheres se preparam infinitamente para uma cadeira que já poderia ser delas. Mais um curso. Mais uma certificação.\n\nIsso tem um nome: síndrome do impostor. E é significativamente mais comum em mulheres.\n\nO que te falta não é preparo. É permissão. Para você mesma.\n\nVocê está esperando por quê? Me conta aqui.\n\n#liderancafeminina #summitmulheres #carreira #sindromeimpostor #psicologia #priscillaandrade"
+          "legenda": "'Ser magra é ser feliz?'\n\nAna Rita Barros, criadora do TikTok 'Conversas com a Gorda', trouxe esse debate essa semana. E ele toca um trauma coletivo que vejo toda semana no consultório. 💛\n\n7 em 10 jovens mulheres sentem pressão constante para estar 'apresentáveis'. A comparação nas redes alimenta insatisfação corporal. E o mercado vende sempre a mesma ideia: que existe uma versão melhor de você esperando do outro lado de uma dieta.\n\nMas aqui está o que eu aprendi depois de anos acompanhando mulheres:\n\nQuando elas chegam ao corpo que perseguiram por tanto tempo, a felicidade não aparece.\n\nPorque a felicidade nunca estava no corpo.\n\nEstava numa relação com elas mesmas que elas nunca desenvolveram — porque estavam ocupadas demais odiando o que viam no espelho.\n\nO corpo nunca foi o problema.\n\nComenta: você já viveu a fase de 'quando eu emagrecer, minha vida começa'? 👇\n\n#ImagemCorporal #AnaRitaBarros #Autoestima #Psicologia #PriscillaAndrade #ComportamentoFeminino #Autoimagem #SaudeMental"
         },
-        "post-estatico": {
-          "ideia": "Citação de impacto sobre síndrome do impostor contextualizada pelo momento do Summit.",
-          "titulo_visual": "Você não precisa de mais um curso.\nVocê precisa de permissão.",
-          "legenda": "10 mil mulheres vão ao Summit de Liderança em SP em agosto.\n\nE ainda assim, tantas delas vão chegar lá se perguntando se são boas o suficiente.\n\nA síndrome do impostor é real. E é desproporcionalmente feminina.\n\nO que te falta não é preparo.\n\nÉ permissão para ocupar o espaço que já é seu.\n\n#liderancafeminina #summitmulheres #carreira #sindromeimpostor #psicologia #mulher",
-          "cta": "Você se reconhece nisso? Me conta nos comentários."
+        "carrossel": {
+          "ideia": "Desmontando a crença de que o corpo precisa ser corrigido antes de merecer ser amado — a partir do debate de Ana Rita Barros.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "'Quando eu emagrecer, minha vida começa.'",
+              "subtitulo": "A psicologia por trás da frase mais perigosa que existe"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O debate da semana",
+              "texto": "Ana Rita Barros, criadora de conteúdo do TikTok 'Conversas com a Gorda', acendeu um debate com a pergunta: 'ser magra é ser feliz?' 7 em 10 jovens mulheres sentem pressão constante para estar sempre 'apresentáveis'."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O que o mercado vende",
+              "texto": "A indústria da beleza precisa que você acredite que existe uma versão melhor de você do outro lado de uma dieta, de um procedimento, de um número na balança. Porque enquanto você busca esse corpo, você consome."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O que eu vejo no consultório",
+              "texto": "Quando mulheres chegam ao corpo que perseguiram por anos, a felicidade não aparece. Porque a felicidade nunca estava no corpo. Estava numa relação com elas mesmas que elas nunca desenvolveram — enquanto estavam ocupadas odiando o espelho."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "Você já viveu isso?",
+              "texto": "Comenta aqui: 'quando eu emagrecer, minha vida começa' — você já disse essa frase? Esse é o início de uma conversa que pode mudar muita coisa. 💛"
+            }
+          ],
+          "legenda": "'Quando eu emagrecer, minha vida começa.' 💛\n\nA psicologia por trás da frase mais perigosa que existe — e o debate que Ana Rita Barros acendeu essa semana.\n\nDesliza e depois me conta: você já viveu essa fase? 👇\n\n#ImagemCorporal #AnaRitaBarros #Autoestima #Psicologia #PriscillaAndrade #ComportamentoFeminino #Autoimagem #SaudeMental"
         }
       }
     },
     {
       "id": 8,
-      "titulo": "Empreendedorismo feminino faturando até R$100 mil — o modelo silencioso que está mudando vidas no Brasil",
-      "resumo": "Reportagem desta semana mostrou empreendedoras femininas faturando até R$100 mil com negócios flexíveis nascidos de transições de carreira. Para Priscilla, o ângulo é psicológico: empreender é um ato de autoafirmação — a mulher que para de pedir permissão para construir o próprio caminho.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "Mais de 60% dos afastamentos por saúde mental no Brasil são de mulheres — e os dados de julho explicam por quê",
+      "resumo": "Dados divulgados no INSS e amplamente reportados esta semana revelam que mais de 60% dos afastamentos por saúde mental no Brasil têm mulheres como beneficiárias. Combinado com o dado de que 45% das brasileiras já receberam diagnóstico de ansiedade ou depressão, o quadro é de crise silenciosa. O ângulo psicológico: mulheres adoecem mais porque são criadas desde cedo para cuidar de todos — e aprendem que colocar a si mesmas em primeiro lugar é egoísmo.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "issoesaopaulo.com.br — 'Empreendedorismo feminino ganha força com transição de carreira e faturamentos de até R$100 mil', julho 2026",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "HiperNotícias — Mais de 60% dos afastamentos por saúde mental no Brasil são de mulheres / INSS 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O crescimento do empreendedorismo feminino não é só econômico — é uma declaração de que a mulher brasileira está deixando de pedir permissão.",
-          "gancho": "Uma reportagem essa semana mostrou mulheres faturando até R$100 mil com negócios que começaram pequenos. Mas o que me chamou atenção não foi o número — foi o porquê.",
+          "ideia_central": "Os dados do INSS revelam que mulheres adoecem mais mentalmente — e a causa raiz não é fraqueza, é o treinamento de toda uma vida para colocar todo mundo antes de si.",
+          "gancho": "60% dos afastamentos por saúde mental no Brasil são de mulheres. Esse dado saiu essa semana. E ele não me surpreende — mas precisa te surpreender.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Essa semana saiu uma reportagem: empreendedorismo feminino crescendo com faturamentos chegando a 100 mil reais. Mas o que me interessa não é o número. É o que levou essas mulheres até lá."
+              "fala": "Mais de 60% dos afastamentos por saúde mental no Brasil são de mulheres. Esse dado está circulando essa semana. E eu preciso te dizer por que isso acontece."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A maioria dessas empreendedoras começou com transição de carreira — mulheres que saíram do emprego formal em busca de autonomia, flexibilidade, sentido. Não foi um plano de negócio brilhante. Foi uma necessidade de ser a autora da própria história."
+              "fala": "45% das brasileiras já receberam diagnóstico de ansiedade, depressão ou outro transtorno mental. As mulheres têm duas vezes mais chances de desenvolver transtornos de humor do que os homens. E ainda assim — ainda assim — a narrativa que prevalece é de que mulher 'exagera', é 'dramática', 'não aguenta pressão'."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Psicologicamente, empreender é um ato de autoafirmação. Para muitas mulheres, o emprego formal foi um espaço onde elas foram subvalorizadas, onde o crescimento dependia da aprovação de outros. O negócio próprio vira um espaço onde a mulher pode ser inteira — profissional e humana ao mesmo tempo. E isso tem um valor que vai muito além do financeiro."
+              "fala": "Mulheres adoecem mais porque são treinadas desde criança para cuidar de todos — da casa, dos filhos, do parceiro, dos pais, do trabalho. E aprendem que colocar a si mesmas em primeiro lugar é egoísmo. Esse treinamento tem um preço. E o INSS está pagando essa conta."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você está em transição ou pensando em empreender? O que te segura? Me conta aqui."
+              "fala": "Você se reconhece nessa estatística? Comenta aqui e manda esse vídeo para uma mulher que precisa ouvir que se cuidar não é egoísmo."
             }
           ],
-          "legenda": "Mulheres faturando até R$100 mil com negócios nascidos de uma transição de carreira. Essa notícia saiu essa semana — e o número é secundário.\n\nO que importa é o motivo: autonomia, flexibilidade, sentido. A necessidade de ser a autora da própria história.\n\nPsicologicamente, empreender é um ato de autoafirmação feminina.\n\nPorque no emprego formal, muitas mulheres aprenderam a ser menos: menos exigentes, menos ambiciosas, menos inteiras.\n\nO negócio próprio vira um espaço para ser inteira. Para integrar o profissional e o humano.\n\nE isso tem um valor que vai muito além dos R$100 mil.\n\nVocê está pensando em empreender? O que te segura?\n\n#empreendedorismofeminino #carreira #autonomia #transitodecarreira #psicologia #mulher #priscillaandrade"
+          "legenda": "60% dos afastamentos por saúde mental no Brasil são de mulheres. 💛\n\nEsse dado está circulando essa semana — e ele não me surpreende. Mas precisamos falar sobre ele.\n\n45% das brasileiras já receberam diagnóstico de ansiedade ou depressão. Mulheres têm 2x mais chances de desenvolver transtornos de humor.\n\nE ainda assim a narrativa é: 'mulher exagera'. 'É dramática'. 'Não aguenta'.\n\nNão. Mulheres adoecem mais porque são treinadas desde cedo a cuidar de todo mundo — e a acreditar que cuidar de si mesmas é egoísmo.\n\nEsse treinamento tem um preço. Tem um nome nos dados do INSS.\n\nSe cuidar não é egoísmo. É urgência.\n\nManda esse post para uma mulher que precisa ouvir isso. 💛\n\n#SaudeMentalFeminina #Ansiedade #Psicologia #PriscillaAndrade #ComportamentoFeminino #INSS #Afastamento #CuidarDeSiMesma"
         },
-        "carrossel": {
-          "ideia": "Por que mulheres trocam o emprego estável pelo negócio próprio — a psicologia por trás da decisão.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Por que mulheres trocam o emprego estável pelo negócio próprio",
-              "subtitulo": "Não é só sobre dinheiro — a psicologia por trás do empreendedorismo feminino"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O dado da semana",
-              "texto": "Reportagem desta semana mostrou empreendedoras faturando até R$100 mil com negócios nascidos de transições de carreira. A maioria começou sem um grande plano — começou com uma necessidade de autonomia."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que as mulheres escapam deixando o emprego formal",
-              "texto": "Subvalorização crônica. Crescimento dependente da aprovação de outros. Precisar esconder maternidade, emoção, vida pessoal. Um ritmo que não foi feito para corpos nem mentes femininas."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "Empreender é um ato de autoafirmação",
-              "texto": "Psicologicamente, o negócio próprio é o primeiro espaço onde muitas mulheres podem ser inteiras — profissionais e humanas ao mesmo tempo. Isso não é fuga. É chegada."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Está pensando em empreender? O que te segura? Salva esse carrossel e me conta nos comentários."
-            }
-          ],
-          "legenda": "Mulheres faturando até R$100 mil com negócios nascidos de transições de carreira.\n\nMas o número não é o mais importante — é o porquê.\n\nDesliza para entender a psicologia por trás de por que tantas mulheres estão deixando o emprego estável para construir o próprio caminho.\n\nSalva se você se reconheceu aqui.\n\n#empreendedorismofeminino #carreira #autonomia #psicologia #mulher #transitodecarreira"
+        "post-estatico": {
+          "ideia": "Transformar a estatística dos 60% numa peça visual de impacto que convida à reflexão sobre autocuidado feminino.",
+          "titulo_visual": "60% dos afastamentos por saúde mental são de mulheres. Não é coincidência. É criação.",
+          "legenda": "Dado da semana: mais de 60% dos afastamentos por saúde mental no Brasil são de mulheres.\n\nMulheres não adoecem mais porque são frágeis. Adoecem mais porque aprenderam que cuidar de si mesmas é egoísmo. 💛\n\nSalva esse post. E cuida de você hoje.\n\n#SaudeMentalFeminina #Ansiedade #Psicologia #PriscillaAndrade #ComportamentoFeminino #CuidarDeSiMesma",
+          "cta": "Salva e manda pra uma mulher que precisa se dar permissão para descansar."
         }
       }
     },
     {
       "id": 9,
-      "titulo": "Slow living domina 2026 — e a ciência explica por que descansar virou ato de resistência feminina",
-      "resumo": "A tendência de slow living — desacelerar, priorizar descanso e cultivar prazer simples — domina o comportamento feminino em 2026 como resposta ao esgotamento de anos de produtividade tóxica. Para Priscilla, a oportunidade é posicionar o descanso não como preguiça, mas como ato de saúde mental e resistência — especialmente para mulheres condicionadas a nunca parar.",
+      "titulo": "Slow living domina 2026 — por que mulheres estão escolhendo desacelerar e o que isso revela",
+      "resumo": "A tendência do 'slow living' — desacelerar, priorizar descanso e tempo offline — está dominando o comportamento feminino em 2026, como apontam múltiplas pesquisas desta semana. Para o público de Priscilla, esse movimento não é apenas uma tendência de lifestyle: é uma resposta coletiva ao esgotamento de anos de produtividade tóxica. O ângulo psicológico: quando uma mulher escolhe descansar em vez de produzir, ela está quebrando um condicionamento que durou a vida toda.",
       "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["lo-fi"],
-      "fonte": "Estado de Minas — 'A tendência de autocuidado que vai dominar 2026 com descanso e tempo offline' / dados saúde mental feminina julho 2026",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Estado de Minas / afinamenina.com.br — Tendência de autocuidado e slow living para 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O slow living não é preguiça — é a resposta do corpo feminino a décadas de exigência de produtividade ininterrupta.",
-          "gancho": "A tendência mais forte de 2026 para mulheres não é produtividade. É descanso. E eu preciso te falar por que isso é revolucionário.",
+          "ideia_central": "O slow living que domina 2026 não é modismo — é a resposta coletiva de mulheres que aprenderam, na exaustão, que descanso é resistência.",
+          "gancho": "A tendência que está dominando 2026 entre mulheres não é uma dieta nova, não é uma rotina de produtividade. É o descanso. E isso muda tudo.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "A maior tendência de bem-estar de 2026 para mulheres é o slow living — desacelerar, descansar, estar presente. E isso não é modinha. É necessidade biológica e psicológica."
+              "fala": "A tendência que mais cresceu entre mulheres em 2026 não é uma nova dieta. Não é uma rotina de cinco da manhã. É o slow living — a escolha de desacelerar. E eu preciso te dizer o que está por trás disso."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Após anos de 'mulher maravilha' — que trabalha, cuida dos filhos, treina, come bem, tem a casa organizada e ainda sorri — os dados de esgotamento explodiram. 45% das brasileiras já têm diagnóstico de ansiedade. Mais de 60% dos afastamentos por saúde mental são de mulheres. O slow living surge como resposta: o descanso não é mais opcional."
+              "fala": "Pesquisas desta semana mostram que o movimento de desacelerar, priorizar descanso e reduzir o tempo online está crescendo especialmente entre mulheres. Depois de anos de 'hustle culture', de acordar às 5h para ser produtiva, de otimizar cada minuto — as mulheres estão dizendo: chega."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Psicologicamente, mulheres têm uma relação muito mais culposa com o descanso do que homens. Porque fomos condicionadas a valer pelo que produzimos. Não fazer nada parece irresponsabilidade. Mas o descanso não é ausência de atividade — é processamento. É quando o sistema nervoso se regula. Sem descanso, você não produz mais. Você sobrevive."
+              "fala": "Mas esse movimento não é preguiça. É ruptura. Porque mulheres foram condicionadas por gerações a não parar, a sempre ter mais a fazer, a sentir culpa quando descansam. Quando uma mulher escolhe o slow living, ela está desobedecendo um padrão muito antigo. Está dizendo que a sua presença vale mais do que a sua produção."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Quando foi a última vez que você descansou sem se sentir culpada? Me conta aqui."
+              "fala": "Você consegue descansar sem sentir culpa? Comenta aqui. Essa é uma das perguntas mais honestas que você pode fazer pra si mesma."
             }
           ],
-          "legenda": "A maior tendência de bem-estar de 2026 para mulheres não é mais um hack de produtividade. É o slow living. Desacelerar. Descansar. Estar presente.\n\nE isso não é modinha.\n\nÉ a resposta do corpo e da mente feminina a décadas de exigência de produzir ininterruptamente.\n\nOs números confirmam: 45% das brasileiras já têm diagnóstico de ansiedade. Mais de 60% dos afastamentos por saúde mental no trabalho são de mulheres.\n\nE ainda assim — a culpa de descansar persiste.\n\nPorque somos condicionadas a valer pelo que produzimos.\n\nMas o descanso é psicologicamente ativo. É regulação do sistema nervoso. É processamento. É quando você para de sobreviver e começa a viver.\n\nQuando foi a última vez que você descansou sem se sentir culpada?\n\n#slowliving #descanso #autocuidado #saudemental #produtividadetoxica #mulher #psicologiafeminina #priscillaandrade"
+          "legenda": "A tendência que domina 2026 entre mulheres: slow living. Desacelerar. Descansar. Desconectar. 🌿\n\nE eu, como psicóloga, precisei entender o que está por trás disso.\n\nNão é modismo. É resposta.\n\nÉ a resposta coletiva de mulheres que passaram anos acordando às 5h pra ser produtivas, otimizando cada minuto, sentindo culpa toda vez que paravam — e chegaram no limite.\n\nDescansar ainda é um ato de desobediência para muitas de nós. Porque fomos treinadas a acreditar que a nossa presença vale menos do que a nossa produção.\n\nMas está mudando.\n\nE você: consegue descansar sem sentir culpa? 💛\n\n#SlowLiving #Autocuidado #Descanso #Psicologia #PriscillaAndrade #ComportamentoFeminino #EstiloDeVida #BemEstar"
         },
         "lo-fi": {
-          "ideia": "Reflexão íntima sobre a culpa feminina de descansar — e por que o slow living é saúde, não preguiça.",
-          "gancho": "Eu precisei aprender a descansar sem me sentir culpada. E acho que muitas de vocês também.",
+          "ideia": "Uma conversa íntima e honesta sobre a culpa de descansar — a partir da tendência slow living que domina 2026.",
+          "gancho": "Você consegue descansar sem sentir culpa? Essa pergunta me perseguiu essa semana enquanto lia sobre o slow living dominando 2026.",
           "o_que_falar": [
-            "Contexto da tendência: slow living dominando 2026 como resposta ao esgotamento — e os números por trás (45% ansiedade, 60%+ afastamentos são de mulheres).",
-            "Insight psicológico: a culpa feminina de descansar — fomos condicionadas a valer pelo que produzimos, então parar parece irresponsabilidade.",
-            "Conexão pessoal: como psicóloga e mulher, minha própria relação com descanso. Autenticidade aqui é fundamental.",
-            "CTA: quando foi a última vez que você descansou sem se sentir culpada? Vou responder todos os comentários hoje."
+            "Contextualiza: a tendência slow living está crescendo entre mulheres em 2026 — menos produção, mais presença e descanso intencional",
+            "Insight psicológico: mulheres foram condicionadas a nunca parar — descansar ainda carrega culpa porque fomos ensinadas que produção é valor",
+            "Conexão com a vida das seguidoras: você já ficou num fim de semana sem 'fazer nada útil' e ficou ansiosa? Isso não é frescura — é o condicionamento falando",
+            "CTA: comenta se você consegue descansar de verdade ou se a culpa sempre aparece"
           ],
-          "legenda": "Slow living. Desacelerar. Descansar.\n\nEssa é a maior tendência de bem-estar de 2026 para mulheres. E não é à toa.\n\nAnos de 'seja mais, faça mais, produza mais' têm custo. E os dados mostram: as mulheres estão pagando essa conta com a saúde mental.\n\nO descanso não é preguiça. É regulação. É sobrevivência.\n\nE a culpa que você sente quando para? Essa foi ensinada. Não é sua.\n\nQuando foi a última vez que você descansou de verdade?\n\n#slowliving #descanso #autocuidado #saudemental #mulher #psicologiafeminina",
-          "vibe": "Câmera estática, luz suave e natural. Pode estar na cama, no sofá, ambiente aconchegante. Tom de confissão e acolhimento. Voz baixa, cadência lenta — o vídeo precisa sentir como descanso."
+          "legenda": "Você consegue descansar sem sentir culpa? 🌿\n\nEssa é a pergunta mais honesta que você pode fazer pra si mesma essa semana.\n\nO slow living está em alta em 2026 — e não é coincidência. É resposta coletiva.\n\nComenta aqui o que você sente quando 'não faz nada'. 💛\n\n#SlowLiving #Autocuidado #Descanso #Psicologia #PriscillaAndrade #ComportamentoFeminino #EstiloDeVida",
+          "vibe": "Câmera estática ou muito levemente tremida, ambiente calmo — pode estar numa cama, num sofá, num jardim. Tom suave, quase sussurrado. Luz natural. Vibe de fim de tarde. Sem música."
         }
       }
     },
     {
       "id": 10,
-      "titulo": "45% das brasileiras com diagnóstico de ansiedade — o dado que prova que a crise mental feminina não é frescura",
-      "resumo": "Dados recentes confirmam que 45% das brasileiras já receberam diagnóstico de ansiedade ou depressão, e mais de 60% dos afastamentos por saúde mental no trabalho são de mulheres. Para Priscilla, esses números são uma oportunidade de despatologizar a conversa e mostrar o contexto sistêmico por trás da crise — sem minimizar e sem alarmismo.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "hoje",
+      "titulo": "Beige flags: a nova tendência que mudou como julgamos pessoas em relacionamentos",
+      "resumo": "Após as 'red flags' e 'green flags', a expressão 'beige flag' viralizou nas redes: ela descreve comportamentos estranhos, peculiares ou levemente irritantes que uma pessoa tem, mas que não chegam a ser tóxicos. Para o público de Priscilla, esse é um ponto de entrada perfeito para falar sobre algo mais profundo: como a maturidade emocional muda a sua lupa na hora de avaliar um parceiro. O ângulo psicológico: a mulher que só tolera perfeição em relacionamentos geralmente está fugindo da intimidade real.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "evergreen",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "hnt.com.br — 'Mais de 60% dos afastamentos por saúde mental no Brasil são de mulheres' / pesquisa 45% das brasileiras com diagnóstico, julho 2026",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Terra.com.br — Nem red flag, nem green flag: entenda o que são as 'beige flags' no amor",
       "copies": {
         "reels-react": {
-          "ideia_central": "45% das brasileiras com diagnóstico de ansiedade não é coincidência — é o resultado de um sistema que exige demais e oferece suporte de menos.",
-          "gancho": "45% das brasileiras já foram diagnosticadas com ansiedade ou depressão. Esse dado saiu essa semana. E precisa de contexto.",
+          "ideia_central": "A sua reação às beige flags do parceiro revela mais sobre a sua maturidade emocional do que sobre ele.",
+          "gancho": "Red flag. Green flag. Agora é a vez das beige flags. E elas revelam algo que vai além do relacionamento — revelam sobre você.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "45% das brasileiras já têm diagnóstico de ansiedade ou depressão. Esse dado circulou essa semana. E a primeira reação de muita gente foi: 'nossa, frescura'. Eu preciso responder isso."
+              "fala": "Você já ouviu falar de 'beige flag'? É a mais nova tendência de relacionamento nas redes. E ela está me dando muito assunto."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Junto com isso: mais de 60% dos afastamentos por saúde mental no trabalho são de mulheres. Mulheres têm duas vezes mais chance de desenvolver transtornos de ansiedade e humor do que homens. Isso não é fraqueza. É contexto. A mulher brasileira ainda acumula trabalho remunerado, cuidado dos filhos, casa, relação, aparência — enquanto o suporte emocional que ela recebe é mínimo."
+              "fala": "Depois das red flags — que são os comportamentos tóxicos — e das green flags — que são os sinais saudáveis — as pessoas passaram a falar das beige flags: as manias estranhas, os hábitos esquisitos, as pequenas idiossincrasias que um parceiro tem e que não chegam a ser tóxicas, mas que incomodam um pouco. Ou muito."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "A ansiedade feminina não é uma falha individual. É uma resposta adaptativa a condições impossíveis. O sistema nervoso está fazendo exatamente o que foi programado para fazer: sinalizando perigo. O perigo é real — mas ele é sistêmico. E a cura não começa com 'seja mais forte'. Começa com nomear o que está pesando e se recusar a carregar sozinha."
+              "fala": "E aqui está a virada psicológica que eu preciso te dar: o problema não é a beige flag do outro. É o que ela desperta em você. Se você tem dificuldade de tolerar imperfeições no parceiro, se qualquer coisa fora do ideal te faz reconsiderar, isso raramente é sobre ele. É sobre um medo profundo de intimidade real — aquela que acontece quando você vê alguém como é de verdade, não como você idealizou."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você se identifica com esse dado? Já teve ou tem diagnóstico de ansiedade? Me conta — sem julgamento aqui."
+              "fala": "Comenta aqui a maior beige flag do seu parceiro ou ex. E depois me diz: você tolera bem as imperfeições ou aí está um ponto seu pra trabalhar?"
             }
           ],
-          "legenda": "45% das brasileiras já têm diagnóstico de ansiedade ou depressão.\n\nEsse dado saiu essa semana. E junto com ele: mais de 60% dos afastamentos por saúde mental no trabalho são de mulheres.\n\nIsso não é coincidência.\nNão é fraqueza.\nNão é frescura.\n\nÉ o resultado de um sistema que exige que a mulher seja: profissional, mãe, filha, parceira, amiga, sempre disponível, sempre sorrindo, sempre dando conta. Com suporte emocional mínimo.\n\nA ansiedade feminina é frequentemente uma resposta adaptativa a condições impossíveis. O sistema nervoso está funcionando perfeitamente — sinalizando perigo. O perigo é real. Só que ele é sistêmico, não pessoal.\n\nE a cura não começa com 'seja mais forte'.\nComeça com nomear o que está pesando. E se recusar a carregar sozinha.\n\nVocê se identifica? Me conta aqui — sem julgamento.\n\n#saudemental #ansiedade #depressao #mulher #psicologia #saudementalfeminina #priscillaandrade"
+          "legenda": "Red flag. Green flag. Agora: beige flag. 🏳️\n\nA nova tendência de relacionamento nas redes descreve aquelas manias estranhas, hábitos esquisitos e pequenas idiossincrasias do parceiro que não chegam a ser tóxicas — mas que te incomodam.\n\nE a pergunta que eu faço como psicóloga não é 'quais são as beige flags dele'.\n\nÉ: o que elas revelam sobre você?\n\nA mulher que só tolera perfeição em relacionamentos geralmente não está em busca do parceiro ideal. Ela está fugindo da intimidade real — aquela que acontece quando você vê alguém como ele é de verdade, não como você imaginou que ele fosse.\n\nMaturidade emocional não é encontrar alguém sem beige flags. É aprender a amar alguém com elas.\n\nComenta aqui: qual é a maior beige flag do seu parceiro (ou ex)? 👇\n\n#BeigeFlag #RelacionamentoSaudavel #Psicologia #PriscillaAndrade #ComportamentoFeminino #MaturidadeEmocional #Relacionamentos #RedFlag"
         },
         "carrossel": {
-          "ideia": "Por que 45% das brasileiras têm ansiedade — a perspectiva sistêmica que muda tudo.",
+          "ideia": "O que as beige flags do seu parceiro revelam sobre a sua maturidade emocional — guia prático.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "45% das brasileiras têm diagnóstico de ansiedade. Isso não é coincidência.",
-              "subtitulo": "A psicóloga explica o que está por trás desse número"
+              "titulo": "Beige flags: a sua reação diz mais sobre você do que sobre ele.",
+              "subtitulo": "O que a nova tendência dos relacionamentos revela sobre maturidade emocional"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "Os dados desta semana",
-              "texto": "45% das brasileiras já receberam diagnóstico de ansiedade ou depressão. Mais de 60% dos afastamentos por saúde mental no trabalho são de mulheres. Mulheres têm 2x mais chance de desenvolver transtornos de ansiedade. Esses não são dados individuais — são dados sistêmicos."
+              "titulo": "O que é beige flag?",
+              "texto": "Depois das red flags (comportamentos tóxicos) e green flags (sinais saudáveis), surge a beige flag: as manias estranhas, os hábitos esquisitos, as pequeñas imperfeições que o parceiro tem — que incomodam mas não chegam a ser tóxicas."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "O que o sistema pede da mulher brasileira",
-              "texto": "Trabalho remunerado + cuidado dos filhos + casa + relação + aparência + disponibilidade emocional para todos. Com suporte mínimo. O sistema nervoso não falha. Ele sinaliza o que é impossível."
+              "titulo": "Por que a gente reage a elas?",
+              "texto": "A dificuldade de tolerar imperfeições em parceiros raramente é sobre eles. Geralmente é sobre um medo de intimidade real — aquela que aparece quando você vê alguém como ele é de verdade, não como você idealizou."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "A ansiedade feminina não é fraqueza individual — é resposta a condição real",
-              "texto": "Psicologicamente, a ansiedade crônica em mulheres é frequentemente resposta adaptativa a exigências impossíveis. Nomear isso é o primeiro passo. O segundo é parar de carregar sozinha."
+              "titulo": "O que maturidade emocional tem a ver com isso",
+              "texto": "Mulher emocionalmente madura não busca o parceiro sem imperfeições. Ela desenvolveu a capacidade de amar alguém com elas — distinguindo o que é caráter do que é estilo pessoal. Isso não se aprende na escolha do parceiro. Se aprende no trabalho com você mesma."
             },
             {
               "numero": 5,
               "tipo": "CTA",
-              "titulo": "Você se reconhece nesse dado?",
-              "texto": "Salva esse carrossel e me conta nos comentários — sem julgamento. O que mais pesa para você?"
+              "titulo": "Qual é a maior beige flag do seu parceiro?",
+              "texto": "Comenta aqui e nos conta: você consegue amar com as beige flags? Ou elas ainda te fazem questionar o relacionamento? 🏳️"
             }
           ],
-          "legenda": "45% das brasileiras com diagnóstico de ansiedade. Essa semana esse dado voltou à tona — e precisa de contexto.\n\nPorque esse número não é coincidência. É estrutura.\n\nDesliza para entender o que está realmente por trás da crise de saúde mental feminina no Brasil.\n\nSalva e compartilha — alguém que você conhece precisa ver isso.\n\n#saudemental #ansiedade #mulher #psicologia #saudementalfeminina #brasil #priscillaandrade"
+          "legenda": "Beige flags: a tendência que revelou mais sobre nós do que sobre nossos parceiros. 🏳️\n\nDesliza para entender o que a sua reação às imperfeições do parceiro diz sobre a sua maturidade emocional.\n\nComenta a beige flag do seu parceiro aqui embaixo — quero ler! 👇\n\n#BeigeFlag #RelacionamentoSaudavel #Psicologia #PriscillaAndrade #ComportamentoFeminino #MaturidadeEmocional #Relacionamentos"
         }
       }
     }
