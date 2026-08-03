@@ -1,637 +1,619 @@
 {
-  "versao": "2026-08-02",
-  "gerado_em": "2026-08-02T07:00:00Z",
-  "contexto_do_dia": "Esta semana o Brasil vive o Summit Mulheres nas Profissoes (4-5 de agosto, Expo Center Norte SP), com 10 mil participantes debatendo lideranca e mercado — evento mais relevante do ano para mulheres e carreira. No cenario de celebridades, a separacao de Alinne Moraes e Mauro Lima apos 14 anos repercutiu nas redes sociais, enquanto o casal Ivi Pizzott e Luis Navarro tambem encerraram 10 anos juntos. No comportamento digital, a trend 'Me at the Same Age as My Parents' domina o TikTok e Instagram em agosto, o debate sobre 'beige flags' substituiu as red flags no vocabulario dos relacionamentos, e um dado impactante tomou conta das redes: 45% das brasileiras ja receberam diagnostico de ansiedade ou depressao.",
+  "versao": "2026-08-03",
+  "gerado_em": "2026-08-03T06:00:00Z",
+  "contexto_do_dia": "Esta semana o caso Arlindinho x Erika Januza (flagrante em casa de swing enquanto ainda namoravam) dominou os feeds brasileiros, junto com duas separações de 14 anos: Nívea Stelmann (em choque em Orlando) e Alinne Moraes com o cineasta Mauro Lima. Em paralelo, o 1º Summit Mulheres nas Profissões reuniu 10 mil pessoas em SP (4-5 ago) com Juliette, Djamila Ribeiro e Luiza Trajano, enquanto dados alarmantes vieram à tona: 45% das brasileiras têm diagnóstico de ansiedade ou depressão e 60% dos afastamentos por saúde mental no trabalho são de mulheres.",
   "items": [
     {
       "id": 1,
-      "titulo": "Summit Mulheres nas Profissoes acontece AGORA — e o que as palestrantes nao vao te dizer",
-      "resumo": "O 1o Summit Mulheres nas Profissoes acontece nos dias 4 e 5 de agosto em Sao Paulo, reunindo 10 mil mulheres para debater lideranca, carreira e futuro do trabalho. Enquanto o evento celebra conquistas, os dados mostram que mulheres ainda ganham 20,9% menos que homens no setor privado brasileiro. O angulo de Priscilla: o que as mulheres realmente precisam ouvir sobre identidade e autoestima para prosperar profissionalmente — nao so tecnicas de carreira.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "Arlindinho foi flagrado em casa de swing enquanto namorava Erika Januza — e o que isso diz sobre o padrão que a gente repete",
+      "resumo": "Arlindinho foi filmado na porta de uma casa de swing acompanhado de duas mulheres enquanto ainda era namorado de Erika Januza, e o vídeo explodiu nas redes. O caso reacendeu o debate sobre infidelidade, conivência e os padrões que mulheres aceitam sem perceber. O ângulo de Priscilla: o que acontece psicologicamente quando a mulher minimiza o que vê — e por que o cérebro aprende a normalizar o inaceitável.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Summit Mulheres nas Profissoes — summitmulheresprofissoes.com.br / Metropoles",
+      "fonte": "Tribuna do Sertão / Estrelando — notícias sobre términos de famosos em 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O Summit fala de tecnicas de carreira, mas o maior bloqueio da mulher no trabalho e psicologico — e isso ninguem vai te dizer no palco.",
-          "gancho": "O Summit Mulheres nas Profissoes comecou em Sao Paulo. Vou te dizer o que os palestrantes nao vao falar.",
+          "ideia_central": "O caso Arlindinho e Erika Januza é um espelho clínico do que acontece quando a mulher aprende a ignorar o que está na sua frente.",
+          "gancho": "Sobre o Arlindinho na casa de swing — eu preciso te dizer o que a psicologia fala sobre isso.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "O Summit Mulheres nas Profissoes reuniu 10 mil mulheres em Sao Paulo esta semana. Lindo. Mas tem uma coisa que nenhum palco vai te dizer."
+              "fala": "Você viu o vídeo do Arlindinho? Pois é. Mas o que eu quero falar não é sobre ele — é sobre o padrão que a gente repete."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A gente fala de lideranca, estrategia, networking. Tudo certo. Mas a mulher que ganha 20% menos que o homem nao tem so um problema de tecnica — ela tem um problema de autovalorizacao, de saber o que pedir, de acreditar que merece ocupar aquele espaco."
+              "fala": "Ele foi filmado na porta de uma casa de swing com duas mulheres enquanto ainda namorava a Erika Januza. E a discussão na internet foi imediata. Mas enquanto todo mundo julgava ele, eu fiquei pensando: quantas mulheres estão numa situação parecida agora mesmo, minimizando os sinais que aparecem na frente delas?"
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Como psicologa, eu vejo todo dia: a mulher estuda, se capacita, e na hora de negociar o salario, treva. Porque a questao nao e competencia — e quanto ela acha que vale. Isso e trabalho interno, nao e palestra de duas horas."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia chama isso de normalização adaptativa. O cérebro da mulher que vive num relacionamento com traição aprende, ao longo do tempo, a reinterpretar os sinais como 'exagero meu', 'ciúme', 'insegurança'. Não é fraqueza — é um mecanismo de sobrevivência emocional. Mas que cobra um preço muito alto da sua autoestima."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce ja sentiu isso? Que a sua maior barreira profissional esta na sua propria cabeca? Me conta aqui embaixo."
+              "fala": "Me conta nos comentários: você já minimizou algo que, no fundo, sabia que era um sinal?"
             }
           ],
-          "legenda": "O Summit Mulheres nas Profissoes reuniu 10 mil mulheres em SP esta semana.\n\nMas nenhum palco vai te dizer isso:\n\nA mulher brasileira ganha 20,9% menos que o homem. Nao so porque o mercado e injusto — mas tambem porque a maioria das mulheres ainda nao acredita que pode pedir mais.\n\nAutoestima profissional nao e arrogancia. E saber o seu valor e ter coragem de cobrar por ele.\n\nO evento e lindo. Mas se voce sair de la sem trabalhar sua crenca interna, a estrategia nao vai funcionar.\n\nVoce ja sentiu que o seu maior bloqueio profissional e voce mesma?\n\n#mulheresnotrabalho #liderancafeminina #psicologia #summitmulheres #carreira #autovalorizacao #comportamentofeminino #priscillaandrade"
+          "legenda": "Sobre o caso do Arlindinho e Erika Januza 🎯\n\nNão vim aqui julgar ninguém. Vim falar sobre o que a psicologia mostra quando uma mulher fica num relacionamento com traição.\n\nExiste um fenômeno chamado normalização adaptativa: o cérebro, para suportar a dor de uma relação onde os limites são violados repetidamente, começa a reinterpretar os sinais de alerta como 'exagero', 'ciúme' ou 'insegurança minha'.\n\nIsso não é fraqueza. É o seu sistema nervoso tentando te proteger.\n\nMas tem um preço: com o tempo, você para de confiar em si mesma. Para de acreditar na sua própria percepção da realidade.\n\nE é exatamente aí que a sua autoestima vai sendo erodida — silenciosamente.\n\nSe você está minimizando o que vê, o que sente e o que sabe — isso merece atenção. 💛\n\n👇 Me conta: você já passou por isso?\n\n#relacionamento #autoestima #traicao #psicologia #comportamentofeminino #erika januza #arlindinho #mulheresfortes #limites #terapia"
         },
         "carrossel": {
-          "ideia": "Os 5 bloqueios psicologicos que impedem mulheres de crescer na carreira — o que o Summit nao vai abordar no palco.",
+          "ideia": "5 sinais de que você está normalizando o que não deveria — baseado no que a psicologia chama de normalização adaptativa.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "5 bloqueios que travam sua carreira (que nao tem nada a ver com competencia)",
-              "subtitulo": "No Summit Mulheres nas Profissoes 2026, 10 mil mulheres em SP. Mas voce tambem precisa saber disso."
+              "titulo": "5 sinais de que você está normalizando o que não deveria",
+              "subtitulo": "A psicologia explica o que acontece quando a gente aprende a ignorar os próprios alarmes"
             },
             {
               "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "A noticia da semana",
-              "texto": "O 1o Summit Mulheres nas Profissoes aconteceu nos dias 4-5 de agosto em Sao Paulo: 10 mil participantes, lideranca, futuro do trabalho. E mesmo assim, mulheres ganham 20,9% menos que homens no Brasil."
+              "tipo": "Contextualização",
+              "titulo": "O que acontece na traição",
+              "texto": "Quando uma traição acontece — ou quando sinais aparecem — o cérebro entra em modo de proteção. Ele começa a reinterpretar o que você vê para reduzir a dor. Esse processo tem nome: normalização adaptativa."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Bloqueio 1: Sindrome da impostora",
-              "texto": "'Sera que sou boa o suficiente?' — essa pergunta custa caro. A mulher se sabota antes mesmo de tentar."
+              "titulo": "Os 5 sinais",
+              "texto": "1. Você justifica comportamentos que te machucariam em qualquer outra pessoa\n2. Você duvida da sua própria percepção ('será que estou exagerando?')\n3. Você sente culpa quando coloca um limite\n4. Você defende o parceiro antes mesmo de ser questionada\n5. Você para de contar o que acontece para as pessoas próximas"
             },
             {
               "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "Bloqueios 2-5",
-              "texto": "Medo de pedir aumento. Dificuldade de dizer nao. Precisar ser 'gostada' pelo chefe. Confundir gentileza com fraqueza. Esses sao os verdadeiros inimigos da carreira feminina."
+              "tipo": "Virada",
+              "titulo": "O que poucos percebem",
+              "texto": "Normalizar não é fraqueza — é o seu sistema nervoso tentando te proteger da dor. Mas o preço é alto: você para de confiar em si mesma e perde o contato com a sua própria realidade."
             },
             {
               "numero": 5,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "Carreira e psicologia sao inseparaveis para a mulher. Estrategia sem autoconhecimento e tempo perdido."
-            },
-            {
-              "numero": 6,
               "tipo": "CTA",
-              "titulo": "E voce?",
-              "texto": "Qual desses 5 bloqueios voce mais se identifica? Salva esse carrossel e compartilha com uma amiga."
+              "titulo": "E você?",
+              "texto": "Algum desses sinais te tocou? Salva esse carrossel e me conta nos comentários o que está sentindo. 💛"
             }
           ],
-          "legenda": "O Summit Mulheres nas Profissoes aconteceu esta semana em Sao Paulo. Mas de nada adianta evento incrivel se a gente nao trabalha os bloqueios internos que freiam o crescimento feminino.\n\nSalva esse carrossel — e compartilha com aquela amiga que merece crescer mais.\n\n#carreira #liderancafeminina #psicologia #mulherdecarreira #bloqueiosmentais #autoestima #summitmulheres #comportamento"
+          "legenda": "Você reconhece algum desses padrões? 👀\n\nO caso do Arlindinho me fez pensar em quantas mulheres estão agora mesmo numa situação parecida — minimizando o que veem, ouvem e sentem.\n\nA normalização adaptativa é real e muito mais comum do que a gente imagina.\n\nSalva esse carrossel. Pode ser o que alguém que você conhece precisa ver hoje. 💛\n\n#relacionamentosaudavel #autoestima #traicao #redflags #psicologia #comportamentofeminino #terapia #empoderamento #mulher"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Alinne Moraes e Mauro Lima se separam apos 14 anos: o que acontece quando o amor nao basta mais",
-      "resumo": "A atriz Alinne Moraes e o cineasta Mauro Lima encerraram 14 anos de uniao — a noticia veio pelo colunista Ancelmo Gois e revelou que eles seguem amigos. Para o publico de Priscilla, o caso levanta uma questao poderosa: o que faz uma relacao de mais de uma decada chegar ao fim de forma respeitosa? O angulo psicologico: a diferenca entre terminar com maturidade e terminar com trauma — e como reconhecer quando uma uniao ja cumpriu seu ciclo.",
+      "titulo": "Nívea Stelmann: 14 anos de casamento e está em Orlando, em choque — o que ninguém está falando sobre o luto conjugal",
+      "resumo": "Nívea Stelmann revelou o fim do casamento de 14 anos com o empresário Marcus Rocha e está vivendo em estado de choque em Orlando. O caso chama atenção não pela separação em si, mas pelo que ela representa: o colapso de uma identidade que foi construída ao longo de mais de uma década sendo esposa. Priscilla pode trabalhar o luto pela identidade conjugal — um dos temas menos discutidos e mais devastadores para mulheres.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Colunista Ancelmo Gois / O Globo — Estrelando.com.br",
+      "fonte": "Tribuna do Sertão — 'Nívea Stelmann, Erika Januza, Mariana Maffeis e mais; relembre os términos dos famosos em 2026' (01/08/2026)",
       "copies": {
         "reels-react": {
-          "ideia_central": "Alinne Moraes e Mauro Lima mostraram que terminar bem tambem e um ato de amor — e poucas pessoas sabem fazer isso.",
-          "gancho": "Alinne Moraes e Mauro Lima terminaram apos 14 anos. E o detalhe mais importante dessa historia quase passou despercebido.",
+          "ideia_central": "O choque da Nívea Stelmann não é sobre o fim do amor — é sobre o fim de quem ela era dentro daquele casamento.",
+          "gancho": "14 anos de casamento. Choque em Orlando. O caso da Nívea Stelmann revela algo que a gente raramente fala.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Alinne Moraes e Mauro Lima terminaram apos 14 anos juntos. Mas o que mais me chamou a atencao foi como eles terminaram."
+              "fala": "Nívea Stelmann está em Orlando, em estado de choque, depois de 14 anos de casamento. E eu preciso falar sobre o que ninguém está nomeando aqui."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A noticia saiu essa semana: 14 anos de uniao chegando ao fim. E a nota dizia que eles continuam amigos. Pra muita gente isso parece impossivel — como terminar sem briga, sem medo, sem odio?"
+              "fala": "A separação veio à tona essa semana. 14 anos com o empresário Marcus Rocha. E o que mais me tocou não foi o término — foi a palavra 'choque'. Porque depois de tanto tempo, o fim de um casamento não é só o fim de um relacionamento. É o fim de uma versão de você mesma."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Como psicologa, eu te digo: saber terminar um relacionamento com respeito e maturidade e uma das coisas mais dificeis que existem. E a maioria das pessoas nunca aprendeu isso. Terminar bem nao significa que voce nao amava — significa que voce amadureceu o suficiente para reconhecer quando um ciclo fechou."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia chama isso de luto pela identidade conjugal. Quando você passa anos sendo 'esposa de', a sua identidade fica entrelaçada com a da relação. Quando ela acaba, não é só a falta da pessoa — é a pergunta: 'quem sou eu agora, sem esse casamento?' E isso pode ser mais assustador do que qualquer término."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce acredita que e possivel terminar um relacionamento de anos sem virar inimigo? Quero saber sua opiniao aqui."
+              "fala": "Você já se perguntou quem você é fora do seu relacionamento? Me conta aqui."
             }
           ],
-          "legenda": "Alinne Moraes e Mauro Lima terminaram apos 14 anos. E seguiram como amigos.\n\nIsso parece simples. Mas nao e.\n\nTerminar um relacionamento com maturidade e respeito e um nivel de consciencia emocional que poucos alcancam. A maioria das pessoas termina com raiva, com culpa, ou esperando que o outro seja o vilao da historia.\n\nMas quando dois adultos conseguem olhar um pra o outro e dizer 'nosso ciclo fechou' — sem drama, sem destruicao — isso e maturidade afetiva.\n\nIsso se aprende. Isso se trabalha. E e exatamente o tipo de transformacao que a terapia pode trazer.\n\nVoce acredita que e possivel terminar um relacionamento longo sem virar inimigo?\n\n#alinnemores #relacionamento #maturidadeafetiva #psicologia #terminarrelacionamento #casamento #comportamentofeminino #ciclosdevida"
+          "legenda": "O caso da Nívea Stelmann me tocou de um jeito específico. 💛\n\nNão foi o término. Foi a palavra CHOQUE.\n\nQuando você passa 14 anos sendo esposa, a sua identidade fica entrelaçada com a da relação. Você organiza sua vida em função dela. Você faz planos dentro dela. Você se apresenta ao mundo através dela.\n\nQuando acaba — especialmente de forma abrupta — não é só a saudade da pessoa.\n\nÉ a desorientação de não saber mais quem você é sem aquele papel.\n\nA psicologia chama isso de luto pela identidade conjugal. E ele é real, doloroso e muito pouco discutido.\n\nSe você passou por isso ou está passando: o que você sente faz sentido. ✨\n\nA reconstrução começa justamente quando você para de perguntar 'quando eu vou ser feliz de novo?' e começa a perguntar 'quem eu quero ser agora?'\n\n💬 Você já se perguntou quem você é fora do relacionamento?\n\n#níveastelmann #separacao #lutoemocional #identidade #psicologia #mulheres #relacionamento #recomecar #autoconhecimento #terapia"
         },
         "lo-fi": {
-          "ideia": "Reflexao intima sobre o fim do relacionamento de Alinne Moraes — o que nos ensinaram sobre terminar relacionamentos de forma saudavel.",
-          "gancho": "Alinne Moraes e Mauro Lima terminaram e continuaram amigos. Isso me fez pensar muito sobre como a gente aprende a terminar relacionamentos.",
+          "ideia": "Falar de forma íntima sobre o luto de identidade que ninguém nomeia quando uma mulher sai de um relacionamento longo.",
+          "gancho": "O choque da Nívea Stelmann não é só sobre o fim do casamento. É sobre o fim de quem ela era.",
           "o_que_falar": [
-            "Apresentar o caso: 14 anos juntos, o anuncio dessa semana, a informacao de que seguem amigos",
-            "Insight psicologico: a maioria de nos nunca aprendeu a encerrar um ciclo com dignidade — aprendemos a lutar, fugir ou travar",
-            "Conexao com as seguidoras: quantas de voces ainda carregam relacionamentos encerrados de forma toxica? O peso de um termino ruim pode durar anos",
-            "CTA: me conta — voce ja terminou um relacionamento de forma saudavel? O que foi diferente?"
+            "Contextualizar o caso: Nívea Stelmann, 14 anos de casamento, em choque em Orlando — e o que mais me tocou nisso",
+            "O luto pela identidade conjugal: quando você é 'esposa de' por anos, a separação não é só falta da pessoa — é desorientação de identidade",
+            "A pergunta que mais assusta depois de um relacionamento longo: 'quem sou eu agora?'",
+            "CTA: perguntar para as seguidoras se elas já se identificaram com isso, pedir para comentar ou salvar"
           ],
-          "legenda": "Alinne Moraes e Mauro Lima: 14 anos. Fim. E amigos.\n\nIsso me fez pensar na quantidade de terminos que a gente carrega como traumas.\n\nTerminar bem e um aprendizado. E a maioria de nos nunca foi ensinada a fazer isso.\n\nSalva esse video e compartilha com quem precisa ouvir.\n\n#alinnemores #relacionamento #psicologia #terminosaudavel #maturidadeafetiva #comportamento #mulher",
-          "vibe": "Camera estatica, luz natural, tom intimo e reflexivo — como se estivesse conversando com uma amiga proxima. Sem roteiro ensaiado, tom genuino."
+          "legenda": "Falando de algo que pouca gente nomeia — o luto de identidade após um relacionamento longo. 💛\n\nO caso da Nívea Stelmann me fez querer abrir essa conversa.\n\n14 anos sendo esposa. Hoje: em choque em Orlando.\n\nE o que mais importa aqui não é o fim da relação — é o fim de uma versão dela mesma.\n\nSe você passou por isso, sabe do que estou falando. 🤍\n\n#separacao #identidade #mulher #psicologia #relacionamento #recomecar #autoconhecimento #luto",
+          "vibe": "Câmera estática em ambiente íntimo, luz natural ou suave — tom de conversa sincera entre amigas. Sem script rígido, falar olhando direto para a câmera, tom acolhedor e firme ao mesmo tempo."
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Charli XCX casou com tema 'brat' na Italia — o que o casamento mais falado do ano diz sobre identidade feminina",
-      "resumo": "Charli XCX e George Daniel se casaram na Italia com uma cerimonia totalmente alinhada ao universo 'brat' — estetica verde, atitude, nao convencional. O evento gerou uma discussao global sobre autenticidade e identidade: a mulher que nao abre mao de quem e — nem no dia mais tradicional da vida. O angulo de Priscilla: por que tantas mulheres perdem a propria identidade quando entram num relacionamento serio — e o que esse casamento pode ensinar sobre isso.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "Summit Mulheres nas Profissões reuniu Juliette, Djamila e 10 mil mulheres em SP esta semana — e o debate que mais me importa",
+      "resumo": "O 1º Summit Mulheres nas Profissões aconteceu nos dias 4 e 5 de agosto em São Paulo, reunindo 10 mil participantes, 100 palestrantes e nomes como Juliette Freire, Djamila Ribeiro, Luiza Trajano, a ministra Cármen Lúcia e a jornalista Ana Paula Padrão. O evento debateu liderança, carreira e desigualdade no mercado de trabalho. Priscilla pode entrar com o ângulo que os painéis raramente tocam: o medo psicológico que sabota a mulher mesmo quando ela tem todo o preparo técnico.",
+      "pilar": "Posicionamento & Carreira",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Cosmopolitan, Page Six — celebrity-weddings-2026",
+      "fonte": "Metrópoles / Summit Mulheres nas Profissões (summitmulheresprofissoes.com.br) — agosto 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "Charli XCX mostrou que e possivel casar sem abrir mao de quem voce e — e isso e uma licao de identidade que vai alem do casamento.",
-          "gancho": "O casamento de Charli XCX virou o mais comentado do ano. Mas o que voce talvez nao tenha percebido e a licao poderosa que ele carrega.",
+          "ideia_central": "O Summit de 10 mil mulheres discutiu liderança — mas o obstáculo que mais me preocupa como psicóloga é o que acontece na cabeça da mulher antes mesmo de chegar lá.",
+          "gancho": "Juliette, Djamila, Luiza Trajano e 10 mil mulheres em SP esta semana. Mas o problema que elas menos falaram é o que eu quero te contar.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "O casamento de Charli XCX com George Daniel na Italia foi o evento mais comentado das redes essa semana. Mas o detalhe que mais me importa como psicologa nao foi o vestido."
+              "fala": "O Summit Mulheres nas Profissões reuniu 10 mil pessoas em São Paulo essa semana. Luiza Trajano, Djamila Ribeiro, Juliette. E eu quero falar sobre o elefante na sala que esses eventos raramente nomeiam."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Ela casou com o tema 'brat' — a estetica que ela criou, que representa liberdade, imperfeicao, autenticidade. No dia mais tradicional da vida de muitas mulheres, ela escolheu continuar sendo ela mesma."
+              "fala": "O evento debateu liderança, carreira, desigualdade, IA, empreendedorismo feminino. Tudo importantíssimo. Mas a pergunta que ninguém coloca no microfone é: por que, mesmo com todo esse preparo, competência e talento, tanta mulher ainda se sabota antes de chegar lá?"
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "E isso e raro. Porque a maioria das mulheres que acompanho em consultorio perde a propria identidade quando entra num relacionamento serio. Vai cedendo, adaptando, moldando — ate nao saber mais quem e. O casamento nao deveria te apagar. Deveria te expandir."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia tem um nome para isso: síndrome da impostora. Mas vai além disso. É uma programação profunda de que 'brilhar demais é perigoso', de que ocupar espaço vai gerar rejeição, de que você precisa provar duas vezes mais para merecer o que um homem recebe por padrão. E isso não se resolve num painel — se resolve no seu mundo interno."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce consegue se ver no casamento ou relacionamento que tem hoje? Ou perdeu um pedaco de si mesma pelo caminho? Me conta."
+              "fala": "Qual é o maior obstáculo que te impediu ou te impede de avançar na carreira? Me conta nos comentários."
             }
           ],
-          "legenda": "Charli XCX casou com tema 'brat' na Italia e todo mundo falou do look.\n\nMas eu, como psicologa, vi outra coisa: uma mulher que chegou ao altar sem abrir mao da propria identidade.\n\nIsso e mais raro do que parece.\n\nA maioria das mulheres entra num relacionamento serio e vai, aos poucos, cedendo partes de si. A musica que nao toca mais. O jeito de se vestir que muda. Os amigos que somem. As opinioes que ficam mais suaves.\n\nRelacionamento saudavel nao te apaga. Te expande.\n\nVoce ainda se reconhece dentro do seu relacionamento?\n\n#charliXCX #casamento #identidadefeminina #psicologia #relacionamento #autoconhecimento #comportamentofeminino #mulher #autenticidade"
+          "legenda": "Essa semana o Summit Mulheres nas Profissões movimentou São Paulo com 10 mil mulheres e vozes incríveis como Juliette, Djamila Ribeiro e Luiza Trajano. ✨\n\nE eu fico feliz que esse debate exista. Ele é necessário.\n\nMas como psicóloga, existe um obstáculo que me preocupa mais do que qualquer política corporativa: o que acontece DENTRO da cabeça da mulher.\n\nA síndrome da impostora.\nO medo de ocupar espaço.\nA crença de que brilhar vai gerar punição.\nA sensação de que ela precisa se justificar o tempo todo.\n\nIsso não se resolve com um painel de especialistas. Se resolve com trabalho interno.\n\nE é exatamente sobre isso que eu trabalho. 💛\n\nSalva esse vídeo se você já se sentiu assim.\n\n#summitmulheres #mulheresnaprofissoes #liderancafeminina #sindromedaimpostora #psicologia #carreira #empoderamento #autoestima #juliette #djamilaribeiro"
         },
         "carrossel": {
-          "ideia": "5 sinais de que voce perdeu a identidade dentro do seu relacionamento — inspirado no casamento de Charli XCX que chamou atencao pela autenticidade.",
+          "ideia": "5 bloqueios psicológicos que impedem mulheres competentes de avançar na carreira — o lado que os eventos de liderança raramente discutem.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Voce ainda sabe quem e dentro do seu relacionamento?",
-              "subtitulo": "O casamento de Charli XCX nos deu uma aula poderosa sobre identidade feminina."
+              "titulo": "5 bloqueios psicológicos que travam a carreira da mulher",
+              "subtitulo": "Sobre o que o Summit de 10 mil mulheres não te contou"
             },
             {
               "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O casamento mais comentado do ano",
-              "texto": "Charli XCX casou na Italia com tema 'brat' — sem abrir mao da propria identidade. No dia mais tradicional da vida, ela continuou sendo ela. Isso virou discussao mundial sobre autenticidade."
+              "tipo": "Contextualização",
+              "titulo": "O debate que falta",
+              "texto": "O 1º Summit Mulheres nas Profissões reuniu 10 mil mulheres em SP (4-5/ago). Luiza Trajano, Djamila, Juliette, Cármen Lúcia. Mas o maior obstáculo para a maioria das mulheres não está no mercado — está na própria cabeça."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Sinal 1 e 2",
-              "texto": "Voce nao faz mais as coisas que amava antes do relacionamento. Voce adapta sua opiniao ao humor do parceiro."
+              "titulo": "Os 5 bloqueios",
+              "texto": "1. Síndrome da impostora: 'Não sou boa o suficiente'\n2. Medo de visibilidade: 'Se eu aparecer, vão me atacar'\n3. Culpa por ambição: 'Querer demais é egoísmo'\n4. Perfeccionismo paralisante: 'Só faço quando estiver perfeito'\n5. Merecimento condicionado: 'Preciso provar o dobro para merecer'"
             },
             {
               "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "Sinais 3, 4 e 5",
-              "texto": "Seus amigos reclamam que voce sumiu. Voce nao consegue tomar decisoes sem consultar o parceiro. Voce sente que 'nao e mais voce'."
+              "tipo": "Virada",
+              "titulo": "O que poucos percebem",
+              "texto": "Esses bloqueios não são defeitos seus. São programações aprendidas numa cultura que ensinou a mulher a ocupar menos espaço, falar mais baixo e esperar permissão para brilhar."
             },
             {
               "numero": 5,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "Perder a identidade num relacionamento nao acontece de uma vez. E gradual, sutil — e por isso tao perigoso. Relacionamento saudavel te expande, nao te encolhe."
-            },
-            {
-              "numero": 6,
               "tipo": "CTA",
-              "titulo": "E voce?",
-              "texto": "Quantos sinais voce se identificou? Salva e compartilha com uma amiga que precisa ouvir isso hoje."
+              "titulo": "Qual desses é o seu?",
+              "texto": "Comenta aqui o número que mais te representa. Vou ler todos. 💛"
             }
           ],
-          "legenda": "Charli XCX casou sendo ela mesma. E isso deveria ser o padrao, nao a excecao.\n\nQuantos sinais desse carrossel fazem parte da sua realidade?\n\nSalva. Compartilha. E se precisar conversar, a minha DM esta aberta.\n\n#charliXCX #identidade #relacionamento #psicologia #autoimagem #mulher #comportamentofeminino #autoconhecimento"
+          "legenda": "Qual desses bloqueios você mais reconhece em você? 👇\n\nO Summit Mulheres nas Profissões foi incrível essa semana. Mas a conversa que mais importa começa dentro de você. 💛\n\nSalva e compartilha com uma amiga que precisa ver isso.\n\n#carreira #mulheres #psicologia #sindromedaimpostora #liderancafeminina #empoderamento #autoconhecimento #summitmulheres #profissional"
         }
       }
     },
     {
       "id": 4,
-      "titulo": "Trend 'Me at the Same Age as My Parents' domina o TikTok — o que essa nostalgia coletiva revela sobre a mulher de 2026",
-      "resumo": "A trend 'Me at the Same Age as My Parents', com a musica de Pitbull, esta entre as mais virais do agosto 2026 no TikTok e Instagram — mulheres comparando fotos suas com fotos dos pais na mesma idade. A tendencia expoe um fenomeno psicologico poderoso: a ressignificacao da propria historia familiar e a comparacao de trajetoria de vida entre geracoes. O angulo de Priscilla: o que essa trend revela sobre como as mulheres de hoje se comparam com suas maes — e como isso afeta autoestima, escolhas e identidade.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "post-estatico"
-      ],
-      "fonte": "NewEngen Insights — August 2026 TikTok Trends (newengen.com)",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "A trend 'Me at the Same Age as My Parents' e mais do que nostalgia — e um espelho psicologico da geracao que nao quer repetir os erros das maes.",
-          "gancho": "Essa trend do TikTok que todo mundo esta fazendo revela algo sobre voce que vai muito alem da foto.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "A trend 'Me at the Same Age as My Parents' esta dominando o TikTok e Instagram agosto 2026. E como psicologa, eu precisava falar sobre o que ela revela."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Mulheres do mundo todo pegando a foto da mae na mesma idade que elas tem hoje. E a maioria reage da mesma forma: 'nossa, ela parecia mais velha' ou 'ela ja estava casada e com filhos'. Parece simples. Mas nao e."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Essa trend ativa uma comparacao geracional que a gente carrega inconscientemente. 'Sera que eu deveria ter feito mais?' 'Sera que to atrasada?' 'Sera que repito o mesmo padrao da minha mae?' Isso tem nome: e o script familiar. E a maioria de nos esta vivendo ele sem perceber."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Voce fez essa trend? O que voce sentiu quando se comparou com a foto? Me conta nos comentarios."
-            }
-          ],
-          "legenda": "A trend 'Me at the Same Age as My Parents' domina o TikTok em agosto 2026.\n\nMas ninguem esta falando sobre o que ela realmente ativa em nos.\n\nQuando voce olha pra foto da sua mae na sua idade, o que aparece?\n\nComparacao? Culpa? Alivio? Pressao?\n\nIsso tem nome: script familiar. A programacao inconsciente que herdamos sobre o que 'devemos' ter alcancado em cada fase da vida.\n\nE a boa noticia: a gente pode reescrever esse script.\n\nVoce fez essa trend? O que voce sentiu?\n\n#tiktoktrend #autoimagem #psicologia #scriptfamiliar #mulher #autoconhecimento #identidade #comportamentofeminino #geracoes"
-        },
-        "post-estatico": {
-          "ideia": "Frase impactante sobre o script familiar ativado pela trend viral, transformada em arte.",
-          "titulo_visual": "Voce nao esta atrasada. Voce esta vivendo a vida DELA diferente.",
-          "legenda": "A trend 'Me at the Same Age as My Parents' esta em todo lugar essa semana.\n\nE ela ativa algo profundo: a comparacao com a trajetoria da sua mae.\n\nMas voce nao precisa seguir o roteiro que ela seguiu.\n\nSalva esse post. Compartilha com quem precisa ouvir isso hoje.\n\n#autoimagem #psicologia #tiktoktrend #mulher #scriptfamiliar #autoestima #comportamento",
-          "cta": "Salva e compartilha com aquela amiga que vive se comparando."
-        }
-      }
-    },
-    {
-      "id": 5,
-      "titulo": "'Beige flags' substituem red flags nas redes sociais — e o que isso diz sobre como a gente julga relacionamentos",
-      "resumo": "Em 2026, o vocabulario dos relacionamentos nas redes sociais evoluiu: apos anos dominadas pelas 'red flags', surgiu a 'beige flag' — aquelas manias estranhas do parceiro que incomodam mas nao destroem o relacionamento. O debate virou viral e polarizou: alguns celebram a leveza, outros alertam para a banalizacao dos sinais de alerta. O angulo de Priscilla: como a psicologia de internet pode tanto ajudar quanto prejudicar as pessoas — e a linha tenue entre consciencia e julgamento excessivo.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "lo-fi"
-      ],
-      "fonte": "Terra.com.br — 'Nem red flag, nem green flag: entenda o que sao as beige flags no amor'",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "As 'beige flags' mostram que estamos aprendendo a ter nuance nos relacionamentos — mas tambem revelam o perigo de transformar tudo em diagnostico.",
-          "gancho": "As 'beige flags' tomaram o lugar das red flags nas redes. E como psicologa, tenho sentimentos mistos sobre isso.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "As 'beige flags' estao em todo o Instagram e TikTok agora. Depois das red flags, surgiu esse termo — e eu preciso te dar minha opiniao como psicologa."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "Beige flag sao aquelas manias do parceiro que nao sao um problema serio, mas que te irritam. Tipo: ele so ouve uma musica por semana inteira. Ela organiza os alimentos por cor na geladeira. Coisas esquisitas mas inofensivas."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Por um lado, isso e saudavel — a gente esta aprendendo que nem tudo e um alerta maximo. Por outro, tem um perigo: quando tudo vira flag, a gente perde a capacidade de so estar numa relacao sem ficar analisando o parceiro como se fosse um caso clinico. Relacionamento nao e diagnostico."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Qual e a maior 'beige flag' do seu parceiro? E voce tem alguma? Me conta nos comentarios."
-            }
-          ],
-          "legenda": "Red flags, green flags, beige flags... o vocabulario dos relacionamentos nas redes nao para de crescer.\n\nE essa semana as 'beige flags' tomaram conta do Instagram e TikTok.\n\nComo psicologa, acho essa evolucao interessante — e tambem um pouco preocupante.\n\nInteressante porque estamos aprendendo que nem tudo e catastrofe num relacionamento.\n\nPreocupante porque quando tudo vira 'flag', a gente comeca a analisar o parceiro como um caso clinico — e nao consegue mais simplesmente viver a relacao.\n\nQual a maior 'beige flag' do seu parceiro? E voce tem alguma?\n\n#beigeflags #redflag #relacionamento #psicologia #comportamentofeminino #amor #relacionamentossaudaveis #casamento #mulher"
-        },
-        "lo-fi": {
-          "ideia": "Conversa intima e divertida sobre as beige flags — com o olhar critico da psicologa sobre a psicologia de internet.",
-          "gancho": "Gente, as beige flags tomaram conta do meu feed e eu preciso falar sobre isso com voces.",
-          "o_que_falar": [
-            "Contextualizar de forma leve: o que sao beige flags, exemplos divertidos que estao viralizando",
-            "Insight psicologico: a evolucao dos 'flags' nas redes — de alarme a nuance — e o que isso significa para os relacionamentos",
-            "Alerta honesto: o risco de ficar tao obcecada em catalogar comportamentos que a gente esquece de VIVER o relacionamento",
-            "CTA leve e divertido: qual e a maior beige flag do seu parceiro? Comenta aqui"
-          ],
-          "legenda": "Beige flags, red flags, green flags — o Instagram virou manual de classificacao de parceiros rs\n\nMas tem uma coisa que so uma psicologa vai te dizer sobre isso...\n\nComenta aqui a maior beige flag do seu parceiro! E salva esse video.\n\n#beigeflags #relacionamento #psicologia #humor #comportamento #amor #mulher",
-          "vibe": "Camera em mao ou apoiada, tom descontraido e quase de bate-papo, pode ser na sala de casa ou varanda. Luz natural. Expressao divertida mas com credibilidade."
-        }
-      }
-    },
-    {
-      "id": 6,
-      "titulo": "45% das brasileiras ja receberam diagnostico de ansiedade — dado chocante que chegou as redes essa semana",
-      "resumo": "Um levantamento recente revelou que 45% das brasileiras ja receberam diagnostico de ansiedade ou depressao, e seis em cada dez convivem diariamente com sintomas de ansiedade. Os dados circularam amplamente nas redes sociais essa semana, gerando identificacao massiva e debates sobre saude mental feminina. O angulo de Priscilla: a diferenca entre ansiedade como sintoma e ansiedade como modo de viver — e como a mulher pode reconhecer a fronteira.",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": [
-        "carrossel"
-      ],
-      "fonte": "HNT.com.br / Jornal do Bras — pesquisa saude mental brasileiras 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "45% das brasileiras diagnosticadas com ansiedade nao e uma estatistica — e um reflexo de como a mulher foi ensinada a existir nesse mundo.",
-          "gancho": "45% das brasileiras ja receberam diagnostico de ansiedade. Esse numero chegou nas redes essa semana. E tem uma parte dessa historia que ninguem esta contando.",
-          "roteiro": [
-            {
-              "tempo": "0-3s",
-              "descricao": "Abertura",
-              "fala": "Um levantamento mostrou essa semana: 45% das brasileiras ja receberam diagnostico de ansiedade ou depressao. E 6 em cada 10 convivem com sintomas todo dia."
-            },
-            {
-              "tempo": "3-15s",
-              "descricao": "Contexto",
-              "fala": "O numero chorou o Brasil. Mas por que a mulher e mais ansiosa? Os dados da OMS mostram que mulheres tem duas vezes mais chance de desenvolver transtornos de ansiedade. E isso nao e fraqueza — e pressao acumulada."
-            },
-            {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "A mulher foi ensinada a dar conta de tudo — carreira, casa, filhos, aparencia, relacionamento — sem reclamar. A ansiedade e o custo disso. Nao e um defeito seu. E o sinal de que voce foi longe demais sem se cuidar."
-            },
-            {
-              "tempo": "25-30s",
-              "descricao": "CTA",
-              "fala": "Voce se identifica com esse numero? Ja recebeu esse diagnostico? Comenta aqui — sem julgamento."
-            }
-          ],
-          "legenda": "45% das brasileiras ja receberam diagnostico de ansiedade ou depressao.\n\n6 em cada 10 convivem com sintomas todo dia.\n\nEsse dado caiu nas redes essa semana e me impactou profundamente.\n\nPorque esse numero nao e fraqueza. E pressao acumulada por geracoes.\n\nA mulher foi ensinada a ser forte, a dar conta, a nao pedir ajuda. A ansiedade e o custo disso.\n\nCuidar da saude mental nao e luxo. E necessidade.\n\nVoce se identifica com esse dado? Comenta aqui. Voce nao esta sozinha.\n\n#saudemental #ansiedade #mulher #psicologia #depressao #autocuidado #comportamentofeminino #saude #meditacao"
-        },
-        "carrossel": {
-          "ideia": "5 sinais de que a ansiedade virou seu modo de viver — e como reconhecer a diferenca entre tensao normal e transtorno.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "45% das brasileiras tem diagnostico de ansiedade. Voce e uma delas?",
-              "subtitulo": "5 sinais de que a ansiedade ja virou seu modo de existir — e o que fazer."
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O dado que chocou o Brasil essa semana",
-              "texto": "45% das brasileiras ja receberam diagnostico de ansiedade ou depressao. 6 em cada 10 convivem com sintomas diariamente. A OMS confirma: mulheres tem 2x mais chance de desenvolver transtornos de ansiedade."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Sinais 1 e 2",
-              "texto": "Voce acorda preocupada sem motivo claro. Voce antecipa catastrofes — 'e se der errado?' — antes mesmo de comecar."
-            },
-            {
-              "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "Sinais 3, 4 e 5",
-              "texto": "Voce nao consegue descansar sem se sentir culpada. Seu corpo esta sempre tenso — mandibula, ombros, estomago. Voce tem dificuldade de dormir ou acorda no meio da noite com pensamentos."
-            },
-            {
-              "numero": 5,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "A ansiedade cronica na mulher quase sempre tem raiz: pressao para ser perfeita, dar conta de tudo, nao decepcionar ninguem. O tratamento precisa ir alem do sintoma."
-            },
-            {
-              "numero": 6,
-              "tipo": "CTA",
-              "titulo": "Voce nao esta sozinha",
-              "texto": "Salva esse carrossel. Compartilha com uma amiga. E se voce se identificou com mais de 3 sinais, considera buscar apoio profissional."
-            }
-          ],
-          "legenda": "O Brasil descobriu essa semana que 45% das mulheres ja receberam diagnostico de ansiedade.\n\nVoce nao esta sozinha nesse numero.\n\nSalva esse carrossel e compartilha com quem precisa ver.\n\n#ansiedade #saudemental #psicologia #mulher #autocuidado #comportamentofeminino #depressao #saude #terapia"
-        }
-      }
-    },
-    {
-      "id": 7,
-      "titulo": "SUS lanca teleatendimento de saude mental para mulheres em situacao de violencia — o que muda na pratica",
-      "resumo": "O governo brasileiro anunciou o teleatendimento do SUS para saude mental de mulheres em situacao de violencia, expandido para todas as capitais ate junho de 2026. A iniciativa chega num momento em que mais de 60% dos afastamentos por saude mental no Brasil sao de mulheres. O angulo de Priscilla: por que relacionamentos abusivos destroem a saude mental — e como o acesso a terapia pode ser o primeiro passo para sair de um ciclo.",
+      "titulo": "60% dos afastamentos por saúde mental no trabalho são de mulheres — e a culpa não é nossa",
+      "resumo": "Um levantamento recente revelou que mais de 60% dos afastamentos do trabalho por saúde mental no Brasil são de mulheres. O dado veio à tona esta semana e gerou debate nas redes. Não é coincidência: é o resultado de décadas de sobrecarga invisível — a dupla jornada, a carga emocional do lar, a pressão estética e o burnout silencioso. Priscilla pode usar esse dado como ponto de entrada para falar sobre a carga feminina invisível com embasamento clínico e validação emocional.",
       "pilar": "Posicionamento & Carreira",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "post-estatico"
       ],
-      "fonte": "Gov.br — Secretaria de Comunicacao Social / HNT.com.br",
+      "fonte": "HiperNotícias — 'Mais de 60% dos afastamentos por saúde mental no Brasil são de mulheres' (2026)",
       "copies": {
         "reels-react": {
-          "ideia_central": "O SUS agora oferece saude mental para mulheres em situacao de violencia — e isso diz muito sobre o custo psicologico de um relacionamento abusivo.",
-          "gancho": "O SUS lancou teleatendimento de saude mental para mulheres em situacao de violencia. Essa noticia e mais importante do que parece.",
+          "ideia_central": "O dado de que 60% dos afastamentos por saúde mental são de mulheres não é uma estatística — é o resultado visível de uma carga invisível que a sociedade normalizou.",
+          "gancho": "60% dos afastamentos por saúde mental no trabalho no Brasil são de mulheres. E eu preciso que você entenda por quê.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "O SUS agora oferece teleatendimento de saude mental especifico para mulheres em situacao de violencia. Isso deveria ser noticia em todo lugar."
+              "fala": "60% dos afastamentos por saúde mental no trabalho no Brasil são de mulheres. Isso não é coincidência."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A iniciativa foi lancada em marco e expandida ate junho de 2026 para todas as capitais. E nao e a toa: mais de 60% dos afastamentos por saude mental no Brasil sao de mulheres — e boa parte desses casos tem relacao com violencia domestica e relacionamentos abusivos."
+              "fala": "Esse dado veio à tona essa semana e gerou debate. E eu, como psicóloga, preciso te dizer: isso não é fraqueza. É o resultado de décadas de uma carga que a sociedade colocou nas costas da mulher e chamou de 'natural'. Trabalho fora. Gestão do lar. Cuidado dos filhos. Carga emocional da família. Mais a pressão para aparecer bem, produzir e sorrir."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Um relacionamento abusivo nao deixa so marcas no corpo. Ele destroi a autoestima, confunde a percepcao de realidade, cria culpa onde nao existe. A mulher sai — quando sai — sem saber quem e mais. Acesso a saude mental nesse momento nao e opcao. E sobrevivencia."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia chama isso de carga alostática — o acúmulo de estressores crônicos que o corpo e a mente não conseguem mais suportar. O burnout feminino raramente explode de uma vez. Ele vai chegando: primeiro o cansaço que não passa com descanso, depois a irritabilidade, depois a sensação de que você está cumprindo papel, não vivendo. E quando quebra, quebra por dentro — e o sistema chama isso de afastamento."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Se voce ou alguem que voce conhece precisa de apoio, o SUS agora tem esse canal. E se quiser conversar, minha DM esta aberta. Voce nao precisa estar sozinha nesse processo."
+              "fala": "Você se reconhece nesse cansaço? Me conta aqui. Quero saber como você está."
             }
           ],
-          "legenda": "O SUS lancou teleatendimento de saude mental para mulheres em situacao de violencia.\n\nIsso e uma virada historica — e merece atencao.\n\nMais de 60% dos afastamentos por saude mental no Brasil sao de mulheres.\n\nRelacionamento abusivo nao deixa so marcas visiveis. Ele destroi identidade, autoestima, percepcao de realidade.\n\nA mulher que sai de um relacionamento abusivo precisa de mais do que coragem — ela precisa de suporte psicologico.\n\nAgora esse acesso esta disponivel pelo SUS, gratuitamente.\n\nCompartilha esse video. Pode chegar na pessoa certa na hora certa.\n\n#saudemental #violenciadomestica #mulher #sus #psicologia #relacionamentoabusivo #autocuidado #apoiopsicologico #direitosdamulher"
+          "legenda": "60% dos afastamentos por saúde mental no trabalho no Brasil são de mulheres. 💔\n\nEsse dado saiu essa semana. E eu não consegui deixar passar.\n\nPorque isso não é uma estatística fria. É a prova de que a carga que a sociedade colocou nas costas da mulher e chamou de 'normal' tem um preço muito alto.\n\nTrabalho fora.\nGestão do lar.\nCuidado emocional dos filhos.\nPresença constante para todos — menos para si mesma.\nMais a pressão estética, social e profissional.\n\nIsso tem nome: carga alostática. O acúmulo de estressores crônicos que o corpo e a mente não conseguem mais absorver.\n\nO burnout feminino raramente explode. Ele vai chegando — silencioso, progressivo, até que o sistema colapsa.\n\nSe você está cansada de um jeito que o descanso não resolve mais: isso é um sinal. Não ignore.\n\n💬 Como você está hoje, de verdade?\n\n#saudemental #burnout #mulheres #sobrecarga #psicologia #cargainvisivel #trabalho #ansiedade #autoconhecimento #terapia"
         },
         "post-estatico": {
-          "ideia": "Arte com dado impactante sobre afastamentos por saude mental e a novidade do SUS.",
-          "titulo_visual": "60% dos afastamentos por saude mental no Brasil sao de mulheres. Isso nao e coincidencia.",
-          "legenda": "O SUS agora oferece teleatendimento de saude mental para mulheres em situacao de violencia.\n\nCompartilha. Essa informacao pode salvar uma vida.\n\nE se voce precisar de apoio, estou aqui.\n\n#sus #saudemental #mulher #violenciadomestica #psicologia #apoio #direitosdamulher",
-          "cta": "Salva e compartilha — esse recurso pode chegar em quem precisa."
+          "ideia": "Transformar o dado de 60% em arte de impacto visual que pare o scroll.",
+          "titulo_visual": "60% dos afastamentos por saúde mental no trabalho são de mulheres.\n\nIsso não é fraqueza.\nÉ sobrecarga.",
+          "legenda": "Esse dado saiu essa semana — e precisa ser discutido. 💔\n\nCarga alostática, burnout silencioso, dupla jornada.\n\nA mulher brasileira carrega peso demais — e ainda se culpa quando chega no limite.\n\nSalva esse post e compartilha. Alguém que você conhece precisa saber que não está sozinha. 🤍\n\n#saudemental #burnout #mulheres #sobrecarga #psicologia #dados",
+          "cta": "Salva e compartilha com uma mulher que precisa ouvir isso hoje."
         }
       }
     },
     {
-      "id": 8,
-      "titulo": "Ivi Pizzott e Luis Navarro: 10 anos e duas filhas depois, o casamento acabou — o que isso nos diz sobre o amor a longo prazo",
-      "resumo": "A cantora Ivi Pizzott e Luis Navarro anunciaram o fim de 10 anos de casamento, sendo pais de duas filhas juntos. O caso levantou discussoes nas redes sobre como relacionamentos longos mudam — e como a maternidade pode tanto fortalecer quanto sobrecarregar um casal. O angulo de Priscilla: o impacto da maternidade no casamento — e por que tantos casais que parecem estaveis chegam ao fim poucos anos depois dos filhos.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "semana",
+      "id": 5,
+      "titulo": "45% das brasileiras têm diagnóstico de ansiedade ou depressão — o dado da Think Olga que está circulando agora",
+      "resumo": "O levantamento da ONG Think Olga revelou que 45% das brasileiras já receberam diagnóstico de ansiedade, depressão ou outro transtorno mental, enquanto 6 em cada 10 convivem diariamente com sintomas de ansiedade. O dado está sendo amplamente compartilhado nesta semana em plena alta do debate sobre saúde mental feminina. Priscilla pode oferecer perspectiva clínica, validar a experiência das seguidoras e desmistificar o que é ansiedade patológica versus cansaço adaptativo.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "hoje",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Think Olga (ONG) — levantamento sobre saúde mental feminina no Brasil, 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "45% das brasileiras com diagnóstico de ansiedade não significa que metade das mulheres está doente — significa que estamos vivendo sob pressões que o corpo feminino não foi feito para suportar sozinho.",
+          "gancho": "45% das brasileiras têm diagnóstico de ansiedade ou depressão. Se você é mulher, provavelmente isso não te surpreendeu.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "45% das brasileiras têm diagnóstico de ansiedade ou depressão. E se isso não te surpreendeu, me preocupa — porque normalizar esse número é o maior problema."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "O levantamento da Think Olga circulou essa semana e causou impacto. Mas o que mais me chamou atenção não foi o número em si — foi a reação de tantas mulheres que disseram 'nossa, achei que era só eu'. Não. Não é só você. Mas também não deveria ser normal."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "Como psicóloga, quero te dizer uma coisa importante: ansiedade não é fraqueza. Mas ela também não é destino. Existe uma diferença enorme entre ansiedade situacional — que é uma resposta saudável do corpo ao perigo — e ansiedade crônica, que é o sistema nervoso travado numa resposta de ameaça constante. A segunda precisa de cuidado. E esse cuidado começa quando você para de banalizar o que sente."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você está entre esses 45%? Me conta aqui — sem julgamento. Quero saber como você está."
+            }
+          ],
+          "legenda": "45% das brasileiras têm diagnóstico de ansiedade ou depressão. (Fonte: Think Olga, 2026) 💛\n\n6 em cada 10 convivem com sintomas de ansiedade todo dia.\n\nE quando eu compartilhei esse dado com algumas pessoas, a resposta mais comum foi: 'achei que era só comigo'.\n\nNão é só com você.\n\nMas também não deveria ser normal.\n\nExiste uma diferença fundamental entre ansiedade situacional (resposta saudável do corpo) e ansiedade crônica (sistema nervoso travado). A segunda é tratável. E começa com você parar de minimizar o que sente.\n\nVocê não é fraca por estar ansiosa. Você está respondendo a um mundo que exige demais de você.\n\nMas você merece mais do que sobreviver em modo de alerta constante. 🤍\n\n💬 Você se identifica com esse dado? Me conta.\n\n#ansiedade #saudemental #mulheres #psicologia #thinkholga #terapia #autoconhecimento #burnout #saúdementalimporta #brasileiras"
+        },
+        "carrossel": {
+          "ideia": "Diferença entre ansiedade saudável e ansiedade crônica — um guia claro baseado nos dados da Think Olga.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "Sua ansiedade é saudável ou crônica?",
+              "subtitulo": "A diferença que pode mudar a forma como você cuida de si mesma"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado que circulou essa semana",
+              "texto": "45% das brasileiras têm diagnóstico de ansiedade ou depressão. 6 em 10 convivem com sintomas diários. (Think Olga, 2026). Mas o que esse número realmente significa?"
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Ansiedade saudável vs. crônica",
+              "texto": "SAUDÁVEL: aparece antes de algo importante, passa depois, te ajuda a agir\n\nCRÔNICA: presente o tempo todo, não passa com o fim da situação, te paralisa, afeta o sono e os relacionamentos"
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O que você precisa saber",
+              "texto": "Ansiedade crônica não é fraqueza nem personalidade. É o sistema nervoso travado num estado de ameaça. Ela tem tratamento. E o primeiro passo é parar de normalizar um sofrimento que não precisa ser permanente."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Qual dessas descrições mais se parece com o que você sente? Comenta aqui. Estou lendo. 💛"
+            }
+          ],
+          "legenda": "Esse carrossel pode mudar como você vê a sua própria ansiedade. 💛\n\nSalva para consultar e compartilha com alguém que precisa entender a diferença.\n\n#ansiedade #saudemental #psicologia #mulheres #autoconhecimento #terapia #ansiedadecronica"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Alinne Moraes termina casamento de 14 anos com Mauro Lima — e o que a duração não garantiu",
+      "resumo": "A atriz Alinne Moraes e o cineasta Mauro Lima oficializaram o fim do casamento após 14 anos juntos. A separação chega numa semana com múltiplos términos de longa data entre famosos. Priscilla pode usar o caso para trabalhar um tema central para sua audiência: por que a duração de um relacionamento não é indicador de saúde emocional — e como reconhecer quando tempo virou apenas hábito.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "lo-fi"
       ],
-      "fonte": "Estrelando.com.br — separacoes-famosos-2026",
+      "fonte": "Estrelando / Tribuna do Sertão — separações de famosos em 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O fim do casamento de Ivi Pizzott e Luis Navarro esconde um tema que poucos querem discutir: o que a maternidade faz com o casal.",
-          "gancho": "Ivi Pizzott e Luis Navarro terminaram apos 10 anos e duas filhas. E o motivo por tras disso pode ser mais comum do que voce imagina.",
+          "ideia_central": "O caso da Alinne Moraes revela algo incômodo: 14 anos não são prova de que um relacionamento é saudável — às vezes é prova de que a mulher ficou por medo de recomeçar.",
+          "gancho": "14 anos de casamento e terminou. O caso da Alinne Moraes me fez pensar em algo que ninguém quer falar.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Ivi Pizzott e Luis Navarro encerraram 10 anos de casamento. Duas filhas. Uma decada. E isso me lembrou de uma conversa que eu tenho toda semana no consultorio."
+              "fala": "Alinne Moraes e Mauro Lima. 14 anos de casamento. Terminou essa semana. E eu quero falar sobre o que a duração de um relacionamento realmente significa."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Quando um casal que parece estavel chega ao fim depois de anos e filhos, as pessoas ficam em choque. Mas a verdade e que o nascimento de um filho e um dos maiores testes de um relacionamento."
+              "fala": "Essa semana foi marcada por separações longas: Nívea Stelmann, 14 anos. Alinne Moraes, 14 anos. E quando uma relação longa termina, a primeira coisa que as pessoas dizem é 'mas duraram tanto tempo'. Como se a duração fosse prova de sucesso do relacionamento."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "A maternidade transforma a mulher de forma tao profunda que, muitas vezes, ela nao cabe mais no relacionamento que tinha antes. E o parceiro, que nao passou pela mesma transformacao, nao consegue acompanhar. Nao e culpa de ninguem — mas e uma realidade que a gente precisa preparar os casais."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia não mede a saúde de um relacionamento em anos. Mede em qualidade de presença, em reciprocidade, em crescimento. Um relacionamento pode durar 20 anos e ser emocionalmente vazio. Pode durar 2 anos e ter sido profundamente transformador. O tempo que a gente fica numa relação muitas vezes tem mais a ver com medo de recomeçar do que com amor. E isso é importante nomear."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce sentiu que a maternidade mudou o seu relacionamento? De que forma? Me conta aqui."
+              "fala": "Você já ficou num relacionamento por mais tempo do que deveria? Me conta — sem julgamento."
             }
           ],
-          "legenda": "Ivi Pizzott e Luis Navarro: 10 anos, duas filhas, fim do casamento.\n\nE uma noticia que parece distante — ate voce perceber quantos casais ao seu redor vivem a mesma historia.\n\nA maternidade e um dos maiores testes de um relacionamento. E poucos casais se preparam para isso.\n\nA mulher se transforma depois que tem filhos. O amor se transforma. A dinamica muda. E o casal que nao cresce junto... se afasta.\n\nVoce sentiu isso? A maternidade mudou o seu relacionamento? Como?\n\n#ivipizzott #casamento #maternidade #relacionamento #psicologia #mulher #comportamentofeminino #familias #amorefilhos"
+          "legenda": "14 anos de casamento — e terminou. ✨\n\nO caso da Alinne Moraes e do Mauro Lima é o segundo término de longa data que aparece essa semana. E me fez querer falar sobre algo que poucas pessoas têm coragem de nomear:\n\nA duração de um relacionamento NÃO é prova de que ele é saudável.\n\nÀs vezes duramos em relações por medo de recomeçar.\nPor não saber quem somos sem aquela pessoa.\nPor ter investido tanto que desistir parece fracasso.\nPor amor à versão que a pessoa já foi — não a que ela é hoje.\n\nA psicologia não mede saúde afetiva em anos. Mede em qualidade de presença, reciprocidade e crescimento mútuo.\n\nE às vezes o ato mais corajoso é reconhecer: ficamos tempo demais. E isso está ok. 💛\n\n💬 Você já ficou numa relação mais tempo do que deveria?\n\n#alinne moraes #separacao #relacionamento #psicologia #coragem #autoconhecimento #amor #mulheres #identidade #recomecar"
         },
         "lo-fi": {
-          "ideia": "Conversa intimista sobre o impacto silencioso da maternidade nos relacionamentos — a partir do caso de Ivi Pizzott.",
-          "gancho": "O fim do casamento de Ivi Pizzott depois de 10 anos e filhos me fez querer te contar uma coisa que vejo toda semana no consultorio.",
+          "ideia": "Conversa íntima sobre o medo de sair de relacionamentos longos e a diferença entre amor e hábito.",
+          "gancho": "Durar 14 anos não significa que era saudável. E isso é difícil de admitir.",
           "o_que_falar": [
-            "Apresentar o caso: Ivi Pizzott e Luis Navarro, 10 anos juntos, duas filhas, fim do casamento essa semana",
-            "Insight: a maternidade e um dos eventos mais transformadores na vida de uma mulher — e muitos relacionamentos nao sobrevivem a essa transformacao",
-            "Conexao com as seguidoras: voce ja sentiu que mudou demais depois dos filhos? Que o parceiro nao te acompanhou nessa transformacao?",
-            "CTA: me conta como a maternidade mudou o seu relacionamento — ou o relacionamento de alguem que voce conhece"
+            "Contexto do caso: Alinne Moraes e Mauro Lima, 14 anos, terminou essa semana — segunda separação longa na mesma semana (Nívea Stelmann também)",
+            "A ilusão da duração: por que a gente associa 'tempo' com 'sucesso' num relacionamento e por que isso é uma armadilha",
+            "O medo de recomeçar: ficamos em relações mais tempo do que deveríamos por medo de não saber quem somos sem aquela pessoa",
+            "CTA: convidar as seguidoras a comentar ou salvar — perguntar se elas já ficaram mais tempo do que deveriam"
           ],
-          "legenda": "10 anos, duas filhas, e o casamento chegou ao fim.\n\nIsso e mais comum do que parece. E eu precisava falar sobre isso.\n\nComenta aqui: a maternidade mudou o seu relacionamento?\n\n#maternidade #relacionamento #casamento #psicologia #mulher #ivipizzott #comportamentofeminino",
-          "vibe": "Camera estatica, ambiente aconchegante (sala ou quarto), luz suave, tom empatico e sereno. Pode ter uma xicara na mao."
+          "legenda": "Sobre amor, tempo e o medo de recomeçar. 💛\n\nDurar 14 anos não é garantia de nada — às vezes é apenas o tamanho do medo de sair.\n\nE tudo bem nomear isso.\n\n#relacionamento #psicologia #autoimagem #separacao #coragem #mulheres #autoconhecimento",
+          "vibe": "Câmera estática, tom íntimo de diário, luz natural — como se estivesse conversando com uma amiga de confiança. Sem edição elaborada, autenticidade em primeiro lugar."
         }
       }
     },
     {
-      "id": 9,
-      "titulo": "Tom Holland e Zendaya: o casamento secreto mais falado do mundo — e o que a privacidade do casal nos ensina",
-      "resumo": "Rumores de que Tom Holland e Zendaya ja estariam casados secretamente circularam nas redes apos o estilista Law Roach afirmar que o casamento ja aconteceu. O casal, famoso por proteger sua relacao dos holofotes, virou simbolo de uma tendencia crescente: relacionamentos levados longe dos olhos do publico. O angulo de Priscilla: o que a escolha de manter um relacionamento privado revela sobre maturidade afetiva — e por que expor demais pode ser sinal de inseguranca.",
+      "id": 7,
+      "titulo": "Beige flags: a nova linguagem viral do amor que está tomando o Instagram e o TikTok agora",
+      "resumo": "Depois das red flags e das green flags, as 'beige flags' explodiram nas redes esta semana: são as manias estranhas, curiosas e levemente irritantes de uma pessoa que não chegam a ser prejudiciais ao relacionamento. O debate está dominando o Instagram e o TikTok. Priscilla pode entrar com o ângulo clínico: quando uma 'beige flag' é realmente inofensiva e quando ela é o começo de algo que merece atenção — a linha tênue entre peculiaridade e padrão preocupante.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
         "carrossel"
       ],
-      "fonte": "Page Six / Cosmopolitan — celebrity-weddings-2026",
+      "fonte": "Terra / Metrópoles — debate viral sobre 'beige flags' nos relacionamentos (2026)",
       "copies": {
         "reels-react": {
-          "ideia_central": "Tom Holland e Zendaya escolheram se casar longe dos olhos do mundo — e isso e uma licao de maturidade afetiva que a maioria do Instagram precisa ouvir.",
-          "gancho": "Tom Holland e Zendaya podem ja estar casados — em segredo. E honestamente, como psicologa, acho isso um dos atos mais inteligentes de um casal famoso.",
+          "ideia_central": "A trend das beige flags é divertida — mas como psicóloga, preciso te mostrar a diferença entre o que é peculiaridade saudável e o que é sinal que merece atenção.",
+          "gancho": "Beige flags estão tomando o Instagram. Mas como psicóloga, preciso te fazer uma pergunta importante sobre isso.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Circulou essa semana que Tom Holland e Zendaya ja estao casados — em segredo. E enquanto o mundo ficou obcecado em descobrir detalhes, eu fiquei pensando em outra coisa."
+              "fala": "Beige flags, green flags, red flags. A internet criou uma linguagem inteira para falar de comportamentos nos relacionamentos. E eu adoro. Mas tem uma coisa que preciso te dizer."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Eles sao famosos globais. Poderiam ter o casamento do seculo. E escolheram o silencio. A privacidade. Isso num mundo onde as pessoas postam o jantar do relacionamento antes de postar o proprio sentimento."
+              "fala": "A beige flag virou tendência essa semana: são aquelas manias levemente irritantes ou esquisitas da pessoa que não chegam a ser um problema. Coisa fofa, né? Mas o que estou vendo nas consultas é gente usando esse conceito para minimizar o que talvez não devesse ser minimizado."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Como psicologa, eu digo: expor demais um relacionamento pode ser sinal de inseguranca — a necessidade de validacao externa para sentir que o amor e real. O relacionamento saudavel nao precisa de testemunha. Ele se sustenta entre voces dois."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "Então vou te dar uma regra clínica simples: uma beige flag de verdade é algo que te faz sorrir, mesmo quando te irrita. Um red flag disfarçado de beige flag é algo que, quando acontece, te dá aquele aperto no peito — mas você logo justifica. A diferença está no seu corpo, não na internet. Se o seu estômago aperta, ouça."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce posta muito sobre o seu relacionamento? Ja parou pra pensar por que faz isso? Me conta aqui."
+              "fala": "Qual é a 'beige flag' do seu parceiro? Me conta nos comentários — e eu te digo se é realmente bege ou se está pintada."
             }
           ],
-          "legenda": "Tom Holland e Zendaya casaram em segredo — ou pelo menos e o que circula nas redes essa semana.\n\nE enquanto todo mundo quer saber onde, quando e como...\n\nEu fiquei pensando em quanto isso e saudavel.\n\nNum mundo onde as pessoas postam cada jantar romantico, cada viagem em casal, cada 'meu amor' nos stories...\n\nEles escolheram a privacidade.\n\nExpor demais um relacionamento pode ser sinal de inseguranca — a necessidade de validacao externa para sentir que o amor e real.\n\nO relacionamento saudavel nao precisa de testemunha. Ele se sustenta entre os dois.\n\nVoce posta muito sobre o seu relacionamento? Por que?\n\n#tomholland #zendaya #relacionamento #psicologia #privacidade #casamento #maturidadeafetiva #comportamentofeminino #amor #inseguranca"
+          "legenda": "Beige flags, green flags, red flags... 🚩🟢🟤\n\nA internet criou um dicionário inteiro para os relacionamentos. E eu, como psicóloga, agradeço — porque essa linguagem ajuda a nomear o que antes ficava no ar.\n\nMas tem um risco: usar o termo 'beige flag' para pintar de bege o que é vermelho.\n\nRegra clínica simples:\n\n✅ Beige flag de verdade: algo que te faz sorrir mesmo quando te irrita. Uma mania, uma esquisitice, uma peculiaridade.\n\n🚩 Red flag pintado de bege: algo que te dá aperto no peito quando acontece — e você rapidamente justifica para si mesma.\n\nA diferença não está na definição do dicionário. Está no seu corpo.\n\nSe o seu estômago aperta, ouça.\n\n💬 Me conta: qual é a 'beige flag' do seu parceiro? Quero analisar com você.\n\n#beigeflag #redflag #greenflag #relacionamento #psicologia #comportamentofeminino #terapia #relacionamentosaudavel #amor #sinais"
         },
         "carrossel": {
-          "ideia": "Por que expor demais o relacionamento nas redes pode ser sinal de inseguranca — a partir da escolha de privacidade de Tom Holland e Zendaya.",
+          "ideia": "Guia visual para diferenciar beige flag real de red flag disfarçado — com exemplos práticos.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Quanto voce posta do seu relacionamento — e o que isso diz sobre voce",
-              "subtitulo": "A licao que Tom Holland e Zendaya deram essa semana sobre maturidade afetiva."
+              "titulo": "Beige flag ou red flag disfarçado?",
+              "subtitulo": "A psicóloga te ajuda a diferenciar — porque nem todo bege é inofensivo"
             },
             {
               "numero": 2,
-              "tipo": "Contextualizacao",
-              "titulo": "O casal que escolheu o silencio",
-              "texto": "Rumores de casamento secreto de Tom Holland e Zendaya tomaram as redes essa semana. Dois dos famosos mais seguidos do mundo. Casaram — ou estao casando — longe de todos. Por escolha."
+              "tipo": "Contextualização",
+              "titulo": "A trend que tomou as redes",
+              "texto": "Beige flags são as manias levemente irritantes de uma pessoa que não chegam a ser um problema. A trend viralizou essa semana. E ela é ótima — mas precisa de uma leitura clínica."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Por que postar demais pode ser sinal de alerta",
-              "texto": "Postagem excessiva do relacionamento pode indicar necessidade de validacao externa. Como se o amor precisasse de curtidas para ser real."
+              "titulo": "Como diferenciar",
+              "texto": "BEIGE FLAG: te faz sorrir mesmo quando irrita. Você ri disso juntos. Não interfere na sua autoestima ou segurança.\n\nRED FLAG PINTADO DE BEGE: te dá desconforto repetido. Você justifica para si mesma. Está ligado a controle, desrespeito ou descaso disfarçado de peculiaridade."
             },
             {
               "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que o relacionamento saudavel parece",
-              "texto": "Confianca que nao precisa de prova. Intimidade que nao precisa de publico. Momentos que ficam so entre voces dois."
+              "tipo": "Virada",
+              "titulo": "A regra do corpo",
+              "texto": "Não confie só na definição. Confie no seu estômago. Beige flag real: leveza. Red flag disfarçado: aquele aperto sutil que você aprende a ignorar."
             },
             {
               "numero": 5,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "O problema nao e postar — e por que voce posta. Se e pra compartilhar alegria, otimo. Se e pra provar algo pra alguem, atencao."
-            },
-            {
-              "numero": 6,
               "tipo": "CTA",
-              "titulo": "Reflexao honesta",
-              "texto": "Voce posta pra compartilhar ou pra provar? Salva esse carrossel e reflete com calma."
+              "titulo": "Qual é a beige flag do seu parceiro?",
+              "texto": "Me conta nos comentários. Estou aqui para te ajudar a distinguir. 💛"
             }
           ],
-          "legenda": "Tom Holland e Zendaya escolheram o silencio. E isso diz muito.\n\nQuanto do seu relacionamento voce posta — e por que?\n\nSalva esse carrossel. Compartilha com uma amiga. E reflete com honestidade.\n\n#zendaya #tomholland #relacionamento #psicologia #redesociais #casamento #maturidadeafetiva #comportamento #amor"
+          "legenda": "Salva esse carrossel antes de chamar algo de 'beige flag'. 🤍\n\nNem toda mania estranha é inofensiva — e a psicologia te ajuda a distinguir.\n\n#beigeflag #redflag #relacionamento #psicologia #sinais #comportamentofeminino #amor #terapia"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "titulo": "75% das meninas de 13 anos já editaram as próprias fotos — e o que esse dado revela sobre a próxima geração de mulheres",
+      "resumo": "Uma pesquisa revelou que 75% das meninas de 13 anos já utilizaram aplicativos para manipular digitalmente a própria imagem antes de publicar nas redes sociais, e 64% tentam esconder ou modificar alguma parte do corpo. O dado está sendo amplamente comentado esta semana. Priscilla pode trazer o impacto clínico dessa normalização precoce da autofalsificação — e conectar com o que ela provoca na autoestima adulta.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "Pesquisa sobre imagem corporal e redes sociais (2026) — via Instituto CRIAP e publicações académicas",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Quando uma menina aprende, aos 13 anos, que a sua imagem real não é suficiente para ser publicada, ela também aprende que ela mesma não é suficiente.",
+          "gancho": "75% das meninas de 13 anos já editaram as próprias fotos. E isso explica muito do que eu vejo nas consultas com mulheres adultas.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "75% das meninas de 13 anos já editaram as próprias fotos antes de postar. Esse dado está circulando essa semana. E eu preciso te dizer o que ele significa além dos números."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "Pesquisa nova mostra: 3 em cada 4 meninas de 13 anos já usaram filtros ou apps para modificar o próprio corpo antes de publicar nas redes. 64% tentam esconder alguma parte do corpo em cada foto que postam. Isso em adolescentes — no começo da formação da identidade."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "O que essa criança está aprendendo? Que a sua imagem real — o seu corpo real — não é suficiente para existir publicamente. E quando isso se instala aos 13 anos, chegamos aos 30, 40, 50 ainda achando que somos demais em alguma coisa e de menos em tudo. A baixa autoestima não começa na vida adulta. Começa exatamente aqui."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você ainda lembra da sua relação com o espelho aos 13 anos? Me conta nos comentários."
+            }
+          ],
+          "legenda": "75% das meninas de 13 anos já editaram as próprias fotos. 💔\n64% tentam esconder alguma parte do corpo antes de postar.\n\nEsse dado virou discussão essa semana — e eu não consigo deixar passar sem falar como psicóloga.\n\nPorque o que está acontecendo aqui não é só vaidade adolescente.\n\nÉ uma menina aprendendo, na idade mais formativa da vida, que o seu corpo real não é suficiente para existir publicamente.\n\nE essa crença — 'minha imagem precisa ser editada para ser aceita' — não fica na adolescência.\n\nEla vem para a vida adulta.\nEla entra nos relacionamentos.\nEla aparece na sua dificuldade de se olhar no espelho sem criticar.\nEla está na voz que diz 'espera eu emagrecer' antes de qualquer coisa importante.\n\nA baixa autoestima não começa quando adulta. Começa exatamente aqui. 💛\n\n💬 Você lembra como era a sua relação com a sua imagem aos 13 anos?\n\n#autoimagem #autoestima #adolescencia #redessociais #psicologia #imagem corporal #mulheres #filtros #identidade #genteboa"
+        },
+        "post-estatico": {
+          "ideia": "Dado impactante transformado em arte para parar o scroll e provocar reflexão.",
+          "titulo_visual": "75% das meninas de 13 anos\njá editaram as próprias fotos\nantes de postar.\n\nO que ensinamos às nossas filhas\nsobre quem elas precisam ser?",
+          "legenda": "Esse dado me parte o coração — e me faz querer falar sobre autoestima real com toda mulher que me lê. 💛\n\nA baixa autoestima não começa na vida adulta. Começa muito antes.\n\nSalva e compartilha. Essa conversa precisa acontecer.\n\n#autoimagem #autoestima #mulheres #psicologia #imagem #adolescentes #redessociais #identidade",
+          "cta": "Salva esse post e mostra para alguém que precisa ver."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "Em 2026, as mulheres estão escolhendo desacelerar — e a ciência explica por que isso é um ato radical",
+      "resumo": "O movimento 'slow living' está sendo identificado como a maior tendência comportamental feminina de 2026: mais tempo offline, recusa da produtividade tóxica, prioridade para o descanso e reconexão com o que é essencial. Matérias e pesquisas desta semana apontam que mulheres estão liderando esse movimento de desaceleração consciente. Priscilla pode oferecer o embasamento psicológico e validar essa escolha — num mundo que ainda premia a mulher que 'dá conta de tudo'.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Estado de Minas / Portal Afinamenina — 'A tendência de autocuidado que vai dominar 2026 com descanso e tempo offline'",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Desacelerar não é preguiça — é a mulher recuperando o que o mundo passou décadas roubando dela: o direito de simplesmente ser.",
+          "gancho": "A maior tendência feminina de 2026 é desacelerar. E eu preciso que você entenda por que isso é um ato de resistência.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "A maior tendência feminina de 2026 não é produtividade, rotina de alta performance ou acordar às 5 da manhã. É desacelerar. E eu preciso te dizer por que isso muda tudo."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "Pesquisas e matérias dessa semana apontam o slow living como o movimento que está dominando o comportamento feminino: mais tempo offline, prioridade para o descanso, recusa da cultura do 'dar conta de tudo'. As mulheres estão na liderança dessa mudança."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "E do ponto de vista da psicologia, isso é revolucionário. Porque por décadas, a mulher foi premiada por ser incansável, multitarefa, disponível para todos. Descansar virou culpa. Dizer não virou egoísmo. A desaceleração consciente é o oposto disso: é a mulher reconhecendo que ela também tem direito a existir — não só a servir."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Você já conseguiu desacelerar de verdade? O que te impede? Me conta aqui."
+            }
+          ],
+          "legenda": "A maior tendência feminina de 2026 não é acordar às 5h e ter uma rotina de alta performance.\n\nÉ desacelerar. ✨\n\nO slow living está liderando as pesquisas de comportamento feminino essa semana: mais tempo offline, prioridade para o descanso, recusa da cultura do 'sempre produzindo'.\n\nE como psicóloga, isso me enche de esperança. Porque por décadas a mulher foi premiada por ser incansável.\n\nDescansar virou culpa.\nSentir virou fraqueza.\nDizer não virou egoísmo.\n\nA desaceleração consciente é um ato radical porque desafia exatamente essa programação.\n\nÉ a mulher dizendo: eu também existo quando não estou sendo útil.\n\nVocê tem direito de desacelerar. 💛\n\n💬 O que mais te impede de desacelerar de verdade?\n\n#slowliving #autocuidado #mulheres #psicologia #desacelerar #bemestar #saudemental #espiritualidade #autoconhecimento #equilibrio"
+        },
+        "lo-fi": {
+          "ideia": "Conversa íntima e validadora sobre o direito de desacelerar — sem culpa e com embasamento psicológico.",
+          "gancho": "Você sente culpa quando descansa? Então esse vídeo é para você.",
+          "o_que_falar": [
+            "Contextualizar a tendência: slow living como maior movimento feminino de 2026 — desaceleração, offline, descanso sem culpa",
+            "A programação que nos faz sentir que descansar é perda de tempo ou egoísmo",
+            "O que a psicologia diz sobre a necessidade de descanso para o sistema nervoso feminino — não é luxo, é saúde",
+            "Convite para reflexão: o que te impede de desacelerar hoje?"
+          ],
+          "legenda": "Desacelerar não é preguiça. É saúde. 💛\n\nO slow living é a tendência feminina do momento — e tem embasamento psicológico real por trás.\n\nVocê tem direito de existir quando não está sendo produtiva. 🤍\n\n#slowliving #autocuidado #mulheres #psicologia #descanso #bemestar #autoconhecimento",
+          "vibe": "Câmera estática, ambiente tranquilo — xícara de chá, planta ao fundo, luz natural difusa. Tom de conversa íntima. Sem pressa, ritmo lento intencional para espelhar o tema."
         }
       }
     },
     {
       "id": 10,
-      "titulo": "Slow living: a mulher de 2026 que escolheu parar — e o que a ciencia diz sobre desacelerar como ato de saude",
-      "resumo": "O movimento 'slow living' emergiu como a maior tendencia de autocuidado de 2026, com mulheres escolhendo ativamente desacelerar, desconectar do digital e priorizar qualidade sobre quantidade. A tendencia e uma resposta a anos de cultura de produtividade toxica e hiperconectividade — e tem respaldo cientifico como estrategia de bem-estar. O angulo de Priscilla: desacelerar nao e preguica — e um ato de autoconhecimento profundo, e a mulher que aprende isso muda sua relacao com ela mesma e com os outros.",
+      "titulo": "A espiritualidade feminina que está em alta em 2026 — e como ela se conecta com psicologia real",
+      "resumo": "Cada vez mais mulheres estão buscando espiritualidade feminina como caminho de autoconhecimento, compreensão de ciclos e reconexão com o próprio poder. A tendência aparece em múltiplas pesquisas de 2026 e está crescendo especialmente entre mulheres de 25 a 45 anos. Priscilla pode oferecer uma perspectiva que integra psicologia e espiritualidade — validando a busca sem cair em clichês e mostrando como o autoconhecimento espiritual e psicológico se complementam.",
       "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "evergreen",
       "formato_principal": "reels-react",
       "formatos_alternativos": [
-        "post-estatico"
+        "lo-fi"
       ],
-      "fonte": "Estado de Minas / EM.com.br — 'A tendencia de autocuidado que vai dominar 2026'",
+      "fonte": "Terra / Portal EdiCase — 'Praticar a espiritualidade feminina ajuda a desenvolver o autoconhecimento' (2026)",
       "copies": {
         "reels-react": {
-          "ideia_central": "Slow living em 2026 nao e tendencia de Instagram — e uma resposta psicologica saudavel a uma geracao que foi ensinada que parar e fracasso.",
-          "gancho": "A maior tendencia de bem-estar de 2026 nao e uma dieta nem um treino. E aprender a parar.",
+          "ideia_central": "Espiritualidade feminina não é misticismo sem fundamento — é a mulher criando uma linguagem para o que a psicologia também reconhece: a necessidade de reconexão com o próprio ser.",
+          "gancho": "A espiritualidade feminina está em alta. E como psicóloga, eu te explico por que isso faz todo sentido científico.",
           "roteiro": [
             {
-              "tempo": "0-3s",
+              "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "A maior tendencia de autocuidado de 2026, segundo especialistas, e o slow living. E nao, nao e preguica."
+              "fala": "A espiritualidade feminina virou tendência em 2026. Ciclos, intuição, poder feminino, autoconhecimento profundo. E eu, como psicóloga, quero te contar por que não me surpreende — e por que faz todo sentido."
             },
             {
-              "tempo": "3-15s",
+              "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Depois de anos de produtividade toxica, de ser multitarefa, de responder mensagem em todo lugar e a toda hora, as mulheres estao escolhendo desacelerar. Menos estimulos. Mais presenca. Mais silencio."
+              "fala": "Pesquisas mostram que cada vez mais mulheres estão buscando espiritualidade como caminho de autoconhecimento — não necessariamente religião, mas uma prática de reconexão com si mesmas, com os próprios ciclos e com um senso de propósito maior."
             },
             {
-              "tempo": "15-25s",
-              "descricao": "Virada psicologica",
-              "fala": "Como psicologa, eu vejo isso como uma revolucao silenciosa. A mulher que aprende a parar — mesmo que por 20 minutos por dia — desenvolve algo que anos de produtividade nao dao: autoconhecimento. Voce so sabe quem e quando para de fugir de voce mesma."
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia chama isso de necessidade de coerência interna: o ser humano precisa de narrativa, de propósito, de algo que conecte quem ele foi, quem ele é e quem ele quer ser. A espiritualidade feminina oferece exatamente isso — numa linguagem que ressoa com o que a mulher já sente intuitivamente sobre si mesma. Isso não é irracional. É profundamente humano."
             },
             {
-              "tempo": "25-30s",
+              "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Voce sabe parar? Ou voce sempre precisa estar fazendo alguma coisa? Me conta como e isso pra voce."
+              "fala": "Você tem alguma prática espiritual que sustenta o seu autoconhecimento? Me conta aqui."
             }
           ],
-          "legenda": "Slow living e a maior tendencia de bem-estar de 2026.\n\nE nao e coincidencia.\n\nDepois de anos correndo, sendo produtiva, estando disponivel 24h, a mulher esta escolhendo PARAR.\n\nE isso nao e fraqueza. E sabedoria.\n\nA mulher que aprende a desacelerar descobre coisas que a correria escondia:\n— O que ela realmente quer\n— O que ela nao aguenta mais\n— Quem ela e quando nao esta performando\n\nVoce sabe parar?\n\n#slowliving #autocuidado #psicologia #mulher #autoconhecimento #bem-estar #saudemental #espiritualidade #comportamentofeminino #desacelerar"
+          "legenda": "Espiritualidade feminina está em alta em 2026. E eu preciso falar sobre isso como psicóloga. ✨\n\nNão é sobre misticismo.\nNão é sobre fugir da realidade.\n\nÉ sobre a mulher criando uma linguagem para o que ela já sente — e que a ciência também reconhece como necessidade fundamental:\n\nCoerência interna.\nPropósito.\nAutoconhecimento profundo.\nReconexão com os próprios ciclos e com o que é essencial.\n\nA psicologia e a espiritualidade não são opostas. São caminhos diferentes para o mesmo lugar: você, de volta para si mesma. 💛\n\nQual é a sua prática? Me conta nos comentários.\n\n#espiritualidade #espiritualidadefeminina #autoconhecimento #psicologia #mulheres #ciclos #bemestar #proposito #cura #saudemental"
         },
-        "post-estatico": {
-          "ideia": "Frase poderosa sobre o ato de parar como autoconhecimento — tendencia slow living 2026.",
-          "titulo_visual": "Parar nao e fraqueza. E a coisa mais corajosa que uma mulher ocupada pode fazer.",
-          "legenda": "Slow living e a tendencia que domina 2026 — e nao e so estetica.\n\nE a mulher que percebeu que a correria estava apagando quem ela e.\n\nSalva esse post. Compartilha com quem precisa ouvir isso hoje.\n\n#slowliving #autocuidado #mulher #psicologia #autoconhecimento #bem-estar #parar #espiritualidade",
-          "cta": "Salva e compartilha com aquela amiga que vive no modo 'ocupada'."
+        "lo-fi": {
+          "ideia": "Conversa íntima sobre como espiritualidade e psicologia se encontram — para mulheres que buscam os dois mas não sabem se podem integrar.",
+          "gancho": "Você pratica espiritualidade e também faz terapia? Eu vou te contar por que esses dois caminhos se complementam.",
+          "o_que_falar": [
+            "Abertura pessoal: como você vê a relação entre espiritualidade e psicologia no seu próprio trabalho",
+            "A tendência real de 2026: mulheres buscando práticas espirituais como forma de autoconhecimento, não só religião",
+            "O que a psicologia reconhece que a espiritualidade oferece: narrativa, propósito, coerência interna, reconexão com ciclos",
+            "Convite para compartilhar: qual é a prática espiritual delas"
+          ],
+          "legenda": "Espiritualidade e psicologia andam juntas — e em 2026 cada vez mais mulheres estão descobrindo isso. ✨\n\n#espiritualidade #psicologia #autoconhecimento #mulheres #ciclos #terapia #proposito",
+          "vibe": "Ambiente tranquilo e intimista — luz de vela ou luz natural suave, tom reflexivo e acolhedor. Falar devagar, pausas intencionais. Câmera estática ou levemente inclinada para criar sensação de conversa próxima."
         }
       }
     }
