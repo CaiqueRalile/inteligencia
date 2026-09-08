@@ -1,648 +1,617 @@
 {
-  "versao": "2026-08-30",
-  "gerado_em": "2026-08-30T06:00:00Z",
-  "contexto_do_dia": "Esta semana o Brasil acompanhou o término chocante de Erika Januza e Arlindinho após ele ser flagrado em casa de swing, e o fim de 21 anos de casamento de Tulla Luana por traição virtual. No campo profissional, o Summit Mulheres nas Profissões reuniu 10 mil pessoas em SP nos dias 4-5 de agosto. Dado bomba: 63% de todos os afastamentos por saúde mental no trabalho são de mulheres — tema que acendeu debate intenso nas redes.",
+  "versao": "2026-09-08",
+  "gerado_em": "2026-09-08T06:00:00Z",
+  "contexto_do_dia": "Setembro 2026 está sendo o 'mês maldito' dos famosos: Ana Castela e Gustavo Miotto encerraram o namoro via story (sem Castela se pronunciar publicamente), Sandy e Lucas Lima anunciaram separação após anos de casamento icônico, e o caso Erika Januza x Arlindinho — flagrado saindo de casa de swing com duas mulheres — ainda ecoa nas redes. Setembro Amarelo acende o debate sobre saúde mental feminina, enquanto a trend 'Potential-Maxxing' no Instagram desafia mulheres a trocarem afirmações vazias por conquistas concretas.",
   "items": [
     {
       "id": 1,
-      "titulo": "Erika Januza termina com Arlindinho após flagra em casa de swing — e a psicologia por trás do fim",
-      "resumo": "Erika Januza encerrou o namoro com Arlindinho após ele ser flagrado frequentando uma casa de swing sem o consentimento dela. O caso viralizou porque expõe a linha tênue entre escolhas individuais e traição dentro de um relacionamento. Para Priscilla, o episódio é um espelho de como limites não combinados destroem vínculos — e por que tantas mulheres demoram para agir mesmo diante de provas.",
+      "titulo": "Por Que Gustavo Miotto Anunciou o Fim e Ana Castela Ficou em Silêncio",
+      "resumo": "Gustavo Miotto publicou o término do namoro com Ana Castela por story — sem que ela se pronunciasse. Quem anuncia primeiro tem o poder narrativo. O ângulo psicológico está em entender se o silêncio de Ana é estratégia, colapso emocional ou simplesmente o luto de quem ainda não sabe o que sente.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": ["carrossel"],
-      "fonte": "Estrelando.com.br / portais de fofoca — caso viral semana de agosto 2026",
+      "fonte": "Story de Gustavo Miotto no Instagram, 25/09/2026 — repercussão Band, Estrelando, CNN Brasil",
       "copies": {
         "reels-react": {
-          "ideia_central": "O caso Erika Januza revela que a traição começa muito antes do flagra — começa quando um não combina os limites.",
-          "gancho": "O Arlindinho foi flagrado em casa de swing e a Erika Januza terminou. Mas o que ninguém está falando é o que veio ANTES disso.",
+          "ideia_central": "Quem anuncia o término primeiro controla a narrativa — e Ana Castela não exerceu esse poder, e isso diz muito.",
+          "gancho": "Gustavo Miotto postou o término. Ana Castela ficou em silêncio. E eu preciso te falar o que essa diferença revela.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "O Arlindinho foi flagrado numa casa de swing. A Erika Januza terminou o namoro. E o Brasil inteiro ficou com uma dúvida: isso é traição ou preferência pessoal dele?"
+              "fala": "Gustavo Miotto postou o término com Ana Castela pelo story. Ela não falou nada. E como psicóloga, isso me chamou muita atenção."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O caso viralizou exatamente por isso: existe uma zona cinza enorme quando o assunto é swing, relacionamento aberto, limites combinados. Mas o problema aqui não é o swing em si — é o fato de que, pelo que chegou a público, ela não sabia, não concordou, não foi incluída na decisão."
+              "fala": "Quando uma separação é anunciada por apenas um lado, geralmente quem anuncia é quem já estava preparado. Que processou antes. Que já tinha a narrativa pronta. Isso dá a ele o poder de contar como quer, quando quer."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "E é aí que entra a psicologia: a traição real não começa na casa de swing. Começa na conversa que nunca aconteceu. Quando um parceiro age nas sombras em vez de trazer o assunto para a mesa, já há uma violação de confiança — independente do ato em si. Erika fez o que muitas mulheres demoram anos para fazer: respeitou o próprio limite."
+              "fala": "Ana pode estar em colapso emocional, em luto, ou até fazendo a escolha mais sábia: não falar quando ainda não sabe o que sente. Como psicóloga, eu te digo — o silêncio da mulher não é fraqueza. Mas quando vem do desamparo, ela perde a narrativa da própria história."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Os limites no seu relacionamento estão combinados ou apenas assumidos? Me conta nos comentários."
+              "fala": "Você já viveu uma separação onde o outro lado anunciou antes? Me conta nos comentários como foi."
             }
           ],
-          "legenda": "Erika Januza terminou com Arlindinho após ele ser flagrado em casa de swing. E o Brasil está dividido: isso é traição?\n\nComo psicóloga, eu te digo: o ato em si não é o ponto central. O ponto é a ausência de conversa, de combinado, de transparência.\n\nA traição real começa quando alguém age nas sombras em vez de trazer o assunto para a parceira. Quando a decisão é unilateral numa relação que deveria ser de dois.\n\nErika fez o que muitas mulheres levam anos para conseguir: honrou o próprio limite sem precisar de mais provas ou mais chances.\n\nE você — os limites no seu relacionamento estão combinados ou apenas assumidos?\n\n#ErikaJanuza #Arlindinho #Relacionamento #RedFlag #Traicao #PsicologiaDoAmor #LimitesNoRelacionamento #PriscillaAndrade"
+          "legenda": "Gustavo Miotto anunciou o fim do namoro com Ana Castela pelo story — sem ela se pronunciar.\n\nE isso, psicologicamente, importa MUITO.\n\nQuem anuncia primeiro tem o poder narrativo. Define o tom, o timing, a versão que o público recebe.\n\nAna Castela pode estar em luto. Pode estar em silêncio estratégico. Pode simplesmente ainda não saber o que sente — e isso é mais honesto do que qualquer postagem apressada.\n\nMas o que ninguém está falando é: a mulher que não fala perde o controle da própria história.\n\nE isso não começa aí. Começa muito antes — nos relacionamentos onde aprendemos que nossos sentimentos não merecem espaço.\n\n💬 Você já foi a Ana Castela dessa situação? Me conta.\n\n#AnaCastela #GustavoMiotto #Psicologia #Relacionamento #Separação #Autoconhecimento #PsicologiaFeminina #PriscillaAndrade"
         },
         "carrossel": {
-          "ideia": "A partir do caso Erika Januza, listar os 5 sinais de que os limites do seu relacionamento nunca foram realmente combinados.",
+          "ideia": "Quem controla a narrativa numa separação — e por que isso machuca mais do que parece.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "O caso Erika Januza revela algo que acontece em MUITOS relacionamentos",
-              "subtitulo": "5 sinais de que seus limites nunca foram realmente combinados"
+              "titulo": "Quem Anuncia o Término Primeiro Tem o Poder",
+              "subtitulo": "O caso Ana Castela x Gustavo Miotto e o que ele diz sobre toda separação"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
               "titulo": "O que aconteceu",
-              "texto": "Erika Januza encerrou o namoro com Arlindinho após ele ser flagrado em uma casa de swing sem o conhecimento dela. O caso dividiu opiniões: é traição? É preferência pessoal?\n\nA resposta está nos limites que o casal combinava — ou não combinava."
+              "texto": "Gustavo Miotto publicou o término do namoro com Ana Castela pelo story. Ela permaneceu em silêncio. Uma separação anunciada por apenas um lado — e isso raramente é por acaso."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Sinal 1 e 2",
-              "texto": "🚩 Vocês nunca falaram sobre o que é e o que não é traição para cada um.\n\n🚩 Quando um assunto delicado aparece, um dos dois muda de assunto ou evita a conversa."
+              "titulo": "O poder narrativo",
+              "texto": "Quem fala primeiro define o tom. Define como o público lembra. Define a versão oficial. Quando só um lado fala, o outro passa a ser personagem — não protagonista — da própria história."
             },
             {
               "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "Sinais 3, 4 e 5",
-              "texto": "🚩 Você descobre coisas sobre ele por terceiros, nunca diretamente.\n\n🚩 Quando você coloca um limite, ele age como se fosse exagero seu.\n\n🚩 Vocês têm suposições sobre o relacionamento, mas nunca conversas reais."
+              "tipo": "Virada",
+              "titulo": "O que poucos percebem",
+              "texto": "O silêncio da Ana Castela pode ser luto, estratégia ou simplesmente honestidade: ela pode não saber ainda o que sente. E isso é legítimo. Mas a mulher que nunca aprendeu que seus sentimentos merecem espaço vai continuar calada mesmo quando deveria falar."
             },
             {
               "numero": 5,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "A traição começa muito antes do flagra. Começa na falta de transparência, na decisão unilateral, no 'não vou falar porque ela não vai entender'.\n\nErika respeitou o próprio limite. Isso é saúde."
-            },
-            {
-              "numero": 6,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Os limites no seu relacionamento foram combinados em voz alta ou existem só na sua cabeça?\n\nSalva esse carrossel e manda pra quem precisa ver. 👇"
+              "texto": "Já viveu uma separação onde o outro lado anunciou antes e você perdeu o controle da sua própria narrativa? Isso começa muito antes — nos relacionamentos onde aprendemos a calar."
             }
           ],
-          "legenda": "O caso Erika Januza e Arlindinho foi longe nas redes — mas a discussão real é sobre limites combinados (ou não) nos relacionamentos.\n\nArrastei os 5 sinais de que os limites do seu relacionamento nunca foram realmente acordados. Se você se reconheceu em mais de 2, é hora de conversar.\n\nSalva, compartilha e me conta: você já teve essa conversa franca com seu parceiro?\n\n#ErikaJanuza #Relacionamento #LimitesNoAmor #PsicologiaFeminina #PriscillaAndrade #ComportamentoFeminino"
+          "legenda": "Gustavo Miotto anunciou o término. Ana Castela ficou em silêncio. ✨\n\nE nesse silêncio tem uma lição que toda mulher precisa ouvir.\n\nArrastando 👉 para entender o que a psicologia diz sobre quem controla a narrativa numa separação.\n\n💬 Salva esse carrossel se você já viveu algo parecido.\n\n#AnaCastela #GustavoMiotto #Psicologia #Relacionamento #Separação #PsicologiaFeminina #Autoconhecimento #PriscillaAndrade"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Tulla Luana termina casamento de 21 anos por traição virtual — o que isso diz sobre fidelidade em 2026",
-      "resumo": "A influenciadora Tulla Luana anunciou o fim de 21 anos de casamento com João Carlos após descobrir uma nova traição virtual. O caso está em alta porque coloca em xeque o conceito de fidelidade na era digital: é traição sem toque físico? Para Priscilla, a traição virtual é tão destrutiva quanto a física — e este caso expõe por que muitas mulheres ficam mesmo sabendo, até o momento em que não conseguem mais.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Sandy e Lucas Lima Se Separaram — e Por Que Isso Abala a Autoestima de Outras Mulheres",
+      "resumo": "Sandy e Lucas Lima, um dos casamentos mais icônicos do Brasil, chegou ao fim em setembro. Para muitas seguidoras, a notícia ativa um gatilho silencioso: 'se até eles não conseguiram, o que esperar de mim?' Priscilla pode desmontар o mito do casal perfeito e o dano que ele causa na autoestima e nas expectativas femininas.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": ["lo-fi"],
-      "fonte": "Band.com.br / portais de fofoca — agosto 2026",
+      "fonte": "CNN Brasil, Band, ISTOÉ — Setembro Amaldiçoado, lista de separações 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O caso Tulla Luana prova que traição virtual existe, dói igual e quebra vínculos da mesma forma.",
-          "gancho": "21 anos de casamento terminaram por causa de traição virtual. E muita gente ainda acha que traição sem toque físico não é traição de verdade.",
+          "ideia_central": "A separação de Sandy e Lucas Lima ativa um gatilho coletivo: se o casal 'perfeito' não dura, o que diz sobre o meu relacionamento?",
+          "gancho": "Sandy e Lucas Lima se separaram. E provavelmente você não está sentindo só tristeza — está sentindo medo.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "A Tulla Luana acabou com um casamento de 21 anos. O motivo: traição virtual — de novo. E tem gente dizendo 'mas é só mensagem, não é traição de verdade'. Eu preciso falar sobre isso."
+              "fala": "Sandy e Lucas Lima se separaram. E se você tá aqui achando que vai ouvir comentário de fofoca, não é isso. Eu quero falar sobre o que essa notícia ativa em você."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Tulla e João Carlos estavam juntos há 21 anos. Ela descobriu uma nova traição virtual — mensagens, intenção, intimidade emocional com outra pessoa. O casal já havia passado por situações parecidas antes. Desta vez, ela decidiu que era o fim."
+              "fala": "Sandy e Lucas eram o casal 'perfeito'. Anos juntos, público apaixonado por eles, aparência de harmonia total. E quando um casal assim termina, algo acontece nas outras mulheres: elas começam a questionar os próprios relacionamentos."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Psicologicamente, traição virtual ativa os mesmos circuitos de dor que a física. A quebra de confiança, a mentira, a escolha de investir intimidade em outro lugar — isso dói da mesma forma. O que muda são os detalhes. O que não muda é a traição ao vínculo. E quando ela disse 'de novo'... aí a gente precisa falar sobre o padrão. Porque 21 anos de casamento não terminam da noite pro dia — eles terminam lentamente, a cada vez que a mulher ignora o que viu."
+              "fala": "Isso se chama comparação descendente — você usa a queda de outro relacionamento como evidência de que o seu também vai fracassar. Ou pior: como prova de que amor não dura. Mas o problema não é a separação deles. É o mito do casal perfeito que você internalizou."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Já passou por algo assim? Me conta nos comentários o que te fez finalmente agir — ou o que ainda te paralisa."
+              "fala": "Que casais de famosos você usou como referência de relacionamento? Me conta — quero entender como isso afeta a gente."
             }
           ],
-          "legenda": "21 anos de casamento. Traição virtual. E a pergunta que dividiu o Brasil: 'mas não foi física, é traição mesmo?'\n\nSim. É traição.\n\nTraição virtual ativa os mesmos circuitos cerebrais de dor que a traição física. A quebra não está no toque — está na mentira, na escolha de levar intimidade para outro lugar, na intenção.\n\nO caso da Tulla Luana também revela algo que vejo muito na clínica: as mulheres muitas vezes sabem, perdoam, ficam — e acumulam. Até o dia que não conseguem mais.\n\nNão é fraqueza. É o processo de luto por alguém que ainda está vivo e ao lado.\n\nO que te fez finalmente agir — ou o que ainda te paralisa? Me conta.\n\n#TullaLuana #TraicaoVirtual #Relacionamento #TraicaoEmocional #PsicologiaDoAmor #PriscillaAndrade #MulheresFortes"
+          "legenda": "Sandy e Lucas Lima se separaram. E eu sei que não é só tristeza que você sentiu.\n\nTem um medo silencioso nessa notícia:\n'Se até eles, que pareciam tão certos, não conseguiram — o que diz sobre o meu relacionamento?'\n\nIsso tem nome na psicologia: é a comparação que usamos para validar nossas piores crenças sobre o amor.\n\nO problema não é a separação deles.\nÉ o mito do casal perfeito que você aprendeu a perseguir — e que nunca existiu de verdade.\n\nRelacionamentos reais não parecem Instagram. Eles têm conflito, negociação, fases ruins. E isso não significa fracasso.\n\nSalva esse vídeo se isso fez sentido pra você. 💛\n\n#Sandy #LucasLima #Separação #Relacionamento #Psicologia #AutoEstima #CasalPerfeito #PsicologiaFeminina #PriscillaAndrade"
         },
         "lo-fi": {
-          "ideia": "Falar de forma íntima e direta sobre traição virtual: o que é, por que dói igual e por que tantas mulheres ficam mesmo sabendo.",
-          "gancho": "Ela ficou 21 anos. Depois de traição virtual. E ainda tem gente dizendo que não é traição de verdade.",
+          "ideia": "Um papo íntimo sobre o medo que a separação de Sandy e Lucas Lima ativa — sem glamour, só verdade.",
+          "gancho": "Sandy e Lucas Lima se separaram. E eu preciso te contar o que isso faz com a gente emocionalmente.",
           "o_que_falar": [
-            "Contextualizar o caso Tulla Luana: 21 anos, traição virtual, decisão de terminar de vez",
-            "Explicar do ponto de vista psicológico: a dor de uma traição emocional/virtual é igual à dor da física — é a quebra do vínculo, não o ato em si",
-            "Conectar com a realidade das seguidoras: quantas ficam mesmo sabendo, acumulando, esperando mudar — e como isso erode a autoestima",
-            "CTA íntimo: 'Se você já passou por isso, quero saber — o que te fez finalmente colocar um limite?'"
+            "Ponto 1 — contextualiza o caso: Sandy e Lucas eram o casal símbolo de amor duradouro. A separação deles virou notícia em todo o Brasil, em setembro — que já virou o 'mês amaldiçoado' dos famosos.",
+            "Ponto 2 — insight psicológico: quando um casal 'perfeito' termina, ativamos um gatilho de invalidação do nosso próprio relacionamento. É a crença de que se eles não conseguiram, nós também não vamos. Isso é distorção cognitiva.",
+            "Ponto 3 — conexão com a vida das seguidoras: quantas vezes você usou casais famosos como termômetro para o seu relacionamento? Como parâmetro de 'o que deveria parecer'? Isso é o mito do casal perfeito operando.",
+            "Ponto 4 — CTA: me conta nos comentários um casal famoso que você usou como referência de relacionamento. Vamos falar sobre isso."
           ],
-          "legenda": "Traição virtual é traição. Ponto.\n\nO caso da Tulla Luana voltou à tona essa semana — 21 anos de casamento chegando ao fim por uma traição virtual que se repetiu.\n\nE eu fico pensando em quantas mulheres estão nesse lugar agora: sabem, perdoaram, ficaram. Esperando que ele mude. Enquanto a autoestima vai embora aos poucos.\n\nNão é fraqueza. É amor misturado com medo. Mas tem um ponto onde continuar custa mais do que terminar.\n\nO que te fez — ou te faria — finalmente agir?\n\n#TraicaoVirtual #TullaLuana #Relacionamento #AutoestimaNaRelacao #PriscillaAndrade #PsicologiaFeminina",
-          "vibe": "Câmera estática, luz natural suave, tom íntimo e direto — como se estivesse conversando com uma amiga próxima. Sem roteiro engessado, falar olhando para a câmera."
+          "legenda": "Sandy e Lucas Lima terminaram. E isso ativou algo em muita gente.\n\nNão é só tristeza — é aquele medo de que se eles não conseguiram, ninguém vai.\n\nFilmei esse vídeo direto do coração pra te dizer: relacionamentos reais não parecem Instagram. Nunca pareceram. 💛\n\n#Sandy #LucasLima #Separação #PsicologiaFeminina #Relacionamento #Autoconhecimento #PriscillaAndrade",
+          "vibe": "Câmera estática na frente. Luz natural. Tom íntimo, como se fosse uma conversa entre amigas. Sem roteiro decorado — falar olhando para a câmera com naturalidade."
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Nívea Stelmann termina casamento de 14 anos 'de forma rápida e inesperada' — como isso é possível?",
-      "resumo": "Nívea Stelmann e Marcus Rocha encerraram 14 anos de casamento em julho de 2026. A atriz revelou que a separação aconteceu de forma 'rápida e inesperada' após um desentendimento. O caso gerou debate: como 14 anos terminam assim? Para Priscilla, a resposta está nos anos de desgaste silencioso antes do fim aparentemente repentino — e em como muitas mulheres ignoram os sinais.",
+      "titulo": "Erika Januza Falou Sobre Limites Combinados no Saia Justa — Ela Está 100% Certa",
+      "resumo": "Arlindinho foi flagrado saindo de uma casa de swing com duas mulheres, quebrando um limite que o casal havia combinado. Erika foi ao Saia Justa e falou sobre responsabilidade emocional e limites. Priscilla pode aprofundar: limite combinado é contrato de confiança — e quebrar um acordo não é 'exploração sexual', é traição.",
       "pilar": "Casamento & Relacionamento",
-      "urgencia": "hoje",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": ["carrossel"],
-      "fonte": "Estrelando.com.br — julho/agosto 2026",
+      "fonte": "Correio 24 Horas, Alô Alô Bahia, O Povo — Erika Januza e Arlindinho, julho 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O fim do casamento de Nívea Stelmann prova que relacionamentos longos não terminam de repente — eles terminam devagar, em silêncio, por anos.",
-          "gancho": "14 anos de casamento. Terminou 'de forma rápida e inesperada'. Isso não existe na psicologia — e vou te explicar por quê.",
+          "ideia_central": "Limite combinado em relacionamento é contrato emocional — e quebrar esse contrato não é questão de 'liberdade sexual', é traição.",
+          "gancho": "Sobre o caso da Erika Januza e Arlindinho: vou te dizer o que ninguém está falando direito.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Nívea Stelmann e Marcus Rocha: 14 anos de casamento, terminado após um desentendimento. Ela disse que foi rápido e inesperado. Mas eu preciso te dizer uma coisa: fim de relacionamento longo nunca é inesperado. Parece — mas não é."
+              "fala": "Você viu o que aconteceu com Erika Januza e Arlindinho? Ele foi flagrado saindo de uma casa de swing — e ela foi ao Saia Justa falar sobre limite combinado. Eu preciso aprofundar isso."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O casal estava junto há 14 anos. Tudo parecia estável para quem via de fora. Depois de um desentendimento, a separação aconteceu de forma aparentemente abrupta. A Nívea usou exatamente essas palavras: rápida e inesperada."
+              "fala": "Arlindinho foi visto com duas mulheres saindo de uma casa de swing enquanto ainda namorava Erika. Ela confirmou que eles tinham um limite combinado — e ele foi ultrapassado. A discussão nas redes virou: 'mas é swing, não é traição'. E aí que erram feio."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mas na psicologia dos relacionamentos, o que parece repentino geralmente é o resultado de anos de desgaste acumulado. A última briga é só a gota d'água. O real fim começou muito antes — nas conversas não tidas, nos ressentimentos guardados, na distância emocional que foi crescendo devagar demais para ser notada no dia a dia. O desentendimento foi o gatilho. O distanciamento foi o combustível."
+              "fala": "Traição não é definida só pelo ato sexual. É definida pela quebra de um acordo. Quando dois adultos combinam um limite — seja ele qual for — e um deles ultrapassa sem o conhecimento do outro, isso é violação de confiança. Ponto. A discussão sobre swing distrai do real: ele descumpriu um acordo."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você consegue identificar esse tipo de desgaste silencioso no seu relacionamento? Salva esse vídeo e me conta."
+              "fala": "Você acha que traição é só física? Me conta nos comentários — quero saber o que vocês pensam sobre isso."
             }
           ],
-          "legenda": "14 anos. Terminou 'rápido e inesperado', disse Nívea Stelmann.\n\nMas como psicóloga, eu sei: relacionamento longo não termina de repente. Ele termina aos poucos — em silêncio, em ressentimentos guardados, em conversas evitadas, em abraços que foram diminuindo sem que ninguém notasse.\n\nO que parece o fim súbito é na verdade a última gota de um copo que foi enchendo por anos.\n\nIsso não torna menos doloroso. Mas muda tudo quando a gente aprende a reconhecer os sinais enquanto ainda há tempo de agir.\n\nVocê consegue identificar esse tipo de desgaste silencioso na sua relação?\n\n#NiveaStelmann #MarcusRocha #Relacionamento #DesgasteNoAmor #CasamentoLongo #PriscillaAndrade #PsicologiaDoRelacionamento"
+          "legenda": "Sobre Erika Januza e Arlindinho: a discussão nas redes virou 'swing não é traição'. E isso distrai do que realmente importa.\n\nTraição NÃO é definida pelo ato.\nTraição é a QUEBRA DE UM ACORDO.\n\nQuando dois adultos combinam um limite — seja ele qual for — e um ultrapassa sem o consentimento do outro, isso é violação de confiança. É traição emocional.\n\nErika foi ao Saia Justa e falou sobre responsabilidade emocional. Ela nomeou o problema certo.\n\nA questão não é swing sim ou não.\nA questão é: você respeita os acordos que faz com sua parceira?\n\n💬 O que você acha? Limite combinado que é quebrado é traição?\n\n#ErikaJanuza #Arlindinho #Traição #LimitesNoRelacionamento #Psicologia #PsicologiaFeminina #Relacionamento #PriscillaAndrade"
         },
         "carrossel": {
-          "ideia": "Os 5 sinais de desgaste silencioso que precedem o fim de relacionamentos longos — usando o caso Nívea como gancho.",
+          "ideia": "O que é traição de verdade — e por que a discussão sobre o caso Erika Januza está no lugar errado.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "14 anos de casamento — e terminou 'de repente'?",
-              "subtitulo": "5 sinais do desgaste silencioso que vem antes de todo fim 'inesperado'"
+              "titulo": "Traição Não É Só Sexo",
+              "subtitulo": "O caso Erika Januza x Arlindinho e a definição que muda tudo"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O caso Nívea Stelmann",
-              "texto": "Nívea Stelmann e Marcus Rocha anunciaram o fim de 14 anos de casamento em julho de 2026. A separação, segundo a atriz, foi 'rápida e inesperada'.\n\nMas para a psicologia, fim de relacionamento longo nunca é realmente inesperado."
+              "titulo": "O que aconteceu",
+              "texto": "Arlindinho foi flagrado saindo de uma casa de swing com duas mulheres enquanto namorava Erika Januza. O casal tinha um limite combinado — que foi ultrapassado sem o conhecimento dela. Erika confirmou a separação e foi ao Saia Justa falar sobre responsabilidade emocional."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Sinais 1 e 2",
-              "texto": "🔇 Vocês pararam de resolver conflitos — começaram só a evitar.\n\n💬 As conversas ficaram superficiais. Falam de agenda, filhos, conta. Não de vocês."
+              "titulo": "O debate errado",
+              "texto": "As redes sociais se dividiram: 'swing não é traição'. E essa discussão perdeu o ponto. Traição não é definida pelo tipo de ato — é definida pela quebra de um acordo. E um acordo foi quebrado."
             },
             {
               "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "Sinais 3 e 4",
-              "texto": "🤍 O carinho físico diminuiu gradualmente — e ninguém comentou.\n\n😶 Ressentimentos foram acumulando sem serem nomeados ou resolvidos."
+              "tipo": "Virada",
+              "titulo": "O que poucos percebem",
+              "texto": "Limite combinado é um contrato de confiança. Quando você e seu parceiro definem um limite — seja ele qual for — e um dos lados o viola sem o conhecimento do outro, isso é violação de confiança. Isso é traição emocional. Não tem outro nome."
             },
             {
               "numero": 5,
-              "tipo": "Virada",
-              "titulo": "Sinal 5 — O mais perigoso",
-              "texto": "A indiferença substituiu a briga.\n\nQuando você para de brigar porque 'não vale a pena', não é paz — é distância emocional. E distância emocional é o estágio final antes do fim."
-            },
-            {
-              "numero": 6,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Reconheceu algum desses sinais?\n\nSalva esse carrossel — pode ser o que vai te fazer ter a conversa que você está adiando. 💛"
+              "texto": "Você concorda que traição é sobre a quebra do acordo, não sobre o ato em si? Me conta nos comentários — esse debate precisa ir mais longe."
             }
           ],
-          "legenda": "O caso Nívea Stelmann e Marcus Rocha trouxe uma pergunta poderosa: como 14 anos terminam 'de repente'?\n\nNão terminam. O fim foi construído em silêncio, por anos.\n\nArrastei os 5 sinais do desgaste silencioso que precedem todo fim 'inesperado'. Se você se reconheceu em algum — não ignore.\n\nCompartilha com quem precisa ver isso.\n\n#NiveaStelmann #Relacionamento #CasamentoLongo #SinaisDeAlerta #PsicologiaFeminina #PriscillaAndrade"
+          "legenda": "O caso Erika Januza e Arlindinho gerou debate sobre o que é ou não traição. 👀\n\nMas a psicologia tem uma resposta clara — e ela muda tudo.\n\nArrastando 👉 para entender.\n\n💬 Salva e compartilha com quem precisa ler isso.\n\n#ErikaJanuza #Arlindinho #Traição #Relacionamento #Psicologia #Limites #PsicologiaFeminina #PriscillaAndrade"
         }
       }
     },
     {
       "id": 4,
-      "titulo": "Summit Mulheres nas Profissões reuniu 10 mil em SP — e revelou dado chocante sobre carreira feminina",
-      "resumo": "O Summit Mulheres nas Profissões, realizado em 4-5 de agosto de 2026 no Expo Center Norte (SP), reuniu cerca de 10 mil participantes. Em paralelo, o relatório McKinsey revelou que apenas 31% das mulheres no início de carreira têm um patrocinador, contra 45% dos homens. Para Priscilla, esses dados expõem por que mulheres trabalham mais e sobem menos — e o que muda quando elas aprendem a pedir apoio estrategicamente.",
-      "pilar": "Posicionamento & Carreira",
-      "urgencia": "hoje",
+      "titulo": "Tulla Luana Encerrou 21 Anos de Casamento Por Traição Virtual — e a Palavra 'Nova' Diz Tudo",
+      "resumo": "Tulla Luana anunciou em agosto o fim do casamento de 21 anos com João Carlos após descobrir uma 'nova' traição virtual. A palavra 'nova' é o que importa. Para o público de Priscilla, esse caso ilustra com clareza um padrão psicológico: quem trai uma vez tende a repetir — e perdão sem mudança real é apenas adiamento da dor.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": ["post-estatico"],
-      "fonte": "Metrópoles / Revista Ana Maria / McKinsey Women in the Workplace 2025 — agosto 2026",
+      "fonte": "Tribunа do Sertão, Megapop, Band — Tulla Luana, agosto 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O Summit Mulheres nas Profissões e os dados McKinsey revelam o mesmo problema: mulheres são brilhantes mas invisíveis para quem poderia impulsioná-las.",
-          "gancho": "10 mil mulheres foram ao Summit de Carreiras em São Paulo essa semana. E 69% delas provavelmente saíram sem o que mais precisam para crescer profissionalmente.",
+          "ideia_central": "A palavra 'nova' traição virtual de Tulla Luana revela o padrão mais doloroso: perdão sem mudança não resolve nada.",
+          "gancho": "Tulla Luana encerrou 21 anos de casamento por uma 'nova' traição virtual. Essa palavrinha 'nova' me diz tudo.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "10 mil mulheres foram ao Summit Mulheres nas Profissões em SP essa semana. Evento incrível. Mas tem um dado que vai te incomodar: 69% dessas mulheres provavelmente não têm um patrocinador de carreira."
+              "fala": "Tulla Luana encerrou 21 anos de casamento por uma 'nova' traição virtual. Leu certo — nova. E essa palavra muda tudo."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O relatório da McKinsey mostrou que apenas 31% das mulheres em início de carreira têm alguém que defende ativamente o crescimento delas. Nos homens? 45%. Esse gap é uma das principais razões pelas quais mulheres entram em quantidade no mercado mas sobem muito menos que os homens."
+              "fala": "Ela anunciou o fim do casamento em agosto de 2026, dizendo que decidiu encerrar a relação depois de descobrir uma nova traição virtual. Isso significa que houve uma anterior. Que houve perdão. E que o comportamento se repetiu."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "E por que isso acontece? Porque mulheres foram ensinadas a entregar resultados e esperar que alguém note. Homens foram ensinados a construir alianças e pedir visibilidade. Não é sobre competência — nunca foi. É sobre como nos relacionamos com poder e sobre a dificuldade que muitas mulheres têm de se posicionar e pedir apoio estrategicamente."
+              "fala": "Na psicologia, chamamos isso de padrão comportamental. Quem trai não muda pelo medo de perder — muda, se mudar, por trabalho interno real. Quando uma mulher perdoa sem que haja mudança concreta — terapia, responsabilização, transparência — ela não está sendo forte. Está adiando a dor."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você tem alguém que defende sua carreira ativamente? Me conta nos comentários."
+              "fala": "Você já perdoou uma traição? Me conta nos comentários se houve mudança real ou só promessa."
             }
           ],
-          "legenda": "10 mil mulheres no Summit de Carreiras em SP essa semana. Um evento poderoso. E um dado que não saiu dos palcos mas deveria:\n\nSó 31% das mulheres em início de carreira têm um patrocinador — alguém que defende o crescimento delas nos bastidores. Entre os homens, são 45%.\n\nIsso não é acidente. É o reflexo de algo que a psicologia conhece bem: mulheres foram condicionadas a trabalhar duro e esperar reconhecimento. Homens aprendem a construir redes e pedir visibilidade.\n\nResultado: ela entrega mais. Ele sobe mais rápido.\n\nO problema não é sua competência. É como você se relaciona com poder e visibilidade.\n\nVocê tem alguém que defende sua carreira — ou está esperando que notem sozinhos?\n\n#SummitMulheresProfissoes #CarreiraFeminina #LiderancaFeminina #McKinsey #EmpoderadamentoBemEntendido #PriscillaAndrade #PsicologiaECarreira"
+          "legenda": "Tulla Luana encerrou 21 anos de casamento depois de descobrir uma 'nova' traição virtual.\n\n'NOVA.' Essa palavra carrega tudo.\n\nSignifica que houve uma anterior.\nSignifica que houve perdão.\nSignifica que o comportamento se repetiu.\n\nE isso não é falha dela — é um padrão muito conhecido na psicologia.\n\nPerdão sem mudança real não é força. É adiamento da dor.\n\nA mulher que fica depois de uma traição não está errada. Mas ela precisa de mais do que uma promessa — ela precisa de evidências concretas de mudança.\n\n21 anos. Ela deu tempo. E soube, quando foi hora, de ir embora. 💛\n\n#TullaLuana #Traição #Casamento #Psicologia #Relacionamento #PsicologiaFeminina #ForçaFeminina #PriscillaAndrade"
         },
         "post-estatico": {
-          "ideia": "Transformar o dado McKinsey em arte gráfica impactante com pergunta direta.",
-          "titulo_visual": "31% das mulheres têm alguém que defende sua carreira.\n\nE você?",
-          "legenda": "Enquanto 10 mil mulheres estavam no Summit de Carreiras em SP essa semana, um dado da McKinsey circulava nas redes e incomodava:\n\n👉 Só 31% das mulheres no início da carreira têm um patrocinador.\n👉 Entre os homens: 45%.\n\nPatrocinador é diferente de mentor. É quem te coloca nas conversas que você não está. É quem fala o seu nome quando você não está na sala.\n\nMulheres trabalham mais. Sobem menos. E grande parte disso começa aqui — na invisibilidade estratégica que a gente não aprendeu a romper.\n\nSalva e compartilha com quem precisa ver isso. 💛\n\n#CarreiraFeminina #LiderancaFeminina #SummitMulheres #Empoderamento #PriscillaAndrade",
-          "cta": "Você tem alguém que defende sua carreira quando você não está na sala? Responde aqui."
+          "ideia": "A palavra 'nova' da traição de Tulla Luana transformada em reflexão visual impactante.",
+          "titulo_visual": "Perdão sem mudança não é força. É adiamento da dor.",
+          "legenda": "Tulla Luana encerrou 21 anos de casamento depois de uma 'NOVA' traição virtual.\n\nEssa palavrinha 'nova' diz tudo sobre padrões que se repetem — e sobre o que acontece quando perdoamos sem exigir mudança real.\n\n21 anos. E ela soube ir embora quando foi hora. 💛\n\n#TullaLuana #Traição #Relacionamento #Psicologia #PsicologiaFeminina #Autoconhecimento #PriscillaAndrade",
+          "cta": "Salva esse post se ele chegou onde precisava. 💛"
         }
       }
     },
     {
       "id": 5,
-      "titulo": "63% dos afastamentos por saúde mental são de mulheres — e a culpa é a raiz de tudo",
-      "resumo": "Dado do Ministério da Previdência Social revelou que mulheres respondem por 63% dos afastamentos por transtornos mentais no Brasil, num total de 559 mil casos em 2025 — alta de 198% em 5 anos. Para Priscilla, a culpa feminina é o fator emocional mais presente e o gatilho direto para burnout, depressão e ansiedade — e o debate voltou às redes com força.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "Setembro Amarelo: Por Que a Ansiedade Afeta Desproporcionalmente as Mulheres",
+      "resumo": "Em Setembro Amarelo, o debate sobre saúde mental ganha volume — mas poucos falam que mulheres são afetadas de forma desproporcional por ansiedade e depressão. Priscilla pode conectar isso à sobrecarga emocional feminina, ao papel histórico de cuidadora e à pressão por perfeição que as mulheres carregam socialmente.",
+      "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": ["carrossel"],
-      "fonte": "Ministério da Previdência Social / Folha de Desbravador — dados divulgados agosto 2026",
+      "fonte": "Agência Brasil 05/09/2026, OMS, Setembro Amarelo — Suburbia Online e Algomais",
       "copies": {
         "reels-react": {
-          "ideia_central": "63% dos afastamentos por saúde mental são de mulheres — e o principal combustível é a culpa que a sociedade plantou nelas.",
-          "gancho": "63% de todos os afastamentos por saúde mental no Brasil são de mulheres. Isso não é coincidência. É o resultado de décadas de um veneno específico: a culpa.",
+          "ideia_central": "Mulheres são as mais afetadas por ansiedade — e a razão é sistêmica, não individual.",
+          "gancho": "É Setembro Amarelo. E tem um dado que ninguém está falando: mulheres têm ansiedade mais do que homens — e não é acidente.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "63% dos afastamentos por transtornos mentais no Brasil são de mulheres. 63%. E você acha que é porque mulheres são mais frágeis? Não. É porque carregam muito mais."
+              "fala": "É Setembro Amarelo, o mês da saúde mental. E eu preciso te falar um dado que todo mundo ignora: mulheres são afetadas desproporcionalmente por ansiedade e depressão. Por quê?"
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O Ministério da Previdência divulgou: em 2025, foram 559 mil afastamentos por saúde mental — e a maioria esmagadora é feminina. Esse número cresceu 198% em apenas 5 anos. Não é uma crise. É uma epidemia."
+              "fala": "328 milhões de pessoas no mundo vivem com algum transtorno de ansiedade. E as mulheres aparecem de forma desproporcional nessa estatística. A ansiedade está entre os principais motivos que levam mulheres a buscar atendimento psicológico hoje."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "E o que eu vejo na clínica como raiz de quase tudo isso? A culpa. A mulher se culpa por trabalhar muito. Se culpa por não trabalhar o suficiente. Culpa por não ser mãe perfeita, esposa ideal, filha presente, profissional de sucesso — ao mesmo tempo. Essa culpa crônica consome a energia psíquica que deveria sustentar a saúde. E quando o copo transborda, vira burnout, ansiedade, depressão."
+              "fala": "Mas sabe por que isso não é coincidência? Porque a mulher é socializada para cuidar de todo mundo — e não de si. Ela carrega a sobrecarga emocional da família, do trabalho, dos relacionamentos. E a ansiedade muitas vezes é chamada de 'drama' ou 'frescura'. A saúde mental feminina ainda é subdiagnosticada e subvalorizada."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "De 0 a 10, quanto você se culpa no dia a dia? Responde aqui — quero entender o que você está carregando."
+              "fala": "Você já teve a ansiedade tratada como fraqueza? Me conta aqui nos comentários."
             }
           ],
-          "legenda": "63% dos afastamentos por saúde mental no Brasil são de mulheres.\n\nIsso me dói como psicóloga. E me indigna como mulher.\n\nO adoecimento feminino tem uma raiz que raramente é nomeada: a culpa.\n\nA culpa de não fazer suficiente. De fazer demais. De não estar em vários lugares ao mesmo tempo. De querer coisas para si própria.\n\nEssa culpa consome energia psíquica. E quando não sobra mais nada — o corpo e a mente entram em colapso.\n\n198% de aumento em 5 anos. Isso não é fraqueza das mulheres. É o peso de um sistema que ainda exige que a mulher seja tudo, para todos, sempre.\n\nDe 0 a 10, quanto você se culpa no dia a dia?\n\n#SaudeMentalFeminina #Burnout #CulpaFeminina #AnsiedadeFeminina #PriscillaAndrade #PsicologiaFeminina #MulheresSaudaveis"
+          "legenda": "É Setembro Amarelo — e tem um dado que você precisa conhecer:\n\nMulheres são afetadas desproporcionalmente por ansiedade e depressão.\n\nNão é coincidência.\nNão é fragilidade.\nÉ sistema.\n\nA mulher é socializada desde criança para cuidar de todo mundo — e não de si mesma. Ela carrega a sobrecarga emocional da família, do trabalho, dos filhos, dos relacionamentos.\n\nE quando a ansiedade aparece, com frequência é chamada de 'drama', 'sensibilidade demais', 'frescura'.\n\nIsso é saúde mental feminina sendo ignorada — e tem consequências sérias.\n\nNesse Setembro Amarelo, o convite é para parar de normalizar a sobrecarga e começar a se perguntar: eu estou cuidando de mim? 💛\n\n#SetемbroAmarelo #SaúdeMental #Ansiedade #MulheresMentais #Psicologia #PsicologiaFeminina #Autoconhecimento #PriscillaAndrade"
         },
         "carrossel": {
-          "ideia": "Explicar por que mulheres adoecem mais — com o dado como gancho e a culpa como fio condutor.",
+          "ideia": "5 razões pelas quais mulheres são mais afetadas por ansiedade — baseadas em psicologia e dados reais.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "63% dos afastamentos por saúde mental são de mulheres",
-              "subtitulo": "E a psicologia explica o porquê"
+              "titulo": "Por Que Mulheres Têm Mais Ansiedade do Que Homens",
+              "subtitulo": "Setembro Amarelo traz o dado que ninguém está falando"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O dado que o Brasil precisa ver",
-              "texto": "Em 2025, foram 559 mil afastamentos por transtornos mentais no Brasil.\n\n63% eram mulheres.\n\nEsse número cresceu 198% em 5 anos.\n\nNão é fragilidade. É sobrecarga."
+              "titulo": "O dado",
+              "texto": "328 milhões de pessoas vivem com transtornos de ansiedade no mundo. Mulheres aparecem de forma desproporcional nessa estatística — e a ansiedade está entre os principais motivos que levam mulheres a buscar atendimento psicológico no Brasil."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "A raiz que ninguém nomeia",
-              "texto": "A culpa crônica é o fator emocional mais presente no adoecimento feminino.\n\nA mulher se culpa por trabalhar muito. Por trabalhar pouco. Por querer tempo para si. Por não dar conta de tudo ao mesmo tempo.\n\nEssa culpa consome energia psíquica todos os dias."
+              "titulo": "As 3 razões principais",
+              "texto": "1. Sobrecarga emocional: a mulher é socializada para cuidar de todos, não de si. 2. Pressão por perfeição: beleza, carreira, maternidade, relacionamento — tudo ao mesmo tempo. 3. Diagnóstico tardio: ansiedade feminina frequentemente é chamada de 'drama' e não recebe atenção adequada."
             },
             {
               "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que acontece quando o copo transborda",
-              "texto": "Quando não sobra mais energia psíquica:\n\n🔥 Burnout\n😞 Depressão\n😰 Ansiedade generalizada\n😴 Exaustão emocional profunda\n\nO corpo e a mente entram em colapso — não por fraqueza, mas por anos de excesso."
+              "tipo": "Virada",
+              "titulo": "O que poucos percebem",
+              "texto": "A ansiedade feminina não é fraqueza individual. É resposta a um sistema que exige da mulher o impossível — e que invalida quando ela não aguenta. Tratar a ansiedade exige mais do que técnicas: exige reconhecer o peso que a mulher carrega."
             },
             {
               "numero": 5,
-              "tipo": "Virada",
-              "titulo": "O que poucos falam",
-              "texto": "Tratar só o sintoma (a ansiedade, o burnout) sem trabalhar a culpa subjacente é como esvaziar um barco sem tampar o buraco.\n\nA cura começa quando a mulher para de pedir desculpas por existir e por ter necessidades."
-            },
-            {
-              "numero": 6,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "De 0 a 10, quanto a culpa aparece no seu dia a dia?\n\nSalva esse carrossel e marca uma amiga que precisa ler isso. 💛"
+              "texto": "Você já teve sua ansiedade tratada como drama ou frescura? Conta aqui nos comentários — esse setembro é para falar de verdade sobre saúde mental feminina."
             }
           ],
-          "legenda": "63% dos afastamentos por saúde mental no Brasil são de mulheres. Esse dado deveria estar em todo feed hoje.\n\nA raiz? A culpa crônica que a sociedade planta em nós desde meninas.\n\nArrastei para entender como funciona esse ciclo — e o que realmente quebra ele.\n\nCompartilha com quem precisa. Isso salva vidas.\n\n#SaudeMentalFeminina #Burnout #PriscillaAndrade #CulpaFeminina #PsicologiaFeminina #MulheresSaudaveis"
+          "legenda": "Setembro Amarelo é sobre saúde mental. Mas falar sobre saúde mental feminina ainda é tabu. 💛\n\nArrastando 👉 para entender por que mulheres são as mais afetadas pela ansiedade — e o que está por trás disso.\n\n#SetembroAmarelo #SaúdeMental #Ansiedade #Psicologia #PsicologiaFeminina #PriscillaAndrade"
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Trend 'Not Very Nonchalant' no Instagram rejeita cultura da indiferença — e a psicologia aplaude",
-      "resumo": "Uma trend viral no Instagram em agosto de 2026 chamada 'Not Very Nonchalant' surgiu como reação à cultura deadpan/unbothered — a postura de fingir que nada importa. A trend celebra quem assume que se importa, que tem emoções, que não é 'inatingível'. Para Priscilla, é um movimento de saúde psicológica: a autenticidade emocional é o oposto do que o trauma ensina.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "Mulheres Ainda Precisam de Espaços Específicos na Carreira — O Evento de 19/09 em SP Prova Isso",
+      "resumo": "Um grande Encontro de Mulheres e Carreira em Tecnologia acontece em 19 de setembro em São Paulo, com palestras e mentorias. Para Priscilla, o ângulo vai além do evento: mulheres ainda ganham 77,7% do salário masculino em funções equivalentes. Precisamos de espaços específicos porque o mercado geral ainda as sub-remunera e silencia.",
+      "pilar": "Posicionamento & Carreira",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": ["post-estatico"],
-      "fonte": "Newengen.com / Instagram Trends August 2026",
+      "fonte": "WoMakersCode — Encontro de Mulheres e Carreira em Tecnologia, 19 de setembro de 2026, São Paulo",
       "copies": {
         "reels-react": {
-          "ideia_central": "A trend 'Not Very Nonchalant' é um grito coletivo de mulheres cansadas de fingir que não se importam — e a psicologia valida esse movimento.",
-          "gancho": "Tem uma trend viral agora que é literalmente a saúde mental em forma de vídeo. Se chama 'Not Very Nonchalant' — e ela revela algo que a psicologia sabe há décadas.",
+          "ideia_central": "Mulheres ainda ganham 22% menos que homens — e ainda precisamos de encontros específicos para avançar na carreira porque o mercado geral ainda não nos recebe como iguais.",
+          "gancho": "Tem um encontro de mulheres e carreira em SP no dia 19 de setembro. E o fato de ele precisar existir diz muito sobre o mercado de trabalho.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Tem uma trend bombando no Instagram agora: 'Not Very Nonchalant'. Traduzindo: 'não muito indiferente'. E ela é literalmente a saúde mental em formato de trend viral."
+              "fala": "Dia 19 de setembro tem um grande encontro de mulheres e carreira em São Paulo. E quero te provocar com algo: por que ainda precisamos de eventos assim?"
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Durante anos, a estética do 'unbothered' dominou as redes: a mulher que não liga pra nada, que é fria, inatingível, que não demonstra que se importa. Era considerado poderoso. Agora uma nova onda está surgindo: mulheres assumindo que se importam, que sentem, que querem, que não são indiferentes — e usando isso como identidade."
+              "fala": "O WoMakersCode promove esse encontro com palestras, painéis e mentorias para mulheres avançarem na carreira em tecnologia. É um espaço incrível — mas sua existência aponta para uma realidade desconfortável: o mercado geral ainda não é seguro e igualitário para a mulher."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Como psicóloga, eu vejo isso e aplaudo. Porque a indiferença performática é um mecanismo de defesa — não um traço de personalidade poderosa. Fingir que não se importa é uma das maiores formas de auto-abandono que existe. Quando você assume que se importa, quando você nomeia o que quer e o que sente — aí sim você tem poder real. Não o poder de ser inatingível, mas o poder de ser inteira."
+              "fala": "Mulheres ganham em média 77,7% do salário de homens em funções equivalentes. Elas são 51% da população mas ainda sub-representadas em cargos de liderança. Eventos específicos não são separatismo — são resposta a uma exclusão real. E como psicóloga, sei: mulheres que se apoiam em comunidade avançam mais, com mais saúde emocional."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você se encaixa mais na 'unbothered' ou na 'not very nonchalant'? Me conta — quero saber."
+              "fala": "Você está em SP? O link está na bio. E me conta: qual o maior obstáculo que você já enfrentou na sua carreira por ser mulher?"
             }
           ],
-          "legenda": "Trend do momento no Instagram: 'Not Very Nonchalant'.\n\nTradução livre: mulheres assumindo que se importam. Que sentem. Que não são indiferentes — e que isso não é fraqueza.\n\nDurante anos a cultura do 'unbothered' dominou: a mulher fria, inatingível, que não liga pra nada. Parecia força.\n\nMas como psicóloga, eu sei o que está por baixo: é mecanismo de defesa. Não é poder. É auto-abandono com estética.\n\nA mulher mais poderosa não é a que não sente. É a que sente, nomeia e age a partir do que é real para ela.\n\nVocê é mais 'unbothered' ou 'not very nonchalant'?\n\n#NotVeryNonchalant #Unbothered #AutenticidadeEmocional #PsicologiaFeminina #PriscillaAndrade #TrendPsicologia #Autoconhecimento"
+          "legenda": "Dia 19 de setembro tem um grande Encontro de Mulheres e Carreira em São Paulo. 🎯\n\nE o fato de ele precisar existir já diz tudo.\n\nMulheres ganham em média 77,7% do salário masculino em funções iguais.\nSão 51% da população — e sub-representadas em liderança.\nAinda precisam de espaços específicos porque o mercado geral ainda as silencia.\n\nEventos como esse não são privilégio. São resposta a uma exclusão que ainda existe.\n\nE como psicóloga: mulheres que se constroem em comunidade avançam mais rápido, com mais saúde emocional e menos autossabotagem.\n\nSe você é de SP, o link está na bio 👆\n\n💬 Qual o maior obstáculo que você já enfrentou na carreira por ser mulher? Comenta aqui.\n\n#MulheresNaTecnologia #Carreira #Empoderamento #WoMakersCode #Psicologia #PsicologiaFeminina #PriscillaAndrade"
         },
         "post-estatico": {
-          "ideia": "Transformar o insight psicológico da trend em arte gráfica poderosa.",
-          "titulo_visual": "Fingir que não se importa não é poder.\nÉ auto-abandono com estética.",
-          "legenda": "A trend 'Not Very Nonchalant' está viralizando no Instagram — e ela diz tudo.\n\nPor anos, a mulher 'unbothered' foi colocada como modelo: fria, inatingível, que não demonstra que quer ou que sente.\n\nMas isso nunca foi força. Foi trauma vestido de atitude.\n\nA mulher que se importa, que nomeia o que sente, que assume o que quer — essa é a que tem poder real.\n\nSalva e manda pra quem precisa ver isso. 💛\n\n#NotVeryNonchalant #AutenticidadeEmocional #PriscillaAndrade #PsicologiaFeminina #Autoestima",
-          "cta": "Você consegue se importar em voz alta? Responde aqui."
+          "ideia": "O dado dos 77,7% transformado em arte de impacto — contextualizado no evento de setembro.",
+          "titulo_visual": "Mulheres ganham 77,7% do salário masculino na mesma função. Em 2026.",
+          "legenda": "Esse dado é de 2026. Não de décadas atrás.\n\nÉ por isso que eventos como o Encontro de Mulheres e Carreira em Tecnologia (19/set, São Paulo) ainda precisam existir.\n\nNão somos separatistas. Somos estratégicas. 💪\n\n#Carreira #Empoderamento #MulherNoMercado #Psicologia #PriscillaAndrade",
+          "cta": "Salva e compartilha para quem precisa ver esse dado."
         }
       }
     },
     {
       "id": 7,
-      "titulo": "Alinne Moraes e Mauro Lima — 14 anos de casamento chegam ao fim: o que mata o amor em silêncio",
-      "resumo": "Alinne Moraes e o cineasta Mauro Lima encerraram 14 anos de casamento em 2026, surpreendendo fãs que viam o casal como exemplo de solidez. Para Priscilla, o caso é oportuno para falar sobre o 'amor de costume' — quando a cumplicidade vira rotina, a paixão vira inércia, e o casal perde a capacidade de se ver de verdade.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "semana",
+      "titulo": "A Trend 'Potential-Maxxing' Viralizou no Instagram — e Revela Algo Profundo Sobre Autoestima Feminina",
+      "resumo": "O 'Potential-Maxxing' é a trend viral onde criadores provam evolução com dados reais em vez de afirmações vagas. Para Priscilla, o ângulo está na autoestima: mulheres são ensinadas a minimizar conquistas, não a mostrá-las com orgulho. Essa trend representa uma virada subversiva e necessária.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
       "formatos_alternativos": ["carrossel"],
-      "fonte": "RegionalPaulista.com.br / portais de celebridades — 2026",
+      "fonte": "Newengen.com — Instagram Trends September 2026 / SocialBee Instagram Trends September 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O término de Alinne Moraes e Mauro Lima revela o perigo do 'amor de costume' — quando a relação parece estável mas foi ficando vazia por dentro.",
-          "gancho": "Alinne Moraes e Mauro Lima. 14 anos juntos. Terminaram. E ninguém viu vir. Mas a psicologia explica muito bem como isso acontece.",
+          "ideia_central": "O 'Potential-Maxxing' viral é, psicologicamente, uma resposta ao ensinamento de que mulheres devem ser modestas — e uma declaração de que conquistas merecem ser celebradas.",
+          "gancho": "Você já viu a trend 'Potential-Maxxing' que virou febre no Instagram? Ela revela um padrão psicológico que afeta quase todas as mulheres.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Alinne Moraes e Mauro Lima terminaram depois de 14 anos. Todo mundo ficou surpreso. Mas a psicologia dos relacionamentos tem um nome exato para o que provavelmente aconteceu: amor de costume."
+              "fala": "Você viu a trend 'Potential-Maxxing' que está dominando o Instagram agora? Criadores mostrando sua evolução com dados reais — números, conquistas concretas. E isso me chamou atenção de um jeito muito específico."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O casal era considerado exemplo: discreto, duradouro, aparentemente estável. O casamento foi de 2012 a 2026. Catorze anos. E chegou ao fim. A notícia circulou porque ninguém esperava."
+              "fala": "A trend surgiu como resposta a uma cultura de afirmações vagas — 'eu sou poderosa', 'eu sou capaz' — sem nada concreto por trás. O Potential-Maxxing é o oposto: mostrar com dados o quanto você cresceu."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "O amor de costume é perigoso porque parece paz. Mas é uma paz que foi perdendo o investimento emocional. Você está ao lado da pessoa por hábito, por conforto, por medo do que vem depois — mas a conexão real foi se apagando. Não tem briga, não tem crise aparente. Mas também não tem profundidade, desejo, renovação. Até o dia que alguém acorda e percebe que está sozinha ao lado de alguém."
+              "fala": "E para as mulheres, isso é subversivo. Porque a mulher é ensinada desde criança a ser modesta, a não se promover, a minimizar conquistas. 'Não fala muito sobre o que você conseguiu para não parecer arrogante.' Essa trend é uma declaração de que conquistas merecem ser mostradas. E que autoestima saudável inclui reconhecer o próprio valor em voz alta."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você está no seu relacionamento por amor ou por costume? Não precisa responder pra mim — precisa responder pra você."
+              "fala": "Você consegue falar sobre suas conquistas sem minimizar? Me conta nos comentários."
             }
           ],
-          "legenda": "Alinne Moraes e Mauro Lima: 14 anos de casamento. Fim.\n\nTodo mundo surpreso. Mas a psicologia tem um nome para o que provavelmente aconteceu:\n\nAmor de costume.\n\nQuando a relação parece estável por fora — mas foi ficando vazia por dentro. Quando você está ao lado da pessoa por hábito, por medo do novo, por conforto. Não por escolha renovada.\n\nNão tem briga. Não tem crise visível. Mas também não tem profundidade, desejo ou presença real.\n\nAté o dia que alguém acorda e percebe: estou sozinha ao lado de alguém.\n\nVocê está no seu relacionamento por amor ou por costume?\n\n#AlinneMoreas #MauroLima #AmorDeCostume #Relacionamento #PsicologiaDoAmor #PriscillaAndrade #CasamentoLongo"
+          "legenda": "A trend 'Potential-Maxxing' está em todo o Instagram. 📈\n\nE ela levanta uma questão psicológica importante para as mulheres:\n\nVocê consegue falar das suas conquistas sem minimizar?\n\nA mulher é ensinada a ser modesta. A não se promover. A dizer 'ah, é pouca coisa'. Ou pior — a não falar nada.\n\nO Potential-Maxxing é exatamente o oposto: mostrar evolução com dados reais, sem pedir desculpa por ter crescido.\n\nIsso é autoestima saudável em ação. E é completamente subversivo para quem foi criada para desaparecer.\n\n💬 Você consegue falar sobre suas conquistas sem diminuir? Ou sente esse bloqueio? Me conta aqui.\n\n#PotentialMaxxing #Instagram #Autoestima #Psicologia #PsicologiaFeminina #Conquistas #PriscillaAndrade"
         },
         "carrossel": {
-          "ideia": "Os 4 estágios do amor de costume — como identificar quando a relação foi de amor real para inércia afetiva.",
+          "ideia": "Por que mulheres têm dificuldade de mostrar conquistas — e como o Potential-Maxxing vai na contramão disso.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Do amor ao costume: os 4 estágios que ninguém percebe a tempo",
-              "subtitulo": "O que terminou no casamento de Alinne Moraes e Mauro Lima"
+              "titulo": "Por Que Você Minimiza Suas Conquistas?",
+              "subtitulo": "A trend Potential-Maxxing e o que ela revela sobre autoestima feminina"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O caso que surpreendeu",
-              "texto": "Alinne Moraes e Mauro Lima terminaram um casamento de 14 anos em 2026.\n\nTodo mundo ficou surpreso. Mas a psicologia tem uma explicação — e ela se aplica a muitos relacionamentos que parecem 'bem'."
+              "titulo": "O que é o Potential-Maxxing",
+              "texto": "É a trend viral no Instagram de setembro de 2026 onde criadores provam sua evolução com dados reais e conquistas concretas — no lugar de afirmações vagas como 'eu sou capaz'. Mostrar crescimento com números, fatos e resultados."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Estágio 1 — A rotina vira zona de conforto",
-              "texto": "O casal para de investir em novidade. A vida juntos fica eficiente — agenda, filhos, finanças. A conexão emocional começa a viver da memória do que foi, não do que é."
+              "titulo": "Por que isso é difícil para mulheres",
+              "texto": "Mulheres são ensinadas desde cedo a serem modestas. 'Não fala muito das suas conquistas para não parecer arrogante.' 'Não se promova muito.' Esse ensinamento se transforma em bloqueio de autoestima: a mulher minimiza, esconde ou desvaloriza o que conquistou."
             },
             {
               "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "Estágio 2 e 3 — A paz falsa",
-              "texto": "Estágio 2: Conflitos param de ser resolvidos — passam a ser evitados.\n\nEstágio 3: A intimidade emocional diminui. As conversas ficam funcionais. O silêncio deixa de ser cumplicidade e vira distância."
+              "tipo": "Virada",
+              "titulo": "O que poucos percebem",
+              "texto": "Autoestima saudável não é arrogância. É reconhecer o próprio valor com clareza. Falar sobre conquistas não é vaidade — é se tornar visível. E a mulher que não aprende a se mostrar deixa de ocupar os espaços que são seus por direito."
             },
             {
               "numero": 5,
-              "tipo": "Virada",
-              "titulo": "Estágio 4 — O despertar",
-              "texto": "Um dia alguém acorda e percebe:\n\n'Estou ao lado dessa pessoa por hábito. Não por escolha.'\n\nNesse ponto, o casamento já terminou por dentro. A conversa — ou o término oficial — é só o que vem depois."
-            },
-            {
-              "numero": 6,
               "tipo": "CTA",
-              "titulo": "Você está no amor ou no costume?",
-              "texto": "Você ainda escolheria essa pessoa hoje — sabendo quem ela é agora, e quem você é agora?\n\nSalva e compartilha com quem precisa refletir sobre isso. 💛"
+              "titulo": "E você?",
+              "texto": "Você consegue falar sobre suas conquistas sem minimizar? Ou sente aquele bloqueio de 'não quero parecer arrogante'? Me conta nos comentários — quero entender onde está esse nó."
             }
           ],
-          "legenda": "O término de Alinne Moraes e Mauro Lima acendeu uma discussão importante: como relacionamentos longos chegam ao fim quando tudo 'parecia bem'?\n\nA resposta está nos 4 estágios do amor de costume — que arrastei aqui para você.\n\nSe você se reconheceu em algum, não ignore. Ainda dá tempo de escolher.\n\n#AlinneMoreas #AmorDeCostume #Relacionamento #PsicologiaDoAmor #PriscillaAndrade #CasamentoLongo"
+          "legenda": "Potential-Maxxing: a trend do Instagram que acidentalmente revelou um bloqueio feminino real. 📈\n\nArrastando 👉 para entender por que mulheres têm dificuldade de mostrar conquistas — e o que a psicologia diz sobre isso.\n\n#PotentialMaxxing #Autoestima #Psicologia #PsicologiaFeminina #Conquistas #Instagram #PriscillaAndrade"
         }
       }
     },
     {
       "id": 8,
-      "titulo": "Só 31% das mulheres têm alguém que defende sua carreira — e a psicologia explica por que a gente não pede",
-      "resumo": "O relatório Women in the Workplace da McKinsey (2025) revelou que apenas 31% das mulheres em início de carreira têm um patrocinador — alguém que as coloca em conversas e oportunidades — contra 45% dos homens. Para Priscilla, isso tem raiz psicológica profunda: mulheres foram ensinadas que pedir ajuda é fraqueza, e a dificuldade de pedir apoio estratégico é um dos maiores bloqueios à ascensão feminina.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "Por Que Mulheres Estão Abandonando a Cultura da Ficada em 2026 — e o Que Isso Revela",
+      "resumo": "Pesquisas mostram que em 2026 os jovens estão desacelerando os relacionamentos, buscando romance sincero e abandonando jogos e sinais confusos — tendência chamada de 'slow dating'. Para Priscilla, isso é um movimento de saúde emocional coletiva: mulheres cansadas de sedução performática e apostando na autenticidade.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "semana",
       "formato_principal": "reels-react",
       "formatos_alternativos": ["lo-fi"],
-      "fonte": "McKinsey Women in the Workplace 2025 / Revista Ana Maria — divulgado agosto 2026",
+      "fonte": "CNN Brasil — Tendências de relacionamentos para 2026 / Correio Braziliense / Revista Kdea 360",
       "copies": {
         "reels-react": {
-          "ideia_central": "A lacuna de patrocinadores entre homens e mulheres não é sobre competência — é sobre uma crença psicológica enraizada de que pedir apoio é fraqueza.",
-          "gancho": "Homens têm 45% de chance de ter alguém que defende a carreira deles. Mulheres, 31%. Esse gap não é sobre competência. É sobre psicologia.",
+          "ideia_central": "O 'slow dating' não é uma moda — é um sinal de que mulheres estão colocando saúde emocional acima de relacionamentos rápidos e performáticos.",
+          "gancho": "Pesquisas confirmam: mulheres estão largando a cultura da ficada. E isso não é coisa de romantismo — é saúde emocional.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "31% das mulheres têm um patrocinador de carreira. 45% dos homens têm. Uma diferença de 14 pontos percentuais que explica muito sobre por que mulheres trabalham mais e sobem menos."
+              "fala": "Pesquisas mostram que em 2026 mulheres estão largando a cultura da ficada, os joguinhos, os sinais confusos. E como psicóloga, eu preciso te contar: isso não é romantismo. É evolução emocional."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Esse dado é da pesquisa Women in the Workplace da McKinsey, e está sendo muito discutido essa semana depois do Summit Mulheres nas Profissões em SP. Patrocinador é diferente de mentor — é quem fala o seu nome quando você não está na sala, quem te coloca em oportunidades que você nem sabia que existiam."
+              "fala": "A tendência chama de 'slow dating' — relacionamentos que desaceleram, começam com mais honestidade, sem jogos de 'quem demonstra interesse perde'. Pesquisas apontam que solteiros em 2026 estão mais abertos e escolhendo transparência desde o primeiro encontro."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "E por que as mulheres têm menos? A resposta não está no mercado de trabalho — está na psicologia feminina. Mulheres foram ensinadas que pedir ajuda é fraqueza, que precisar de alguém te diminui, que você precisa chegar lá sozinha para merecer. Então elas não pedem. E quem não pede, não recebe — não porque não mereça, mas porque invisibilidade não gera promoção."
+              "fala": "Isso é psicologicamente significativo. A mulher que larga o jogo da sedução performática está dizendo: meu tempo e minha energia emocional valem. Eu não vou fingir indiferença para parecer interessante. Ela está optando por disponibilidade emocional real — e exigindo o mesmo do parceiro."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você tem dificuldade de pedir apoio ou visibilidade profissional? Me conta nos comentários."
+              "fala": "Você já largou os joguinhos nos relacionamentos? Como foi? Me conta aqui."
             }
           ],
-          "legenda": "31% das mulheres têm um patrocinador de carreira. Homens: 45%.\n\nEssa diferença não se explica pelo mercado. Ela se explica pela psicologia.\n\nMultas foram ensinadas: 'chega lá sozinha, pedir ajuda é fraqueza, você precisa provar que merece antes de pedir qualquer coisa.'\n\nE essa crença custa caro. Porque invisibilidade não gera promoção. Ninguém é promovido por esforço que ninguém vê.\n\nO homem constrói redes. A mulher constrói resultados — e espera que alguém note.\n\nÉ hora de mudar isso.\n\n#CarreiraFeminina #LiderancaFeminina #McKinsey #PatrocinadorDeCarreira #PriscillaAndrade #PsicologiaECarreira"
+          "legenda": "Mulheres estão largando a cultura da ficada. Os joguinhos. O 'quem demonstra interesse perde'. 🙅‍♀️\n\nPesquisas sobre tendências de relacionamento em 2026 mostram que solteiros estão buscando honestidade desde o primeiro encontro — e abandonando a sedução performática.\n\nComo psicóloga, isso me faz muito bem de ler.\n\nPorque a mulher que larga o jogo está dizendo:\n'Meu tempo emocional vale. Eu não vou fingir indiferença para parecer interessante. Eu quero disponibilidade emocional real — e vou exigir o mesmo.'\n\nIsso não é romantismo. É autoestima em ação.\n\n💬 Você já largou os joguinhos nos relacionamentos? Como foi essa virada? Me conta.\n\n#SlowDating #Relacionamento #Psicologia #PsicologiaFeminina #CulturaFicada #Autoestima #PriscillaAndrade"
         },
         "lo-fi": {
-          "ideia": "Conversa íntima sobre a dificuldade das mulheres de pedir visibilidade e apoio profissional — e como isso está enraizado na psicologia, não na falta de ambição.",
-          "gancho": "Você já evitou pedir uma oportunidade porque achou que não merecia ainda? Isso tem um nome.",
+          "ideia": "Um papo honesto sobre por que largar os joguinhos de relacionamento é um ato de saúde emocional — não de romantismo.",
+          "gancho": "Pesquisa diz que mulheres estão largando a cultura da ficada em 2026. Preciso comentar isso com você.",
           "o_que_falar": [
-            "Contextualizar o dado McKinsey: 31% vs 45% — e o que é um patrocinador de carreira",
-            "Trazer o ponto psicológico: mulheres foram ensinadas que pedir ajuda é fraqueza — e isso vira autossabotagem profissional",
-            "Conectar com as seguidoras: 'Quantas de vocês já deixaram de pedir uma oportunidade porque acharam que não eram suficientes ainda?'",
-            "CTA: 'Identifique quem na sua vida poderia ser seu patrocinador — e comece uma conversa essa semana'"
+            "Ponto 1 — contextualiza o caso: pesquisas sobre relacionamentos em 2026 mostram um movimento de desaceleração — pessoas buscando honestidade, transparência, abandono dos jogos. O 'slow dating' virou tendência.",
+            "Ponto 2 — insight psicológico: a mulher que para de jogar está escolhendo saúde emocional. Ela para de fingir indiferença para parecer interessante. Para de esperar mensagem sem enviar. Começa a agir de acordo com o que realmente sente.",
+            "Ponto 3 — conexão com a vida das seguidoras: pensa em quantas vezes você já fez algo que não queria num relacionamento para 'não parecer interessada demais'. Isso tem um custo emocional real.",
+            "Ponto 4 — CTA: me conta nos comentários se você já fez essa virada de largar os joguinhos — e como foi."
           ],
-          "legenda": "Essa semana o dado da McKinsey voltou a circular: só 31% das mulheres têm alguém que defende a carreira delas. Nos homens, 45%.\n\nE eu quero falar sobre o que está por baixo disso.\n\nNão é falta de ambição. É uma crença profunda de que pedir é fraqueza. De que você precisa merecer em silêncio antes de pedir qualquer coisa.\n\nEssa crença custa promoções, oportunidades, visibilidade.\n\nQuem você poderia convidar para ser seu patrocinador? Começa por aí.\n\n#CarreiraFeminina #McKinsey #PsicologiaECarreira #PriscillaAndrade #LiderancaFeminina",
-          "vibe": "Câmera estática ou levemente próxima, ambiente íntimo (escritório ou sala), tom direto mas acolhedor — como um papo de coach entre amigas"
+          "legenda": "Pesquisa confirma: mulheres estão largando a cultura da ficada em 2026. 🙌\n\nE isso não é romantismo — é saúde emocional.\n\nFiz esse vídeo conversando com você sobre o que isso significa na prática. 💛\n\n#SlowDating #Relacionamento #Psicologia #PsicologiaFeminina #PriscillaAndrade",
+          "vibe": "Câmera estática. Luz natural pela janela. Tom de conversa de amiga, descontraído mas com profundidade. Pode estar tomando café ou água enquanto fala."
         }
       }
     },
     {
       "id": 9,
-      "titulo": "Relacionamentos estão desacelerando em 2026 — e a tendência de 'slow dating' revela algo profundo sobre as mulheres",
-      "resumo": "Pesquisas indicam que 2026 é o ano do 'slow dating': pessoas — especialmente mulheres — deixando de correr nos relacionamentos, priorizando conexão real antes de compromisso. No Brasil, 38% dos solteiros relatam 'esperança renovada no amor', mas com postura realista. Para Priscilla, essa tendência é saúde psicológica: desacelerar é o oposto do desespero afetivo que o mercado do namoro online alimentou por anos.",
+      "titulo": "Setembro Tem um Significado Espiritual Poderoso — e Isso Pode Mudar Sua Perspectiva do Mês",
+      "resumo": "Setembro está energeticamente ligado à introspecção, revisão de ciclos e fortalecimento emocional — conceitos do Sagrado Feminino e da espiritualidade feminina, que vêm crescendo nas redes. Priscilla pode conectar espiritualidade com psicologia de forma acessível: o mês como convite para revisar o que não está funcionando.",
       "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "semana",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "CNN Brasil / Correio Braziliense / Jornal Opção — tendência de relacionamento 2026",
+      "formatos_alternativos": ["post-estatico"],
+      "fonte": "Minas Informa — Significado espiritual de setembro / Terra / Portal Edicase — Espiritualidade feminina 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "O slow dating não é passividade — é a recusa de mulheres em aceitar conexão apressada como substituta de amor real.",
-          "gancho": "Em 2026 as mulheres pararam de correr no amor. E isso não é desistência — é a coisa mais saudável que eu já vi acontecer nos relacionamentos.",
+          "ideia_central": "Setembro convida à introspecção e revisão de ciclos — e a psicologia confirma o que a espiritualidade já sabe: parar para olhar para dentro transforma.",
+          "gancho": "Setembro tem um significado espiritual que está conectado a algo que a psicologia também confirma. E você precisa ouvir isso.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Em 2026, a tendência de relacionamento que está crescendo é o slow dating. Mulheres parando de correr, de aceitar qualquer coisa, de forçar conexão. E eu preciso celebrar isso."
+              "fala": "Setembro tem um significado espiritual muito específico. E olha — eu sou psicóloga, não espírita. Mas o que a espiritualidade diz sobre esse mês tem total respaldo na psicologia. Deixa eu te explicar."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Pesquisas mostram que a principal mudança nos relacionamentos em 2026 é a desaceleração: pessoas preferindo conexões menores, mais honestas, sem a pressa de selar um compromisso antes de realmente conhecer o outro. No Brasil, 38% dos solteiros dizem ter renovado a esperança no amor — mas com uma postura muito mais realista do que antes."
+              "fala": "Energeticamente, setembro é associado à introspecção, revisão de ciclos e fortalecimento das bases emocionais. Mulheres estão cada vez mais conectadas ao Sagrado Feminino — práticas de autoconhecimento que trabalham ciclicidade, intuição e limites saudáveis."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "E o que isso revela psicologicamente? Que as mulheres cansaram. Cansaram de ghosting, de relacionamentos acelerados que parecem intensos e evaporam em semanas, de apps que transformaram conexão humana em catálogo de delivery. O slow dating é a resposta a isso: vou investir tempo antes de investir emoção. Vou me conhecer no processo antes de me perder em alguém. Isso é exatamente o oposto do desespero afetivo — e é saúde."
+              "fala": "E a psicologia confirma: períodos de introspecção consciente melhoram a tomada de decisões e reduzem o estresse. Quando você para — mesmo que por poucos minutos — para olhar para o que está sentindo e o que não está funcionando, você ativa um processamento emocional que a correria do dia a dia bloqueia."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você se identifica com essa mudança? Conta pra mim: você está desacelerando no amor?"
+              "fala": "O que você quer revisar ou fechar nesse setembro? Me conta aqui embaixo."
             }
           ],
-          "legenda": "Slow dating. É a tendência de relacionamento que define 2026.\n\nMulheres parando de correr. Priorizando conexão real antes de compromisso. Escolhendo se conhecer no processo antes de se perder em alguém.\n\n38% dos solteiros brasileiros dizem ter esperança renovada no amor — mas com muito mais realismo do que antes.\n\nIsso é saúde psicológica. É o oposto do desespero afetivo que os apps de namoro alimentaram por anos.\n\nQuando você desacelera, você para de aceitar qualquer coisa só para não ficar sozinha. E aí começa a atrair o que realmente é para você.\n\nVocê está praticando o slow dating? Me conta.\n\n#SlowDating #Relacionamento2026 #AmoreDesacelerado #PriscillaAndrade #PsicologiaDoAmor #AutoconhecimentoNoAmor"
+          "legenda": "Setembro é um mês de revisão. De introspecção. De fortalecer as bases.\n\nE isso não é só espiritualidade — a psicologia também confirma: momentos de pausa consciente melhoram decisões, reduzem estresse e abrem espaço para transformação real.\n\nO Sagrado Feminino — que vem crescendo nas redes e na vida de muitas mulheres — trabalha exatamente isso: conexão com os próprios ciclos, com a intuição, com o que precisa ser revisto.\n\nE setembro pede exatamente isso.\n\nQual ciclo você precisa fechar nesse mês? O que você quer deixar para trás antes de outubro? 💛\n\nMe conta aqui nos comentários.\n\n#Setembro #SagradoFeminino #Autoconhecimento #Espiritualidade #Psicologia #PsicologiaFeminina #PriscillaAndrade"
         },
-        "carrossel": {
-          "ideia": "O que é slow dating, por que está crescendo em 2026 e como praticar sem virar passividade.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Slow dating: a tendência de 2026 que vai mudar sua vida amorosa",
-              "subtitulo": "E por que a psicologia aplaude"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que é slow dating",
-              "texto": "É a prática de desacelerar no amor — investir tempo e atenção antes de investir emoção.\n\nConhecer a pessoa de verdade antes de criar expectativas ou compromissos.\n\nEm 2026, é a principal tendência de relacionamento no Brasil e no mundo."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Por que as mulheres estão aderindo",
-              "texto": "Depois de anos de ghosting, matches sem sentido e relacionamentos acelerados que evaporam em semanas:\n\nAs mulheres cansaram. E perceberam que aceitar qualquer coisa por medo de ficar sozinha é mais doloroso do que esperar o que é real."
-            },
-            {
-              "numero": 4,
-              "tipo": "Desenvolvimento",
-              "titulo": "O que slow dating NÃO é",
-              "texto": "❌ Não é passividade\n❌ Não é jogar difícil\n❌ Não é se fechar para o amor\n\n✅ É escolher com intenção\n✅ É observar antes de se apegar\n✅ É respeitar seu próprio ritmo"
-            },
-            {
-              "numero": 5,
-              "tipo": "Virada",
-              "titulo": "O que muda quando você desacelera",
-              "texto": "Você para de se adaptar ao que o outro quer para ser aceita.\n\nVocê começa a se perguntar: 'Esse relacionamento serve pra mim?' — não só 'Ele gostou de mim?'\n\nE isso muda tudo."
-            },
-            {
-              "numero": 6,
-              "tipo": "CTA",
-              "titulo": "Você está pronta?",
-              "texto": "Salva esse carrossel como lembrete de que você pode desacelerar.\n\nE conta nos comentários: você já tentou o slow dating? 💛"
-            }
-          ],
-          "legenda": "Slow dating é a tendência de relacionamento de 2026 — e a psicologia explica por que ela é tão necessária.\n\nArrastei tudo o que você precisa saber: o que é, por que funciona e como praticar sem virar passividade.\n\nSalva e compartilha com quem está cansada de relacionamentos acelerados.\n\n#SlowDating #Relacionamento2026 #PriscillaAndrade #PsicologiaDoAmor #AmoreDesacelerado"
+        "post-estatico": {
+          "ideia": "Uma frase sobre o convite de setembro para introspecção, conectando espiritualidade e psicologia.",
+          "titulo_visual": "Setembro pede revisão. Que ciclo você está pronta para fechar?",
+          "legenda": "A espiritualidade e a psicologia concordam: setembro é o mês de olhar para dentro. De revisar o que está ou não funcionando. De fortalecer as bases antes de avançar. 💛\n\nQual ciclo você precisa fechar agora?\n\n#Setembro #SagradoFeminino #Autoconhecimento #Espiritualidade #Psicologia #PriscillaAndrade",
+          "cta": "Comenta aqui o que você quer fechar nesse setembro. 👇"
         }
       }
     },
     {
       "id": 10,
-      "titulo": "A espiritualidade feminina virou tendência de mercado — mas o que ela realmente transforma na vida da mulher",
-      "resumo": "O mercado de espiritualidade feminina cresce em 2026 impulsionado pelo slow living e pela busca de autoconhecimento. Especialistas apontam que desconectar do externo e reconectar com ciclos internos, ambições e crenças está transformando a forma como mulheres tomam decisões. Para Priscilla, a espiritualidade autêntica não é tendência — é a base da psicologia feminina que ela pratica há anos.",
-      "pilar": "Estilo de Vida & Espiritualidade",
+      "titulo": "30% das Mulheres Têm Insatisfação Corporal — e as Redes Sociais Têm Parte da Culpa",
+      "resumo": "Um estudo brasileiro aponta que 30,2% das pessoas têm insatisfação corporal, índice muito maior entre mulheres. Pesquisas associam isso à exposição a padrões idealizados no Instagram e TikTok. Priscilla pode trabalhar o ângulo de imagem corporal como questão de saúde mental — não de vaidade — e a responsabilidade das plataformas.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "evergreen",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["post-estatico"],
-      "fonte": "Terra.com.br / Portal EdiCase / Accio.com — tendência espiritualidade 2026",
+      "formatos_alternativos": ["carrossel"],
+      "fonte": "RECIMA21 — Revista Científica Multidisciplinar / Dove Brasil / Revista Contemporânea — Influência das Redes Sociais na Autoimagem",
       "copies": {
         "reels-react": {
-          "ideia_central": "Espiritualidade feminina não é tendência — é o retorno da mulher para si mesma, e a psicologia confirma que é por aí que a cura começa.",
-          "gancho": "Espiritualidade feminina virou tendência de mercado em 2026. Mas antes de virar trend, ela já era a base do que eu vejo transformar mulheres na clínica.",
+          "ideia_central": "Insatisfação corporal em mulheres não é frescura — é consequência direta de um sistema de imagens idealizadas que elas consomem diariamente.",
+          "gancho": "30% das mulheres têm insatisfação com o próprio corpo. E grande parte disso vem de um lugar que você usa todo dia.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Espiritualidade feminina está em alta. Livros, cursos, retiros — o mercado explodiu. E eu quero te dizer o que, como psicóloga, eu vejo por baixo dessa tendência."
+              "fala": "Um estudo brasileiro aponta que 30% das pessoas têm insatisfação corporal — e isso é muito maior entre mulheres. E tem um motivo muito específico para isso que preciso te contar."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Em 2026, o crescimento do mercado de espiritualidade e autoconhecimento feminino é inegável. Mulheres buscando slow living, reconexão com ciclos internos, entendimento das próprias ambições, crenças e padrões. É uma reação direta ao excesso de estímulo, à produtividade tóxica, ao burnout que a gente viu dobrar de tamanho nos últimos anos."
+              "fala": "Pesquisas mostram que a exposição contínua a padrões idealizados de beleza nas redes sociais — Instagram, TikTok — está diretamente associada à insatisfação corporal e à baixa autoestima feminina. A comparação social com imagens editadas alimenta o desejo de magreza e distorce a percepção da própria imagem."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mas a espiritualidade que transforma não é a que enche o feed de frases bonitas. É a que te faz parar e perguntar: 'O que eu realmente quero? Quais são os meus valores? Estou vivendo para mim ou para a aprovação de outros?' Esse processo de autoconhecimento — que a espiritualidade autentica provoca — é exatamente o que a psicologia usa para transformar padrões. São linguagens diferentes descrevendo o mesmo destino: você, inteira."
+              "fala": "E o mais cruel disso: você compara seu dia a dia com o highlight da vida de outra pessoa. Você vê o resultado de horas de produção, filtros, iluminação e edição — e compara com você de pijama às 7 da manhã. Isso não é vaidade. Isso é distorção cognitiva alimentada por um sistema."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Como a espiritualidade aparece na sua vida? Me conta nos comentários."
+              "fala": "Você já percebeu as redes sociais te fazendo sentir mal com o seu corpo? Me conta."
             }
           ],
-          "legenda": "Espiritualidade feminina virou tendência de mercado em 2026.\n\nMas antes de virar trend, ela já era o que eu vejo transformar mulheres na clínica há anos.\n\nA mulher que para. Que se reconecta com o que é real para ela — seus ciclos, seus valores, o que ela quer de verdade. Não o que o mundo quer que ela queira.\n\nEssa pausa não é escapismo. É o trabalho mais difícil que existe: te conhecer de verdade.\n\nA espiritualidade autêntica e a psicologia descrevem o mesmo caminho com linguagens diferentes. O destino é o mesmo: você, inteira.\n\nComo a espiritualidade aparece na sua vida?\n\n#EspiritualidadeFeminina #Autoconhecimento #SlowLiving #PsicologiaFeminina #PriscillaAndrade #MulherInteira #Autenticidade",
-          "legenda_2": ""
+          "legenda": "30,2% das pessoas têm insatisfação corporal no Brasil.\nE esse número é muito maior entre mulheres.\n\nIsso não é frescura. Não é vaidade. É consequência direta de consumir diariamente imagens de corpos editados, filtrados e iluminados profissionalmente.\n\nVocê compara seu dia a dia com o highlight da vida de outra pessoa.\nIsso é distorção cognitiva — e as redes sociais são estruturadas para alimentá-la.\n\nImagem corporal é questão de saúde mental, não de estética. E tratar isso exige mais do que fazer as pazes com o espelho — exige entender o sistema que criou essa insatisfação.\n\n💬 Você já percebeu as redes sociais afetando como você se vê? Me conta nos comentários.\n\n#ImagemCorporal #Autoestima #Psicologia #RedesSociais #SaúdeMental #PsicologiaFeminina #CorpoBonito #PriscillaAndrade"
         },
-        "post-estatico": {
-          "ideia": "Uma frase poderosa sobre o que é espiritualidade real versus espiritualidade de vitrine.",
-          "titulo_visual": "A espiritualidade que transforma\nnão enche o feed de frases bonitas.\n\nEla te faz perguntar o que você realmente quer.",
-          "legenda": "Espiritualidade feminina está em alta em 2026 — e eu fico feliz.\n\nMas há uma diferença entre espiritualidade de vitrine e espiritualidade que transforma.\n\nA que transforma é aquela que te coloca diante de perguntas incômodas:\n\n✨ O que eu realmente quero?\n✨ Estou vivendo para mim ou para aprovação?\n✨ Meus valores guiam minhas escolhas?\n\nEssas perguntas assustam. E são exatamente elas que mudam tudo.\n\nSalva como lembrete e me conta: você já se fez alguma dessas perguntas?\n\n#EspiritualidadeFeminina #Autoconhecimento #PriscillaAndrade #PsicologiaFeminina #MulherInteira",
-          "cta": "Qual dessas perguntas você mais evita? Responde aqui."
+        "carrossel": {
+          "ideia": "Como as redes sociais afetam a imagem corporal feminina — e o que a psicologia diz sobre isso.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "As Redes Sociais Estão Distorcendo Sua Imagem Corporal",
+              "subtitulo": "O dado que prova — e o que você pode fazer sobre isso"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O dado",
+              "texto": "30,2% das pessoas no Brasil têm insatisfação corporal. Entre mulheres, esse número é significativamente maior. Pesquisas associam diretamente esse índice ao consumo de imagens idealizadas em plataformas como Instagram e TikTok."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "Como funciona o mecanismo",
+              "texto": "Você vê o resultado de horas de produção, iluminação, filtros e edição — e compara com seu reflexo real. O cérebro faz essa comparação automaticamente. E quanto mais você consome, mais intensa é a insatisfação. Isso não é fraqueza. É neuropsicologia."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O que poucos percebem",
+              "texto": "Insatisfação corporal não é questão de estética — é saúde mental. Ela está associada a distúrbios alimentares, baixa autoestima, ansiedade e depressão. Tratar isso exige mais do que 'fazer as pazes com o espelho' — exige entender o sistema que criou essa insatisfação."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Você já percebeu as redes sociais te fazendo sentir mal com o seu próprio corpo? Conta aqui — e salva esse carrossel para quando precisar lembrar que o que você vê online não é real."
+            }
+          ],
+          "legenda": "30% das mulheres têm insatisfação corporal. E parte disso vem do que você consome nas redes todos os dias. 📱\n\nArrastando 👉 para entender como funciona esse mecanismo — e o que a psicologia diz sobre isso.\n\n💛 Salva para quem precisa ouvir isso.\n\n#ImagemCorporal #Autoestima #RedesSociais #Psicologia #PsicologiaFeminina #SaúdeMental #PriscillaAndrade"
         }
       }
     }
