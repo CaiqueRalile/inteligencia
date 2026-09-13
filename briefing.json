@@ -1,617 +1,613 @@
 {
-  "versao": "2026-09-08",
-  "gerado_em": "2026-09-08T06:00:00Z",
-  "contexto_do_dia": "Setembro 2026 está sendo o 'mês maldito' dos famosos: Ana Castela e Gustavo Miotto encerraram o namoro via story (sem Castela se pronunciar publicamente), Sandy e Lucas Lima anunciaram separação após anos de casamento icônico, e o caso Erika Januza x Arlindinho — flagrado saindo de casa de swing com duas mulheres — ainda ecoa nas redes. Setembro Amarelo acende o debate sobre saúde mental feminina, enquanto a trend 'Potential-Maxxing' no Instagram desafia mulheres a trocarem afirmações vazias por conquistas concretas.",
+  "versao": "2026-09-13",
+  "gerado_em": "2026-09-13T08:00:00Z",
+  "contexto_do_dia": "Esta semana está dominada por três narrativas de alto impacto: (1) O drama de Gabriel Medina e Isabella Arantes — casamento relâmpago 20 dias após o noivado, anúncio de gravidez e perda do bebê Gael em sequência, tudo exposto ao público; (2) O trend 'If She Says No' no TikTok brasileiro, que simula violência contra a rejeição feminina e motivou a abertura de inquérito pela Polícia Federal por incitação à violência; (3) Setembro Amarelo com foco inédito na desigualdade de gênero na saúde mental — mulheres são as mais impactadas por ansiedade e depressão, com dados publicados esta semana mostrando que o Brasil lidera ranking global de transtornos mentais no trabalho.",
   "items": [
     {
       "id": 1,
-      "titulo": "Por Que Gustavo Miotto Anunciou o Fim e Ana Castela Ficou em Silêncio",
-      "resumo": "Gustavo Miotto publicou o término do namoro com Ana Castela por story — sem que ela se pronunciasse. Quem anuncia primeiro tem o poder narrativo. O ângulo psicológico está em entender se o silêncio de Ana é estratégia, colapso emocional ou simplesmente o luto de quem ainda não sabe o que sente.",
+      "titulo": "Gabriel Medina: casamento relâmpago, gravidez anunciada e perda do bebê — o que ninguém está dizendo",
+      "resumo": "Medina e Isabella Arantes se casaram 20 dias após o noivado, anunciaram a gravidez do bebê Gael publicamente e em seguida vieram a perda — tudo exposto nas redes. O caso levanta questões psicológicas urgentes sobre decisões impulsivas sob exposição pública, luto perinatal e o preço emocional de viver relacionamentos à vista de milhões.",
       "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "Story de Gustavo Miotto no Instagram, 25/09/2026 — repercussão Band, Estrelando, CNN Brasil",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "CNN Brasil, Estrelando — Casamentos famosos 2026; casamento em setembro 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "Quem anuncia o término primeiro controla a narrativa — e Ana Castela não exerceu esse poder, e isso diz muito.",
-          "gancho": "Gustavo Miotto postou o término. Ana Castela ficou em silêncio. E eu preciso te falar o que essa diferença revela.",
+          "ideia_central": "A sequência de decisões de Medina e Isabella expõe como a pressa emocional e a pressão da exposição pública podem criar uma tempestade perfeita de dor.",
+          "gancho": "O caso Medina e Isabella Arantes é mais sério do que parece. E não estou falando do casamento em 20 dias.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Gustavo Miotto postou o término com Ana Castela pelo story. Ela não falou nada. E como psicóloga, isso me chamou muita atenção."
+              "fala": "Medina e Isabella: noivado, casamento em 20 dias, gravidez anunciada publicamente, perda do bebê Gael. Tudo em semanas. Isso não é só uma história de famosos — é um retrato do que acontece quando a pressa e a exposição se encontram."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Quando uma separação é anunciada por apenas um lado, geralmente quem anuncia é quem já estava preparado. Que processou antes. Que já tinha a narrativa pronta. Isso dá a ele o poder de contar como quer, quando quer."
+              "fala": "Eles anunciaram o bebê Gael nas redes. Depois veio a perda. O luto perinatal já é devastador na privacidade. Na frente de milhões de seguidores, ele se multiplica. Há a dor do luto, mais a dor de ter anunciado, mais a dor de ter que explicar. Isso se chama luto exposto — e é uma das experiências mais desorientadoras que um casal pode atravessar."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Ana pode estar em colapso emocional, em luto, ou até fazendo a escolha mais sábia: não falar quando ainda não sabe o que sente. Como psicóloga, eu te digo — o silêncio da mulher não é fraqueza. Mas quando vem do desamparo, ela perde a narrativa da própria história."
+              "fala": "E o casamento em 20 dias? A psicologia chama isso de decisão acelerada por circunstância. Quando há muita pressão externa — fama, público, pressão midiática — casais tomam decisões que deveriam ser lentas, rápido demais. Não significa que o amor não é real. Significa que o sistema nervoso do casal não teve tempo de se regular junto antes de ser testado."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já viveu uma separação onde o outro lado anunciou antes? Me conta nos comentários como foi."
+              "fala": "Se você já tomou uma decisão amorosa rápida demais por pressão, conta aqui embaixo. Não tô aqui pra julgar — tô aqui pra entender junto."
             }
           ],
-          "legenda": "Gustavo Miotto anunciou o fim do namoro com Ana Castela pelo story — sem ela se pronunciar.\n\nE isso, psicologicamente, importa MUITO.\n\nQuem anuncia primeiro tem o poder narrativo. Define o tom, o timing, a versão que o público recebe.\n\nAna Castela pode estar em luto. Pode estar em silêncio estratégico. Pode simplesmente ainda não saber o que sente — e isso é mais honesto do que qualquer postagem apressada.\n\nMas o que ninguém está falando é: a mulher que não fala perde o controle da própria história.\n\nE isso não começa aí. Começa muito antes — nos relacionamentos onde aprendemos que nossos sentimentos não merecem espaço.\n\n💬 Você já foi a Ana Castela dessa situação? Me conta.\n\n#AnaCastela #GustavoMiotto #Psicologia #Relacionamento #Separação #Autoconhecimento #PsicologiaFeminina #PriscillaAndrade"
+          "legenda": "O caso de Gabriel Medina e Isabella Arantes chegou nas redes como mais uma história de famoso. Mas como psicóloga, eu olhei e vi outra coisa. 🧵\n\nEles se casaram 20 dias após o noivado. Anunciaram a gravidez publicamente. E depois veio a perda do bebê Gael.\n\nIsso é o que a psicologia chama de luto exposto: você processa uma das dores mais profundas da vida na frente de milhões de pessoas que já comemoraram com você.\n\nO luto perinatal, mesmo em privacidade, é complexo e subestimado. Em público, ele ganha uma camada a mais: a obrigação de explicar, a exposição da fragilidade, os comentários sem filtro.\n\nE o casamento em 20 dias? Não é julgamento — é observação clínica: decisões importantes tomadas sob pressão de tempo e exposição raramente dão ao casal o espaço que eles precisam para se conhecer fora do holofote.\n\nQue esse caso nos lembre: casais famosos nos ensinam sobre nós mesmos.\n\n#GabrielMedina #LutoPerinatal #PsicologiaDoRelacionamento #Casamento #PriscilaAndrade #Psicologia #RelacionamentoSaudavel"
         },
-        "carrossel": {
-          "ideia": "Quem controla a narrativa numa separação — e por que isso machuca mais do que parece.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Quem Anuncia o Término Primeiro Tem o Poder",
-              "subtitulo": "O caso Ana Castela x Gustavo Miotto e o que ele diz sobre toda separação"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que aconteceu",
-              "texto": "Gustavo Miotto publicou o término do namoro com Ana Castela pelo story. Ela permaneceu em silêncio. Uma separação anunciada por apenas um lado — e isso raramente é por acaso."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "O poder narrativo",
-              "texto": "Quem fala primeiro define o tom. Define como o público lembra. Define a versão oficial. Quando só um lado fala, o outro passa a ser personagem — não protagonista — da própria história."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "O silêncio da Ana Castela pode ser luto, estratégia ou simplesmente honestidade: ela pode não saber ainda o que sente. E isso é legítimo. Mas a mulher que nunca aprendeu que seus sentimentos merecem espaço vai continuar calada mesmo quando deveria falar."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Já viveu uma separação onde o outro lado anunciou antes e você perdeu o controle da sua própria narrativa? Isso começa muito antes — nos relacionamentos onde aprendemos a calar."
-            }
+        "lo-fi": {
+          "ideia": "Falar de forma íntima sobre luto perinatal e o peso de viver um relacionamento em público, usando o caso Medina como ponto de entrada.",
+          "gancho": "Oi. Quero falar sobre o caso do Medina e da Isabella de um lugar que ninguém está olhando.",
+          "o_que_falar": [
+            "Contextualiza o caso: casamento em 20 dias, bebê anunciado, perda pública — tudo rápido demais",
+            "Fala sobre luto perinatal: já é devastador na privacidade, em público ganha uma camada de obrigação de explicar",
+            "Insight psicológico: a pressa nas decisões amorosas sob pressão — não é falta de amor, é falta de tempo para regular o sistema nervoso do casal junto",
+            "CTA: perguntar quem já tomou uma decisão amorosa rápida por pressão e como foi"
           ],
-          "legenda": "Gustavo Miotto anunciou o término. Ana Castela ficou em silêncio. ✨\n\nE nesse silêncio tem uma lição que toda mulher precisa ouvir.\n\nArrastando 👉 para entender o que a psicologia diz sobre quem controla a narrativa numa separação.\n\n💬 Salva esse carrossel se você já viveu algo parecido.\n\n#AnaCastela #GustavoMiotto #Psicologia #Relacionamento #Separação #PsicologiaFeminina #Autoconhecimento #PriscillaAndrade"
+          "legenda": "Não vim falar do Medina com julgamento 🤍\n\nVim falar do que esse caso revela sobre nós mesmos — sobre luto, sobre pressa, sobre viver relacionamentos no olho do furacão.\n\nLuto perinatal já é silencioso e complexo. Em público, ele carrega o peso de ter anunciado e de receber todo tipo de comentário.\n\n#Luto #LutoPerinatal #Medina #PsicologiaDoRelacionamento #PriscilaAndrade",
+          "vibe": "Câmera estática, luz natural suave, tom íntimo e sem julgamento, como uma conversa entre amigas"
         }
       }
     },
     {
       "id": 2,
-      "titulo": "Sandy e Lucas Lima Se Separaram — e Por Que Isso Abala a Autoestima de Outras Mulheres",
-      "resumo": "Sandy e Lucas Lima, um dos casamentos mais icônicos do Brasil, chegou ao fim em setembro. Para muitas seguidoras, a notícia ativa um gatilho silencioso: 'se até eles não conseguiram, o que esperar de mim?' Priscilla pode desmontар o mito do casal perfeito e o dano que ele causa na autoestima e nas expectativas femininas.",
-      "pilar": "Autoimagem & Identidade",
+      "titulo": "Trend 'If She Says No' no TikTok brasileiro: PF abriu inquérito — e é pior do que parece",
+      "resumo": "Vídeos circularam no TikTok mostrando homens simulando reações violentas à rejeição feminina com a legenda 'se ela disser não'. A Polícia Federal brasileira abriu inquérito por incitação à violência. O trend expõe como o humor pode normalizar ameaças reais e o que isso revela sobre masculinidade frágil e cultura de rejeição.",
+      "pilar": "Casamento & Relacionamento",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["lo-fi"],
-      "fonte": "CNN Brasil, Band, ISTOÉ — Setembro Amaldiçoado, lista de separações 2026",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Free Press Journal — 'If She Says No' viral TikTok Brazil; Polícia Federal divisão de crimes cibernéticos 2026",
       "copies": {
         "reels-react": {
-          "ideia_central": "A separação de Sandy e Lucas Lima ativa um gatilho coletivo: se o casal 'perfeito' não dura, o que diz sobre o meu relacionamento?",
-          "gancho": "Sandy e Lucas Lima se separaram. E provavelmente você não está sentindo só tristeza — está sentindo medo.",
+          "ideia_central": "O trend 'If She Says No' não é uma piada — é a normalização da violência como resposta à rejeição, e a psicologia tem muito a dizer sobre isso.",
+          "gancho": "A Polícia Federal abriu inquérito por causa de um trend do TikTok. E quem assistiu achou engraçado. Vou te explicar por que isso é perigoso.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Sandy e Lucas Lima se separaram. E se você tá aqui achando que vai ouvir comentário de fofoca, não é isso. Eu quero falar sobre o que essa notícia ativa em você."
+              "fala": "Um trend do TikTok fez a Polícia Federal abrir inquérito no Brasil. Homens simulando facadas, socos, armas — tudo com a legenda 'se ela disser não'. E muita gente ficou rindo. Deixa eu te contar o que a psicologia enxerga aqui."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Sandy e Lucas eram o casal 'perfeito'. Anos juntos, público apaixonado por eles, aparência de harmonia total. E quando um casal assim termina, algo acontece nas outras mulheres: elas começam a questionar os próprios relacionamentos."
+              "fala": "O trend 'If She Says No' colocou um cenário de rejeição feminina com uma resposta violenta simulada como se fosse humor. O problema? Quando você embaliza violência em piada, você diminui a percepção de ameaça. Isso tem um nome técnico: normalização por humor. E funciona exatamente porque parece inofensivo."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Isso se chama comparação descendente — você usa a queda de outro relacionamento como evidência de que o seu também vai fracassar. Ou pior: como prova de que amor não dura. Mas o problema não é a separação deles. É o mito do casal perfeito que você internalizou."
+              "fala": "O homem que ameaça como resposta à rejeição está revelando algo muito específico: que ele entende relacionamento como posse. Que a mulher não tem o direito de dizer não. Isso não é humor. É um padrão de pensamento que, no mundo real, precede violência. E quando você normaliza isso como piada, você treina o cérebro a não levar a sério."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Que casais de famosos você usou como referência de relacionamento? Me conta — quero entender como isso afeta a gente."
+              "fala": "Manda esse vídeo pra alguém que achou o trend engraçado. Às vezes a gente precisa de uma perspectiva de fora da piada."
             }
           ],
-          "legenda": "Sandy e Lucas Lima se separaram. E eu sei que não é só tristeza que você sentiu.\n\nTem um medo silencioso nessa notícia:\n'Se até eles, que pareciam tão certos, não conseguiram — o que diz sobre o meu relacionamento?'\n\nIsso tem nome na psicologia: é a comparação que usamos para validar nossas piores crenças sobre o amor.\n\nO problema não é a separação deles.\nÉ o mito do casal perfeito que você aprendeu a perseguir — e que nunca existiu de verdade.\n\nRelacionamentos reais não parecem Instagram. Eles têm conflito, negociação, fases ruins. E isso não significa fracasso.\n\nSalva esse vídeo se isso fez sentido pra você. 💛\n\n#Sandy #LucasLima #Separação #Relacionamento #Psicologia #AutoEstima #CasalPerfeito #PsicologiaFeminina #PriscillaAndrade"
+          "legenda": "A Polícia Federal abriu inquérito por um trend do TikTok que viralizou no Brasil 🔴\n\nHomens simulando facadas, socos e armas como resposta à rejeição feminina. Com a legenda: 'se ela disser não'.\n\nMuita gente riu. E é exatamente aí que está o problema.\n\nQuando você embaliza violência em humor, você ativa o que a psicologia chama de normalização por humor. O cérebro começa a registrar aquilo como menos ameaçador.\n\nMas o padrão de pensamento por trás disso — 'se ela rejeitar, ela merece consequência' — não é brincadeira. É o mesmo padrão que precede violência real.\n\nA rejeição dói. Mas ela é um direito. E a resposta saudável à rejeição é respeito, não ameaça.\n\n#IfSheSaysNo #ViolenciaContraAMulher #PsicologiaDoRelacionamento #Masculinidade #PriscilaAndrade #Psicologia #RejeicaoSaudavel"
         },
-        "lo-fi": {
-          "ideia": "Um papo íntimo sobre o medo que a separação de Sandy e Lucas Lima ativa — sem glamour, só verdade.",
-          "gancho": "Sandy e Lucas Lima se separaram. E eu preciso te contar o que isso faz com a gente emocionalmente.",
-          "o_que_falar": [
-            "Ponto 1 — contextualiza o caso: Sandy e Lucas eram o casal símbolo de amor duradouro. A separação deles virou notícia em todo o Brasil, em setembro — que já virou o 'mês amaldiçoado' dos famosos.",
-            "Ponto 2 — insight psicológico: quando um casal 'perfeito' termina, ativamos um gatilho de invalidação do nosso próprio relacionamento. É a crença de que se eles não conseguiram, nós também não vamos. Isso é distorção cognitiva.",
-            "Ponto 3 — conexão com a vida das seguidoras: quantas vezes você usou casais famosos como termômetro para o seu relacionamento? Como parâmetro de 'o que deveria parecer'? Isso é o mito do casal perfeito operando.",
-            "Ponto 4 — CTA: me conta nos comentários um casal famoso que você usou como referência de relacionamento. Vamos falar sobre isso."
+        "carrossel": {
+          "ideia": "Guia psicológico sobre o que o trend revela: normalização da violência, masculinidade frágil e como identificar esse padrão em relacionamentos reais.",
+          "cards": [
+            {
+              "numero": 1,
+              "tipo": "Capa",
+              "titulo": "A PF abriu inquérito por um trend do TikTok",
+              "subtitulo": "E a psicologia tem muito a dizer sobre o que ele revela"
+            },
+            {
+              "numero": 2,
+              "tipo": "Contextualização",
+              "titulo": "O que foi o trend 'If She Says No'",
+              "texto": "Vídeos circularam mostrando homens simulando reações violentas à rejeição feminina com a legenda 'se ela disser não'. A Polícia Federal abriu inquérito por incitação à violência. E muita gente havia achado engraçado."
+            },
+            {
+              "numero": 3,
+              "tipo": "Desenvolvimento",
+              "titulo": "O que a psicologia chama de normalização por humor",
+              "texto": "Quando violência é embalada em piada, o cérebro reduz a percepção de ameaça. Isso não é teoria — é um mecanismo documentado. Quanto mais você ri de algo, menos ameaçador ele parece. E a linha entre 'brincadeira' e 'comportamento aceitável' começa a desaparecer."
+            },
+            {
+              "numero": 4,
+              "tipo": "Virada",
+              "titulo": "O que esse padrão diz sobre relacionamentos",
+              "texto": "Homens que reagem à rejeição com ameaça — mesmo 'de brincadeira' — externalizam um princípio perigoso: que a mulher não tem direito ao 'não'. Isso é possessividade disfarçada. E no mundo real, é um dos primeiros red flags de relacionamento abusivo."
+            },
+            {
+              "numero": 5,
+              "tipo": "CTA",
+              "titulo": "E você?",
+              "texto": "Você já recebeu uma reação violenta — mesmo como 'piada' — ao dizer não? Conta nos comentários. Esse assunto precisa de luz."
+            }
           ],
-          "legenda": "Sandy e Lucas Lima terminaram. E isso ativou algo em muita gente.\n\nNão é só tristeza — é aquele medo de que se eles não conseguiram, ninguém vai.\n\nFilmei esse vídeo direto do coração pra te dizer: relacionamentos reais não parecem Instagram. Nunca pareceram. 💛\n\n#Sandy #LucasLima #Separação #PsicologiaFeminina #Relacionamento #Autoconhecimento #PriscillaAndrade",
-          "vibe": "Câmera estática na frente. Luz natural. Tom íntimo, como se fosse uma conversa entre amigas. Sem roteiro decorado — falar olhando para a câmera com naturalidade."
+          "legenda": "Um trend do TikTok fez a PF abrir inquérito. Mas a discussão mais importante não é jurídica — é psicológica 🧠\n\nSalva esse carrossel e manda pra quem precisa entender o que está por trás do humor que normaliza violência.\n\n#IfSheSaysNo #PsicologiaDoRelacionamento #ViolenciaContraAMulher #RedFlags #PriscilaAndrade"
         }
       }
     },
     {
       "id": 3,
-      "titulo": "Erika Januza Falou Sobre Limites Combinados no Saia Justa — Ela Está 100% Certa",
-      "resumo": "Arlindinho foi flagrado saindo de uma casa de swing com duas mulheres, quebrando um limite que o casal havia combinado. Erika foi ao Saia Justa e falou sobre responsabilidade emocional e limites. Priscilla pode aprofundar: limite combinado é contrato de confiança — e quebrar um acordo não é 'exploração sexual', é traição.",
+      "titulo": "Tulla Luana: 21 anos de casamento destruídos por traição virtual — quando o perdão vira armadilha",
+      "resumo": "A influenciadora Tulla Luana encerrou um casamento de 21 anos em agosto de 2026 após descobrir uma nova traição virtual do marido. Havia histórico anterior de infidelidade e ela já havia perdoado uma vez. O caso abre o debate sobre quando o perdão se torna cumplicidade e o que a reincidência revela sobre o padrão do parceiro.",
       "pilar": "Casamento & Relacionamento",
-      "urgencia": "semana",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "Correio 24 Horas, Alô Alô Bahia, O Povo — Erika Januza e Arlindinho, julho 2026",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Band — Dia do Solteiro: 10 famosos separados em 2026 (agosto 2026); CNN Brasil — Traição",
       "copies": {
         "reels-react": {
-          "ideia_central": "Limite combinado em relacionamento é contrato emocional — e quebrar esse contrato não é questão de 'liberdade sexual', é traição.",
-          "gancho": "Sobre o caso da Erika Januza e Arlindinho: vou te dizer o que ninguém está falando direito.",
+          "ideia_central": "Tulla Luana já havia perdoado antes — e o marido reincidiu. Isso não diz nada sobre ela. Diz tudo sobre ele. E há um padrão psicológico claro aí.",
+          "gancho": "Tulla Luana terminou um casamento de 21 anos. Mas o que me chamou atenção não foi o término. Foi o que veio antes dele.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Você viu o que aconteceu com Erika Januza e Arlindinho? Ele foi flagrado saindo de uma casa de swing — e ela foi ao Saia Justa falar sobre limite combinado. Eu preciso aprofundar isso."
+              "fala": "Tulla Luana acabou com um casamento de 21 anos depois de uma nova traição virtual. A palavra que mais me importa nessa frase é 'nova'. Porque ela já havia perdoado antes."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Arlindinho foi visto com duas mulheres saindo de uma casa de swing enquanto ainda namorava Erika. Ela confirmou que eles tinham um limite combinado — e ele foi ultrapassado. A discussão nas redes virou: 'mas é swing, não é traição'. E aí que erram feio."
+              "fala": "O marido traiu. Ela descobriu. Ele prometeu mudar. Ela acreditou. Deu uma nova chance. O casamento continuou. E aí veio a nova traição. Isso é reincidência. E a reincidência não é acidente — ela é padrão."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Traição não é definida só pelo ato sexual. É definida pela quebra de um acordo. Quando dois adultos combinam um limite — seja ele qual for — e um deles ultrapassa sem o conhecimento do outro, isso é violação de confiança. Ponto. A discussão sobre swing distrai do real: ele descumpriu um acordo."
+              "fala": "Existe uma diferença crucial entre um erro e um padrão. O erro acontece uma vez e gera mudança real. O padrão se repete porque a mudança nunca aconteceu de verdade. E muitas vezes o perdão dado sem processo terapêutico se torna, sem querer, a autorização para que o comportamento continue. Isso não é culpa da Tulla. É falta de ferramenta."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você acha que traição é só física? Me conta nos comentários — quero saber o que vocês pensam sobre isso."
+              "fala": "Você já deu uma segunda chance que virou terceira, quarta, quinta? Me conta. Estou aqui para escutar sem julgamento."
             }
           ],
-          "legenda": "Sobre Erika Januza e Arlindinho: a discussão nas redes virou 'swing não é traição'. E isso distrai do que realmente importa.\n\nTraição NÃO é definida pelo ato.\nTraição é a QUEBRA DE UM ACORDO.\n\nQuando dois adultos combinam um limite — seja ele qual for — e um ultrapassa sem o consentimento do outro, isso é violação de confiança. É traição emocional.\n\nErika foi ao Saia Justa e falou sobre responsabilidade emocional. Ela nomeou o problema certo.\n\nA questão não é swing sim ou não.\nA questão é: você respeita os acordos que faz com sua parceira?\n\n💬 O que você acha? Limite combinado que é quebrado é traição?\n\n#ErikaJanuza #Arlindinho #Traição #LimitesNoRelacionamento #Psicologia #PsicologiaFeminina #Relacionamento #PriscillaAndrade"
+          "legenda": "O caso da Tulla Luana me tocou de um jeito muito específico. Não pelo término em si. Pela palavra 'nova'. 🧵\n\n21 anos de casamento. Uma traição. Um perdão. Uma promessa de mudança. E aí... uma nova traição.\n\nIsso tem nome: reincidência. E a psicologia entende reincidência como padrão, não como acidente.\n\nA diferença entre erro e padrão:\n→ Erro: acontece, gera arrependimento real, gera mudança comportamental, não se repete\n→ Padrão: se repete porque a mudança interna nunca aconteceu de verdade\n\nO perdão dado por amor, sem processo — sem terapia, sem responsabilização — muitas vezes se torna uma permissão involuntária para que o comportamento continue.\n\nIsso não é culpa de quem perdoou. É falta de ferramenta para exigir mais do que palavras.\n\nTulla terminou. E isso exigiu uma coragem enorme. 💙\n\n#TullaLuana #Traicao #Reincidencia #CasamentoLongo #PriscilaAndrade #PerdaoSaudavel #RelacionamentoSaudavel"
         },
         "carrossel": {
-          "ideia": "O que é traição de verdade — e por que a discussão sobre o caso Erika Januza está no lugar errado.",
+          "ideia": "Guia: como identificar a diferença entre erro e padrão em um relacionamento, usando o caso Tulla Luana como âncora.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Traição Não É Só Sexo",
-              "subtitulo": "O caso Erika Januza x Arlindinho e a definição que muda tudo"
+              "titulo": "21 anos e uma 'nova' traição",
+              "subtitulo": "O que a reincidência realmente significa — e o que a psicologia diz sobre perdoar"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O que aconteceu",
-              "texto": "Arlindinho foi flagrado saindo de uma casa de swing com duas mulheres enquanto namorava Erika Januza. O casal tinha um limite combinado — que foi ultrapassado sem o conhecimento dela. Erika confirmou a separação e foi ao Saia Justa falar sobre responsabilidade emocional."
+              "titulo": "O caso Tulla Luana",
+              "texto": "A influenciadora encerrou um casamento de 21 anos em agosto de 2026 após uma nova traição virtual. A palavra 'nova' revela que havia um episódio anterior — ela havia perdoado, e o marido reincidiu."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "O debate errado",
-              "texto": "As redes sociais se dividiram: 'swing não é traição'. E essa discussão perdeu o ponto. Traição não é definida pelo tipo de ato — é definida pela quebra de um acordo. E um acordo foi quebrado."
+              "titulo": "Erro vs. padrão: a diferença que salva você",
+              "texto": "Erro: acontece uma vez, gera arrependimento real, mudança comportamental concreta, não se repete. Padrão: se repete porque a mudança interna nunca aconteceu. Reincidência é a prova do padrão."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "Limite combinado é um contrato de confiança. Quando você e seu parceiro definem um limite — seja ele qual for — e um dos lados o viola sem o conhecimento do outro, isso é violação de confiança. Isso é traição emocional. Não tem outro nome."
+              "titulo": "Quando o perdão se torna uma armadilha",
+              "texto": "Perdão sem processo — sem terapia, sem responsabilização real, sem mudança observável — pode funcionar como autorização involuntária. Não é culpa de quem perdoa. É falta de estrutura para exigir mais do que palavras."
             },
             {
               "numero": 5,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Você concorda que traição é sobre a quebra do acordo, não sobre o ato em si? Me conta nos comentários — esse debate precisa ir mais longe."
+              "texto": "Você já deu uma segunda chance que não resultou em mudança real? O que faltou? Conta aqui embaixo."
             }
           ],
-          "legenda": "O caso Erika Januza e Arlindinho gerou debate sobre o que é ou não traição. 👀\n\nMas a psicologia tem uma resposta clara — e ela muda tudo.\n\nArrastando 👉 para entender.\n\n💬 Salva e compartilha com quem precisa ler isso.\n\n#ErikaJanuza #Arlindinho #Traição #Relacionamento #Psicologia #Limites #PsicologiaFeminina #PriscillaAndrade"
+          "legenda": "Tulla Luana encerrou 21 anos de casamento. Mas a lição mais importante não está no término — está na palavra 'nova'. 🧵\n\nSalva esse carrossel se você já se pegou num ciclo de perdão sem mudança.\n\n#TullaLuana #Reincidencia #Traicao #PerdaoSaudavel #PriscilaAndrade #Psicologia"
         }
       }
     },
     {
       "id": 4,
-      "titulo": "Tulla Luana Encerrou 21 Anos de Casamento Por Traição Virtual — e a Palavra 'Nova' Diz Tudo",
-      "resumo": "Tulla Luana anunciou em agosto o fim do casamento de 21 anos com João Carlos após descobrir uma 'nova' traição virtual. A palavra 'nova' é o que importa. Para o público de Priscilla, esse caso ilustra com clareza um padrão psicológico: quem trai uma vez tende a repetir — e perdão sem mudança real é apenas adiamento da dor.",
-      "pilar": "Casamento & Relacionamento",
-      "urgencia": "semana",
+      "titulo": "Debate viral no TikTok: Pietra Bertolazzi x Caroline Sarda — beleza é escolha ou condicionamento?",
+      "resumo": "As criadoras Pietra Bertolazzi e Caroline Sarda protagonizaram um debate viral no TikTok sobre padrão de beleza e feminismo. O embate levantou a questão: quando a mulher busca beleza, ela está exercendo autonomia ou respondendo a pressão social? Um ângulo psicológico preciso pode separar Priscilla da maioria das vozes no debate.",
+      "pilar": "Autoimagem & Identidade",
+      "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["post-estatico"],
-      "fonte": "Tribunа do Sertão, Megapop, Band — Tulla Luana, agosto 2026",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "TikTok @foca.aqui6 — debate Pietra Bertolazzi x Caroline Sarda (viral setembro 2026)",
       "copies": {
         "reels-react": {
-          "ideia_central": "A palavra 'nova' traição virtual de Tulla Luana revela o padrão mais doloroso: perdão sem mudança não resolve nada.",
-          "gancho": "Tulla Luana encerrou 21 anos de casamento por uma 'nova' traição virtual. Essa palavrinha 'nova' me diz tudo.",
+          "ideia_central": "A grande questão não é se você escolheu se maquiar ou malhar — é se você teria feito essa 'escolha' sem a pressão que recebeu desde criança.",
+          "gancho": "Pietra Bertolazzi e Caroline Sarda estão em debate no TikTok sobre padrão de beleza e feminismo. E os dois lados estão errados em partes iguais.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Tulla Luana encerrou 21 anos de casamento por uma 'nova' traição virtual. Leu certo — nova. E essa palavra muda tudo."
+              "fala": "Teve um debate viral essa semana no TikTok sobre padrão de beleza e feminismo. E eu quero trazer a perspectiva que ninguém está dando: a da psicologia."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "Ela anunciou o fim do casamento em agosto de 2026, dizendo que decidiu encerrar a relação depois de descobrir uma nova traição virtual. Isso significa que houve uma anterior. Que houve perdão. E que o comportamento se repetiu."
+              "fala": "De um lado: beleza é uma escolha individual e feminismo não tem que criticar mulheres que gostam de se arrumar. Do outro: padrões de beleza são impostos e a 'escolha' é na verdade uma resposta a pressão social. Os dois lados tocam em algo real. E nenhum conta a história inteira."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Na psicologia, chamamos isso de padrão comportamental. Quem trai não muda pelo medo de perder — muda, se mudar, por trabalho interno real. Quando uma mulher perdoa sem que haja mudança concreta — terapia, responsabilização, transparência — ela não está sendo forte. Está adiando a dor."
+              "fala": "A pergunta que a psicologia faz não é 'você gosta de se maquiar?' A pergunta é: 'Você teria chegado a gostar disso sem a pressão que internalizou desde criança?' Isso não invalida o prazer que você sente. Mas nos convida a entender a diferença entre preferência genuína e preferência condicionada. E esse reconhecimento — sem culpa — é o que abre espaço para escolhas mais livres."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já perdoou uma traição? Me conta nos comentários se houve mudança real ou só promessa."
+              "fala": "Você consegue separar o que você genuinamente gosta do que você aprendeu que precisava gostar? Deixa nos comentários."
             }
           ],
-          "legenda": "Tulla Luana encerrou 21 anos de casamento depois de descobrir uma 'nova' traição virtual.\n\n'NOVA.' Essa palavra carrega tudo.\n\nSignifica que houve uma anterior.\nSignifica que houve perdão.\nSignifica que o comportamento se repetiu.\n\nE isso não é falha dela — é um padrão muito conhecido na psicologia.\n\nPerdão sem mudança real não é força. É adiamento da dor.\n\nA mulher que fica depois de uma traição não está errada. Mas ela precisa de mais do que uma promessa — ela precisa de evidências concretas de mudança.\n\n21 anos. Ela deu tempo. E soube, quando foi hora, de ir embora. 💛\n\n#TullaLuana #Traição #Casamento #Psicologia #Relacionamento #PsicologiaFeminina #ForçaFeminina #PriscillaAndrade"
+          "legenda": "Teve um debate quente no TikTok essa semana entre Pietra Bertolazzi e Caroline Sarda sobre padrão de beleza e feminismo 🔥\n\nE como psicóloga, eu quero trazer a pergunta que ficou faltando no debate:\n\n✦ A questão não é se você escolheu se maquiar ou malhar.\n✦ A questão é: você teria feito essa escolha da mesma forma sem a pressão que internalizou desde criança?\n\nIsso não é invalidar o prazer que você sente. É reconhecer que preferências também são formadas por contexto — e que esse reconhecimento não te torna menos autêntica.\n\nTe torna mais livre.\n\n#PadraoDeBeleza #Feminismo #Autoimagem #AutoconhecimentoFeminino #PriscilaAndrade #Psicologia #IdentidadeFeminina"
         },
         "post-estatico": {
-          "ideia": "A palavra 'nova' da traição de Tulla Luana transformada em reflexão visual impactante.",
-          "titulo_visual": "Perdão sem mudança não é força. É adiamento da dor.",
-          "legenda": "Tulla Luana encerrou 21 anos de casamento depois de uma 'NOVA' traição virtual.\n\nEssa palavrinha 'nova' diz tudo sobre padrões que se repetem — e sobre o que acontece quando perdoamos sem exigir mudança real.\n\n21 anos. E ela soube ir embora quando foi hora. 💛\n\n#TullaLuana #Traição #Relacionamento #Psicologia #PsicologiaFeminina #Autoconhecimento #PriscillaAndrade",
-          "cta": "Salva esse post se ele chegou onde precisava. 💛"
+          "ideia": "Frase provocativa sobre a diferença entre preferência genuína e preferência condicionada, usando o debate viral como gancho.",
+          "titulo_visual": "\"Você escolheu ou foi condicionada?\"\n\nAs duas coisas podem ser verdade ao mesmo tempo.",
+          "legenda": "Teve um debate viral no TikTok essa semana sobre beleza e feminismo ✨\n\nE a resposta que a psicologia dá é mais complexa — e mais libertadora — do que qualquer um dos dois lados.\n\nVocê não precisa escolher entre 'é minha escolha' e 'é pressão social'. As duas coisas podem coexistir. E reconhecer isso não te torna mais fraca. Te torna mais consciente.\n\n#Autoimagem #Feminismo #PadraoDeBeleza #PriscilaAndrade #Psicologia",
+          "cta": "Salva esse post e manda pra quem precisa dessa perspectiva."
         }
       }
     },
     {
       "id": 5,
-      "titulo": "Setembro Amarelo: Por Que a Ansiedade Afeta Desproporcionalmente as Mulheres",
-      "resumo": "Em Setembro Amarelo, o debate sobre saúde mental ganha volume — mas poucos falam que mulheres são afetadas de forma desproporcional por ansiedade e depressão. Priscilla pode conectar isso à sobrecarga emocional feminina, ao papel histórico de cuidadora e à pressão por perfeição que as mulheres carregam socialmente.",
+      "titulo": "Setembro Amarelo 2026: mulheres são as mais impactadas por ansiedade e depressão — os dados que pararam o país",
+      "resumo": "Esta semana, o Setembro Amarelo ganhou recorte de gênero inédito: mulheres são as mais impactadas por ansiedade e depressão no Brasil (prevalência de 17,5% de depressão em mulheres brasileiras). O Brasil lidera ranking global de transtornos mentais no trabalho. É o momento certo para Priscilla falar com dados concretos e ângulo clínico.",
       "pilar": "Estilo de Vida & Espiritualidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "Agência Brasil 05/09/2026, OMS, Setembro Amarelo — Suburbia Online e Algomais",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "Entre Rios Jornal — Setembro Amarelo mulheres (setembro 2026); Radioagência Nacional — Brasil lidera ansiedade no trabalho (setembro 2026); SciELO/RAMB — Depressão em mulheres brasileiras",
       "copies": {
         "reels-react": {
-          "ideia_central": "Mulheres são as mais afetadas por ansiedade — e a razão é sistêmica, não individual.",
-          "gancho": "É Setembro Amarelo. E tem um dado que ninguém está falando: mulheres têm ansiedade mais do que homens — e não é acidente.",
+          "ideia_central": "Setembro Amarelo com recorte de gênero: mulheres sofrem mais e são menos ouvidas — e há razões psicológicas e estruturais para isso.",
+          "gancho": "Setembro Amarelo. E desta vez os dados chegaram com um recorte que me tocou profundamente: as mulheres são as mais afetadas. Deixa eu te mostrar o que está por trás disso.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "É Setembro Amarelo, o mês da saúde mental. E eu preciso te falar um dado que todo mundo ignora: mulheres são afetadas desproporcionalmente por ansiedade e depressão. Por quê?"
+              "fala": "Setembro Amarelo. Os dados desta semana mostram o que eu vejo no consultório todos os dias: mulheres são as mais impactadas por ansiedade e depressão no Brasil. E há razões muito específicas para isso."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "328 milhões de pessoas no mundo vivem com algum transtorno de ansiedade. E as mulheres aparecem de forma desproporcional nessa estatística. A ansiedade está entre os principais motivos que levam mulheres a buscar atendimento psicológico hoje."
+              "fala": "17,5% das mulheres brasileiras vivem com depressão. O Brasil lidera ranking global de transtornos mentais no trabalho. E entre as mulheres que trabalham fora, o quadro é ainda mais grave — porque o trabalho doméstico continuou. A dupla jornada não é metáfora. É uma fonte documentada de adoecimento."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mas sabe por que isso não é coincidência? Porque a mulher é socializada para cuidar de todo mundo — e não de si. Ela carrega a sobrecarga emocional da família, do trabalho, dos relacionamentos. E a ansiedade muitas vezes é chamada de 'drama' ou 'frescura'. A saúde mental feminina ainda é subdiagnosticada e subvalorizada."
+              "fala": "Mas tem algo que os dados não capturam diretamente: mulheres são condicionadas a cuidar dos outros antes de cuidar de si. A não reclamar. A parecer bem. E aí a saúde mental vai silenciando. A ansiedade vira 'eu sou muito sensível'. A depressão vira 'tô cansada'. E o pedido de ajuda fica adiado até que não dá mais."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já teve a ansiedade tratada como fraqueza? Me conta aqui nos comentários."
+              "fala": "Se você está adiando o cuidado com sua saúde mental, esse vídeo é um recado: você merece atenção antes de chegar no limite. O que você pode fazer por você hoje?"
             }
           ],
-          "legenda": "É Setembro Amarelo — e tem um dado que você precisa conhecer:\n\nMulheres são afetadas desproporcionalmente por ansiedade e depressão.\n\nNão é coincidência.\nNão é fragilidade.\nÉ sistema.\n\nA mulher é socializada desde criança para cuidar de todo mundo — e não de si mesma. Ela carrega a sobrecarga emocional da família, do trabalho, dos filhos, dos relacionamentos.\n\nE quando a ansiedade aparece, com frequência é chamada de 'drama', 'sensibilidade demais', 'frescura'.\n\nIsso é saúde mental feminina sendo ignorada — e tem consequências sérias.\n\nNesse Setembro Amarelo, o convite é para parar de normalizar a sobrecarga e começar a se perguntar: eu estou cuidando de mim? 💛\n\n#SetемbroAmarelo #SaúdeMental #Ansiedade #MulheresMentais #Psicologia #PsicologiaFeminina #Autoconhecimento #PriscillaAndrade"
+          "legenda": "Setembro Amarelo. E os dados desta semana chegaram com um recorte de gênero que não dá pra ignorar. 🟡\n\n→ 17,5% das mulheres brasileiras vivem com depressão\n→ Brasil lidera ranking global de transtornos mentais no trabalho\n→ Meninas adolescentes têm o dobro de sofrimento mental em relação a meninos\n\nIsso não é coincidência. É estrutura.\n\nMulheres são condicionadas a:\n✦ Cuidar antes de ser cuidadas\n✦ Não reclamar para não parecer fracas\n✦ Nomear a dor como fraqueza, não como sinal\n\nE assim a ansiedade vira 'eu sou muito sensível'. A depressão vira 'tô só cansada'. E o pedido de ajuda fica adiado até que não dá mais.\n\n#SetembroAmarelo #SaudeMentalFeminina #Ansiedade #Depressao #PriscilaAndrade #Psicologia #SaudeMental"
         },
         "carrossel": {
-          "ideia": "5 razões pelas quais mulheres são mais afetadas por ansiedade — baseadas em psicologia e dados reais.",
+          "ideia": "Dados do Setembro Amarelo com recorte de gênero transformados em guia psicológico sobre por que mulheres adoecem mais e como romper o ciclo.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "Por Que Mulheres Têm Mais Ansiedade do Que Homens",
-              "subtitulo": "Setembro Amarelo traz o dado que ninguém está falando"
+              "titulo": "Setembro Amarelo: mulheres são as mais afetadas",
+              "subtitulo": "Os dados desta semana e o que está por trás deles"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O dado",
-              "texto": "328 milhões de pessoas vivem com transtornos de ansiedade no mundo. Mulheres aparecem de forma desproporcional nessa estatística — e a ansiedade está entre os principais motivos que levam mulheres a buscar atendimento psicológico no Brasil."
+              "titulo": "Os números que chegaram esta semana",
+              "texto": "17,5% das mulheres brasileiras vivem com depressão (SciELO/RAMB 2026). Brasil lidera ranking global de transtornos mentais no trabalho (Radioagência Nacional, setembro 2026). Meninas adolescentes têm o dobro de sofrimento mental em relação a meninos."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "As 3 razões principais",
-              "texto": "1. Sobrecarga emocional: a mulher é socializada para cuidar de todos, não de si. 2. Pressão por perfeição: beleza, carreira, maternidade, relacionamento — tudo ao mesmo tempo. 3. Diagnóstico tardio: ansiedade feminina frequentemente é chamada de 'drama' e não recebe atenção adequada."
+              "titulo": "Por que mulheres adoecem mais",
+              "texto": "Dupla jornada sem redistribuição do trabalho doméstico. Pressão para parecer bem. Condicionamento a cuidar antes de ser cuidada. Dificuldade em nomear a dor sem se sentir fraca. Esses não são problemas individuais — são padrões estruturais."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "A ansiedade feminina não é fraqueza individual. É resposta a um sistema que exige da mulher o impossível — e que invalida quando ela não aguenta. Tratar a ansiedade exige mais do que técnicas: exige reconhecer o peso que a mulher carrega."
+              "titulo": "O silêncio que adoece",
+              "texto": "A ansiedade vira 'eu sou muito sensível'. A depressão vira 'tô só cansada'. O pedido de ajuda fica adiado. E aí o adoecimento avança em silêncio — até que não dá mais. Reconhecer isso não é fraqueza. É o primeiro ato de autocuidado."
             },
             {
               "numero": 5,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Você já teve sua ansiedade tratada como drama ou frescura? Conta aqui nos comentários — esse setembro é para falar de verdade sobre saúde mental feminina."
+              "texto": "O que você tem adiado fazer pela sua saúde mental? Escreve aqui embaixo. Sem julgamento."
             }
           ],
-          "legenda": "Setembro Amarelo é sobre saúde mental. Mas falar sobre saúde mental feminina ainda é tabu. 💛\n\nArrastando 👉 para entender por que mulheres são as mais afetadas pela ansiedade — e o que está por trás disso.\n\n#SetembroAmarelo #SaúdeMental #Ansiedade #Psicologia #PsicologiaFeminina #PriscillaAndrade"
+          "legenda": "Setembro Amarelo com recorte de gênero: os dados chegaram e não dá para ignorar 🟡\n\nSalva esse carrossel e manda para quem precisa ouvir isso hoje.\n\n#SetembroAmarelo #SaudeMentalFeminina #Psicologia #PriscilaAndrade #Ansiedade #Depressao"
         }
       }
     },
     {
       "id": 6,
-      "titulo": "Mulheres Ainda Precisam de Espaços Específicos na Carreira — O Evento de 19/09 em SP Prova Isso",
-      "resumo": "Um grande Encontro de Mulheres e Carreira em Tecnologia acontece em 19 de setembro em São Paulo, com palestras e mentorias. Para Priscilla, o ângulo vai além do evento: mulheres ainda ganham 77,7% do salário masculino em funções equivalentes. Precisamos de espaços específicos porque o mercado geral ainda as sub-remunera e silencia.",
-      "pilar": "Posicionamento & Carreira",
+      "titulo": "\"Legião das Mulheres Voando\": Marina Ruy Barbosa aderiu — e a psicologia explica por que isso importa",
+      "resumo": "A palavra 'bruxa' foi ressignificada no TikTok e Instagram como símbolo de mulher livre e forte, gerando o movimento 'Legião das Mulheres Voando'. Marina Ruy Barbosa e a Netflix Brasil aderiram publicamente. O fenômeno é um caso raro de ressignificação coletiva de identidade feminina nas redes, com alto potencial de análise psicológica.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "hoje",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["post-estatico"],
-      "fonte": "WoMakersCode — Encontro de Mulheres e Carreira em Tecnologia, 19 de setembro de 2026, São Paulo",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "TikTok e Instagram Brasil — viral setembro 2026; Marina Ruy Barbosa e Netflix Brasil adesão confirmada",
       "copies": {
         "reels-react": {
-          "ideia_central": "Mulheres ainda ganham 22% menos que homens — e ainda precisamos de encontros específicos para avançar na carreira porque o mercado geral ainda não nos recebe como iguais.",
-          "gancho": "Tem um encontro de mulheres e carreira em SP no dia 19 de setembro. E o fato de ele precisar existir diz muito sobre o mercado de trabalho.",
+          "ideia_central": "A 'Legião das Mulheres Voando' é um fenômeno de ressignificação coletiva de identidade — quando um grupo transforma um insulto em símbolo de força, algo profundo acontece na psicologia coletiva.",
+          "gancho": "Marina Ruy Barbosa se declarou bruxa. A Netflix se declarou bruxa. E a psicologia tem uma explicação muito boa para por que isso está viralizando do jeito que está.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Dia 19 de setembro tem um grande encontro de mulheres e carreira em São Paulo. E quero te provocar com algo: por que ainda precisamos de eventos assim?"
+              "fala": "A Legião das Mulheres Voando tomou o TikTok essa semana. Marina Ruy Barbosa, Netflix Brasil — todo mundo se declarando bruxa. E antes de você achar que é só trend, deixa eu te mostrar o que está acontecendo do ponto de vista psicológico."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "O WoMakersCode promove esse encontro com palestras, painéis e mentorias para mulheres avançarem na carreira em tecnologia. É um espaço incrível — mas sua existência aponta para uma realidade desconfortável: o mercado geral ainda não é seguro e igualitário para a mulher."
+              "fala": "A palavra 'bruxa' foi por séculos usada para silenciar mulheres que não obedeciam, que tinham conhecimento, que não precisavam de um homem para existir. E agora, em 2026, mulheres estão pegando essa palavra e devolvendo ela transformada: símbolo de liberdade, força e auto-suficiência."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Mulheres ganham em média 77,7% do salário de homens em funções equivalentes. Elas são 51% da população mas ainda sub-representadas em cargos de liderança. Eventos específicos não são separatismo — são resposta a uma exclusão real. E como psicóloga, sei: mulheres que se apoiam em comunidade avançam mais, com mais saúde emocional."
+              "fala": "Isso tem um nome na psicologia: ressignificação. Quando um grupo pega um símbolo de opressão e o transforma em símbolo de identidade positiva, ele está recuperando poder narrativo. E quando isso é feito de forma coletiva — com humor, com arte, com sororidade — ele cria pertencimento real. E pertencimento protege a saúde mental."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você está em SP? O link está na bio. E me conta: qual o maior obstáculo que você já enfrentou na sua carreira por ser mulher?"
+              "fala": "Você faz parte da legião? Me conta o que a palavra 'bruxa' representa pra você hoje."
             }
           ],
-          "legenda": "Dia 19 de setembro tem um grande Encontro de Mulheres e Carreira em São Paulo. 🎯\n\nE o fato de ele precisar existir já diz tudo.\n\nMulheres ganham em média 77,7% do salário masculino em funções iguais.\nSão 51% da população — e sub-representadas em liderança.\nAinda precisam de espaços específicos porque o mercado geral ainda as silencia.\n\nEventos como esse não são privilégio. São resposta a uma exclusão que ainda existe.\n\nE como psicóloga: mulheres que se constroem em comunidade avançam mais rápido, com mais saúde emocional e menos autossabotagem.\n\nSe você é de SP, o link está na bio 👆\n\n💬 Qual o maior obstáculo que você já enfrentou na carreira por ser mulher? Comenta aqui.\n\n#MulheresNaTecnologia #Carreira #Empoderamento #WoMakersCode #Psicologia #PsicologiaFeminina #PriscillaAndrade"
+          "legenda": "A Legião das Mulheres Voando tomou o TikTok essa semana. E como psicóloga, eu não resisti. 🧙‍♀️\n\nA palavra 'bruxa' foi usada por séculos para silenciar mulheres:\n→ As que tinham conhecimento\n→ As que não obedeciam\n→ As que não precisavam de validação\n\nAgora, em 2026, mulheres estão pegando essa palavra e devolvendo ela transformada.\n\nIsso tem nome: ressignificação. É quando um grupo transforma um símbolo de opressão em símbolo de identidade e força.\n\nE quando isso acontece de forma coletiva — com humor, arte e sororidade — ele cria pertencimento real.\n\nE pertencimento protege a saúde mental. Documentado. Comprovado.\n\n#LegiaoDasMulheresVoando #Bruxa #Ressignificacao #IdentidadeFeminina #PriscilaAndrade #Psicologia #SaudeMental"
         },
         "post-estatico": {
-          "ideia": "O dado dos 77,7% transformado em arte de impacto — contextualizado no evento de setembro.",
-          "titulo_visual": "Mulheres ganham 77,7% do salário masculino na mesma função. Em 2026.",
-          "legenda": "Esse dado é de 2026. Não de décadas atrás.\n\nÉ por isso que eventos como o Encontro de Mulheres e Carreira em Tecnologia (19/set, São Paulo) ainda precisam existir.\n\nNão somos separatistas. Somos estratégicas. 💪\n\n#Carreira #Empoderamento #MulherNoMercado #Psicologia #PriscillaAndrade",
-          "cta": "Salva e compartilha para quem precisa ver esse dado."
+          "ideia": "Frase de impacto sobre ressignificação, com referência ao movimento viral e à adesão de Marina Ruy Barbosa.",
+          "titulo_visual": "Bruxa não é insulto.\nÉ identidade.\n\nBem-vinda à legião. 🧙‍♀️",
+          "legenda": "A Legião das Mulheres Voando tomou o TikTok essa semana. Marina Ruy Barbosa. Netflix Brasil. E tantas mulheres comuns que entenderam o que isso significa. ✨\n\nQuando um grupo transforma um insulto em símbolo de força, algo poderoso acontece. A psicologia chama de ressignificação. E ressignificação é recuperação de poder.\n\nVocê faz parte da legião?\n\n#LegiaoDasMulheresVoando #Bruxa #IdentidadeFeminina #Ressignificacao #PriscilaAndrade",
+          "cta": "Marca uma amiga que faz parte da legião."
         }
       }
     },
     {
       "id": 7,
-      "titulo": "A Trend 'Potential-Maxxing' Viralizou no Instagram — e Revela Algo Profundo Sobre Autoestima Feminina",
-      "resumo": "O 'Potential-Maxxing' é a trend viral onde criadores provam evolução com dados reais em vez de afirmações vagas. Para Priscilla, o ângulo está na autoestima: mulheres são ensinadas a minimizar conquistas, não a mostrá-las com orgulho. Essa trend representa uma virada subversiva e necessária.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "hoje",
+      "titulo": "Romário traiu namorada de 25 anos com a melhor amiga dela — a dupla traição que ninguém está analisando",
+      "resumo": "Romário, 60 anos, foi acusado de trair sua namorada Tiffany Barcelos (25 anos) com a melhor amiga dela, Barbara Cavalcanti. Fotos dos dois de mãos dadas em Fernando de Noronha circularam. A dupla traição — do parceiro e da amiga — é psicologicamente devastadora de formas distintas, e Priscilla pode oferecer um ângulo que nenhum veículo está dando.",
+      "pilar": "Casamento & Relacionamento",
+      "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "Newengen.com — Instagram Trends September 2026 / SocialBee Instagram Trends September 2026",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "VnExpress — Romário acusado de trair namorada com melhor amiga",
       "copies": {
         "reels-react": {
-          "ideia_central": "O 'Potential-Maxxing' viral é, psicologicamente, uma resposta ao ensinamento de que mulheres devem ser modestas — e uma declaração de que conquistas merecem ser celebradas.",
-          "gancho": "Você já viu a trend 'Potential-Maxxing' que virou febre no Instagram? Ela revela um padrão psicológico que afeta quase todas as mulheres.",
+          "ideia_central": "A traição do parceiro e a traição da amiga são dores completamente diferentes — e quase ninguém está falando sobre a segunda.",
+          "gancho": "O caso do Romário é sobre traição. Mas tem uma parte dessa história que quase ninguém está comentando: a melhor amiga também traiu.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Você viu a trend 'Potential-Maxxing' que está dominando o Instagram agora? Criadores mostrando sua evolução com dados reais — números, conquistas concretas. E isso me chamou atenção de um jeito muito específico."
+              "fala": "Romário traiu a namorada de 25 anos com a melhor amiga dela. Fotos saíram, o caso viralizou. Todo mundo falando sobre o Romário. Mas eu quero falar sobre a outra traição — a que ninguém está vendo."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A trend surgiu como resposta a uma cultura de afirmações vagas — 'eu sou poderosa', 'eu sou capaz' — sem nada concreto por trás. O Potential-Maxxing é o oposto: mostrar com dados o quanto você cresceu."
+              "fala": "Tiffany Barcelos foi traída duas vezes ao mesmo tempo: pelo namorado, que ela escolheu amar, e pela melhor amiga, a pessoa em quem ela confiava mais. Fotos dos dois em Fernando de Noronha. O triângulo amoroso que destruiu uma amizade e um relacionamento juntos."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "E para as mulheres, isso é subversivo. Porque a mulher é ensinada desde criança a ser modesta, a não se promover, a minimizar conquistas. 'Não fala muito sobre o que você conseguiu para não parecer arrogante.' Essa trend é uma declaração de que conquistas merecem ser mostradas. E que autoestima saudável inclui reconhecer o próprio valor em voz alta."
+              "fala": "Do ponto de vista psicológico, a traição do parceiro e a traição da amizade operam em lugares diferentes. A traição romântica machuca o apego, a segurança, a autoestima. Mas a traição da amiga atinge a confiança em si mesma — 'como eu não vi? O que mais eu errei ao julgar pessoas?' Essa segunda traição muitas vezes é mais difícil de processar porque destrói o sistema de suporte que você usaria para se curar da primeira."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você consegue falar sobre suas conquistas sem minimizar? Me conta nos comentários."
+              "fala": "Você já foi traída por uma amiga? Como foi processar isso? Me conta — esse assunto precisa de mais espaço."
             }
           ],
-          "legenda": "A trend 'Potential-Maxxing' está em todo o Instagram. 📈\n\nE ela levanta uma questão psicológica importante para as mulheres:\n\nVocê consegue falar das suas conquistas sem minimizar?\n\nA mulher é ensinada a ser modesta. A não se promover. A dizer 'ah, é pouca coisa'. Ou pior — a não falar nada.\n\nO Potential-Maxxing é exatamente o oposto: mostrar evolução com dados reais, sem pedir desculpa por ter crescido.\n\nIsso é autoestima saudável em ação. E é completamente subversivo para quem foi criada para desaparecer.\n\n💬 Você consegue falar sobre suas conquistas sem diminuir? Ou sente esse bloqueio? Me conta aqui.\n\n#PotentialMaxxing #Instagram #Autoestima #Psicologia #PsicologiaFeminina #Conquistas #PriscillaAndrade"
+          "legenda": "O caso do Romário tomou a mídia. Mas tem uma parte da história que quase ninguém está vendo. 🧵\n\nTiffany Barcelos foi traída duas vezes ao mesmo tempo:\n1. Pelo namorado que ela escolheu amar\n2. Pela melhor amiga em quem ela confiava\n\nE do ponto de vista psicológico, essas são dores completamente diferentes.\n\n→ Traição romântica: machuca o apego, a segurança afetiva, a autoestima\n→ Traição da amizade: machuca a confiança em si mesma — 'como eu não vi? No que mais errei ao julgar pessoas?'\n\nA traição da amiga muitas vezes é mais difícil de processar — porque ela destrói justamente o sistema de suporte que você precisaria para se curar da primeira.\n\nIsso precisa de nome. E de espaço.\n\n#Romario #Traicao #AmizadeFeminina #PsicologiaDoRelacionamento #PriscilaAndrade #TrianguloAmoroso"
         },
-        "carrossel": {
-          "ideia": "Por que mulheres têm dificuldade de mostrar conquistas — e como o Potential-Maxxing vai na contramão disso.",
-          "cards": [
-            {
-              "numero": 1,
-              "tipo": "Capa",
-              "titulo": "Por Que Você Minimiza Suas Conquistas?",
-              "subtitulo": "A trend Potential-Maxxing e o que ela revela sobre autoestima feminina"
-            },
-            {
-              "numero": 2,
-              "tipo": "Contextualização",
-              "titulo": "O que é o Potential-Maxxing",
-              "texto": "É a trend viral no Instagram de setembro de 2026 onde criadores provam sua evolução com dados reais e conquistas concretas — no lugar de afirmações vagas como 'eu sou capaz'. Mostrar crescimento com números, fatos e resultados."
-            },
-            {
-              "numero": 3,
-              "tipo": "Desenvolvimento",
-              "titulo": "Por que isso é difícil para mulheres",
-              "texto": "Mulheres são ensinadas desde cedo a serem modestas. 'Não fala muito das suas conquistas para não parecer arrogante.' 'Não se promova muito.' Esse ensinamento se transforma em bloqueio de autoestima: a mulher minimiza, esconde ou desvaloriza o que conquistou."
-            },
-            {
-              "numero": 4,
-              "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "Autoestima saudável não é arrogância. É reconhecer o próprio valor com clareza. Falar sobre conquistas não é vaidade — é se tornar visível. E a mulher que não aprende a se mostrar deixa de ocupar os espaços que são seus por direito."
-            },
-            {
-              "numero": 5,
-              "tipo": "CTA",
-              "titulo": "E você?",
-              "texto": "Você consegue falar sobre suas conquistas sem minimizar? Ou sente aquele bloqueio de 'não quero parecer arrogante'? Me conta nos comentários — quero entender onde está esse nó."
-            }
+        "lo-fi": {
+          "ideia": "Conversa íntima sobre a dor específica de ser traída por uma amiga — usando o caso Romário/Tiffany como entrada.",
+          "gancho": "Posso falar de uma parte do caso do Romário que ninguém está tocando?",
+          "o_que_falar": [
+            "Contextualiza brevemente: Romário traiu a namorada de 25 anos com a melhor amiga dela",
+            "Foca na amiga — a traição que ninguém está analisando",
+            "Diferença psicológica: traição romântica machuca o apego; traição da amiga machuca a confiança em si mesma",
+            "CTA: pergunta quem já viveu isso e como foi processar"
           ],
-          "legenda": "Potential-Maxxing: a trend do Instagram que acidentalmente revelou um bloqueio feminino real. 📈\n\nArrastando 👉 para entender por que mulheres têm dificuldade de mostrar conquistas — e o que a psicologia diz sobre isso.\n\n#PotentialMaxxing #Autoestima #Psicologia #PsicologiaFeminina #Conquistas #Instagram #PriscillaAndrade"
+          "legenda": "Amizade traindo a gente tem uma dor muito específica. E muito pouco espaço para ser falada. 💙\n\nO caso do Romário abriu uma porta importante sobre isso.\n\nVocê já passou por isso? Conta aqui.\n\n#Traicao #Amizade #Romario #PriscilaAndrade #Psicologia",
+          "vibe": "Câmera estática, ambiente íntimo — quarto ou sala — tom de escuta ativa, sem julgamento, como se fosse uma conversa entre amigas"
         }
       }
     },
     {
       "id": 8,
-      "titulo": "Por Que Mulheres Estão Abandonando a Cultura da Ficada em 2026 — e o Que Isso Revela",
-      "resumo": "Pesquisas mostram que em 2026 os jovens estão desacelerando os relacionamentos, buscando romance sincero e abandonando jogos e sinais confusos — tendência chamada de 'slow dating'. Para Priscilla, isso é um movimento de saúde emocional coletiva: mulheres cansadas de sedução performática e apostando na autenticidade.",
-      "pilar": "Casamento & Relacionamento",
+      "titulo": "Dove #RealBrazilianWomen: 80% das mulheres querem romper o estereótipo do próprio corpo — e o que isso revela",
+      "resumo": "A Dove lançou a campanha #RealBrazilianWomen mostrando como o corpo da mulher brasileira é sexualizado e estereotipado globalmente. 80% das mulheres pesquisadas querem romper com esse estereótipo. O dado oferece um gancho poderoso para falar sobre objetificação, autoimagem coletiva e a diferença entre autoimagem construída e autoimagem real.",
+      "pilar": "Autoimagem & Identidade",
       "urgencia": "semana",
       "formato_principal": "reels-react",
-      "formatos_alternativos": ["lo-fi"],
-      "fonte": "CNN Brasil — Tendências de relacionamentos para 2026 / Correio Braziliense / Revista Kdea 360",
+      "formatos_alternativos": [
+        "carrossel"
+      ],
+      "fonte": "MediaCat — Dove challenges stereotypes about women's bodies in Brazil",
       "copies": {
         "reels-react": {
-          "ideia_central": "O 'slow dating' não é uma moda — é um sinal de que mulheres estão colocando saúde emocional acima de relacionamentos rápidos e performáticos.",
-          "gancho": "Pesquisas confirmam: mulheres estão largando a cultura da ficada. E isso não é coisa de romantismo — é saúde emocional.",
+          "ideia_central": "8 em cada 10 mulheres brasileiras querem romper com o estereótipo do próprio corpo — esse dado revela uma crise de autoimagem coletiva que vai muito além da beleza.",
+          "gancho": "A Dove pesquisou mulheres brasileiras e descobriu algo que me parou: 80% querem romper com o estereótipo do próprio corpo. Deixa eu te mostrar o que isso revela.",
           "roteiro": [
             {
               "tempo": "0–3s",
               "descricao": "Abertura",
-              "fala": "Pesquisas mostram que em 2026 mulheres estão largando a cultura da ficada, os joguinhos, os sinais confusos. E como psicóloga, eu preciso te contar: isso não é romantismo. É evolução emocional."
+              "fala": "A Dove lançou uma campanha sobre o corpo da mulher brasileira. E o dado que me parou foi esse: 80% das mulheres brasileiras querem romper com o estereótipo de como o corpo delas é visto. 80%."
             },
             {
               "tempo": "3–15s",
               "descricao": "Contexto",
-              "fala": "A tendência chama de 'slow dating' — relacionamentos que desaceleram, começam com mais honestidade, sem jogos de 'quem demonstra interesse perde'. Pesquisas apontam que solteiros em 2026 estão mais abertos e escolhendo transparência desde o primeiro encontro."
+              "fala": "A campanha #RealBrazilianWomen mostra como o corpo brasileiro é sexualizado globalmente — como se toda mulher brasileira fosse um tipo único de corpo. E as próprias brasileiras estão cansadas disso. Não apenas por vaidade ou política. Por identidade."
             },
             {
               "tempo": "15–25s",
               "descricao": "Virada psicológica",
-              "fala": "Isso é psicologicamente significativo. A mulher que larga o jogo da sedução performática está dizendo: meu tempo e minha energia emocional valem. Eu não vou fingir indiferença para parecer interessante. Ela está optando por disponibilidade emocional real — e exigindo o mesmo do parceiro."
+              "fala": "Quando 80% de um grupo diz que quer romper com a imagem que fizeram delas, isso não é movimento de beleza — é uma crise de autoimagem coletiva. A psicologia entende que quando a imagem que o mundo projeta sobre você não corresponde à sua experiência interna, há dissonância. E dissonância sustentada cria ansiedade, vergonha corporal, sensação permanente de inadequação."
             },
             {
               "tempo": "25–30s",
               "descricao": "CTA",
-              "fala": "Você já largou os joguinhos nos relacionamentos? Como foi? Me conta aqui."
+              "fala": "A imagem que fizeram do seu corpo corresponde a como você se sente por dentro? Me conta."
             }
           ],
-          "legenda": "Mulheres estão largando a cultura da ficada. Os joguinhos. O 'quem demonstra interesse perde'. 🙅‍♀️\n\nPesquisas sobre tendências de relacionamento em 2026 mostram que solteiros estão buscando honestidade desde o primeiro encontro — e abandonando a sedução performática.\n\nComo psicóloga, isso me faz muito bem de ler.\n\nPorque a mulher que larga o jogo está dizendo:\n'Meu tempo emocional vale. Eu não vou fingir indiferença para parecer interessante. Eu quero disponibilidade emocional real — e vou exigir o mesmo.'\n\nIsso não é romantismo. É autoestima em ação.\n\n💬 Você já largou os joguinhos nos relacionamentos? Como foi essa virada? Me conta.\n\n#SlowDating #Relacionamento #Psicologia #PsicologiaFeminina #CulturaFicada #Autoestima #PriscillaAndrade"
-        },
-        "lo-fi": {
-          "ideia": "Um papo honesto sobre por que largar os joguinhos de relacionamento é um ato de saúde emocional — não de romantismo.",
-          "gancho": "Pesquisa diz que mulheres estão largando a cultura da ficada em 2026. Preciso comentar isso com você.",
-          "o_que_falar": [
-            "Ponto 1 — contextualiza o caso: pesquisas sobre relacionamentos em 2026 mostram um movimento de desaceleração — pessoas buscando honestidade, transparência, abandono dos jogos. O 'slow dating' virou tendência.",
-            "Ponto 2 — insight psicológico: a mulher que para de jogar está escolhendo saúde emocional. Ela para de fingir indiferença para parecer interessante. Para de esperar mensagem sem enviar. Começa a agir de acordo com o que realmente sente.",
-            "Ponto 3 — conexão com a vida das seguidoras: pensa em quantas vezes você já fez algo que não queria num relacionamento para 'não parecer interessada demais'. Isso tem um custo emocional real.",
-            "Ponto 4 — CTA: me conta nos comentários se você já fez essa virada de largar os joguinhos — e como foi."
-          ],
-          "legenda": "Pesquisa confirma: mulheres estão largando a cultura da ficada em 2026. 🙌\n\nE isso não é romantismo — é saúde emocional.\n\nFiz esse vídeo conversando com você sobre o que isso significa na prática. 💛\n\n#SlowDating #Relacionamento #Psicologia #PsicologiaFeminina #PriscillaAndrade",
-          "vibe": "Câmera estática. Luz natural pela janela. Tom de conversa de amiga, descontraído mas com profundidade. Pode estar tomando café ou água enquanto fala."
-        }
-      }
-    },
-    {
-      "id": 9,
-      "titulo": "Setembro Tem um Significado Espiritual Poderoso — e Isso Pode Mudar Sua Perspectiva do Mês",
-      "resumo": "Setembro está energeticamente ligado à introspecção, revisão de ciclos e fortalecimento emocional — conceitos do Sagrado Feminino e da espiritualidade feminina, que vêm crescendo nas redes. Priscilla pode conectar espiritualidade com psicologia de forma acessível: o mês como convite para revisar o que não está funcionando.",
-      "pilar": "Estilo de Vida & Espiritualidade",
-      "urgencia": "hoje",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": ["post-estatico"],
-      "fonte": "Minas Informa — Significado espiritual de setembro / Terra / Portal Edicase — Espiritualidade feminina 2026",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "Setembro convida à introspecção e revisão de ciclos — e a psicologia confirma o que a espiritualidade já sabe: parar para olhar para dentro transforma.",
-          "gancho": "Setembro tem um significado espiritual que está conectado a algo que a psicologia também confirma. E você precisa ouvir isso.",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "Setembro tem um significado espiritual muito específico. E olha — eu sou psicóloga, não espírita. Mas o que a espiritualidade diz sobre esse mês tem total respaldo na psicologia. Deixa eu te explicar."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "Energeticamente, setembro é associado à introspecção, revisão de ciclos e fortalecimento das bases emocionais. Mulheres estão cada vez mais conectadas ao Sagrado Feminino — práticas de autoconhecimento que trabalham ciclicidade, intuição e limites saudáveis."
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "E a psicologia confirma: períodos de introspecção consciente melhoram a tomada de decisões e reduzem o estresse. Quando você para — mesmo que por poucos minutos — para olhar para o que está sentindo e o que não está funcionando, você ativa um processamento emocional que a correria do dia a dia bloqueia."
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "O que você quer revisar ou fechar nesse setembro? Me conta aqui embaixo."
-            }
-          ],
-          "legenda": "Setembro é um mês de revisão. De introspecção. De fortalecer as bases.\n\nE isso não é só espiritualidade — a psicologia também confirma: momentos de pausa consciente melhoram decisões, reduzem estresse e abrem espaço para transformação real.\n\nO Sagrado Feminino — que vem crescendo nas redes e na vida de muitas mulheres — trabalha exatamente isso: conexão com os próprios ciclos, com a intuição, com o que precisa ser revisto.\n\nE setembro pede exatamente isso.\n\nQual ciclo você precisa fechar nesse mês? O que você quer deixar para trás antes de outubro? 💛\n\nMe conta aqui nos comentários.\n\n#Setembro #SagradoFeminino #Autoconhecimento #Espiritualidade #Psicologia #PsicologiaFeminina #PriscillaAndrade"
-        },
-        "post-estatico": {
-          "ideia": "Uma frase sobre o convite de setembro para introspecção, conectando espiritualidade e psicologia.",
-          "titulo_visual": "Setembro pede revisão. Que ciclo você está pronta para fechar?",
-          "legenda": "A espiritualidade e a psicologia concordam: setembro é o mês de olhar para dentro. De revisar o que está ou não funcionando. De fortalecer as bases antes de avançar. 💛\n\nQual ciclo você precisa fechar agora?\n\n#Setembro #SagradoFeminino #Autoconhecimento #Espiritualidade #Psicologia #PriscillaAndrade",
-          "cta": "Comenta aqui o que você quer fechar nesse setembro. 👇"
-        }
-      }
-    },
-    {
-      "id": 10,
-      "titulo": "30% das Mulheres Têm Insatisfação Corporal — e as Redes Sociais Têm Parte da Culpa",
-      "resumo": "Um estudo brasileiro aponta que 30,2% das pessoas têm insatisfação corporal, índice muito maior entre mulheres. Pesquisas associam isso à exposição a padrões idealizados no Instagram e TikTok. Priscilla pode trabalhar o ângulo de imagem corporal como questão de saúde mental — não de vaidade — e a responsabilidade das plataformas.",
-      "pilar": "Autoimagem & Identidade",
-      "urgencia": "evergreen",
-      "formato_principal": "reels-react",
-      "formatos_alternativos": ["carrossel"],
-      "fonte": "RECIMA21 — Revista Científica Multidisciplinar / Dove Brasil / Revista Contemporânea — Influência das Redes Sociais na Autoimagem",
-      "copies": {
-        "reels-react": {
-          "ideia_central": "Insatisfação corporal em mulheres não é frescura — é consequência direta de um sistema de imagens idealizadas que elas consomem diariamente.",
-          "gancho": "30% das mulheres têm insatisfação com o próprio corpo. E grande parte disso vem de um lugar que você usa todo dia.",
-          "roteiro": [
-            {
-              "tempo": "0–3s",
-              "descricao": "Abertura",
-              "fala": "Um estudo brasileiro aponta que 30% das pessoas têm insatisfação corporal — e isso é muito maior entre mulheres. E tem um motivo muito específico para isso que preciso te contar."
-            },
-            {
-              "tempo": "3–15s",
-              "descricao": "Contexto",
-              "fala": "Pesquisas mostram que a exposição contínua a padrões idealizados de beleza nas redes sociais — Instagram, TikTok — está diretamente associada à insatisfação corporal e à baixa autoestima feminina. A comparação social com imagens editadas alimenta o desejo de magreza e distorce a percepção da própria imagem."
-            },
-            {
-              "tempo": "15–25s",
-              "descricao": "Virada psicológica",
-              "fala": "E o mais cruel disso: você compara seu dia a dia com o highlight da vida de outra pessoa. Você vê o resultado de horas de produção, filtros, iluminação e edição — e compara com você de pijama às 7 da manhã. Isso não é vaidade. Isso é distorção cognitiva alimentada por um sistema."
-            },
-            {
-              "tempo": "25–30s",
-              "descricao": "CTA",
-              "fala": "Você já percebeu as redes sociais te fazendo sentir mal com o seu corpo? Me conta."
-            }
-          ],
-          "legenda": "30,2% das pessoas têm insatisfação corporal no Brasil.\nE esse número é muito maior entre mulheres.\n\nIsso não é frescura. Não é vaidade. É consequência direta de consumir diariamente imagens de corpos editados, filtrados e iluminados profissionalmente.\n\nVocê compara seu dia a dia com o highlight da vida de outra pessoa.\nIsso é distorção cognitiva — e as redes sociais são estruturadas para alimentá-la.\n\nImagem corporal é questão de saúde mental, não de estética. E tratar isso exige mais do que fazer as pazes com o espelho — exige entender o sistema que criou essa insatisfação.\n\n💬 Você já percebeu as redes sociais afetando como você se vê? Me conta nos comentários.\n\n#ImagemCorporal #Autoestima #Psicologia #RedesSociais #SaúdeMental #PsicologiaFeminina #CorpoBonito #PriscillaAndrade"
+          "legenda": "A Dove lançou a campanha #RealBrazilianWomen. E um dado me parou completamente. 💙\n\n80% das mulheres brasileiras querem romper com o estereótipo de como o corpo delas é visto.\n\n80%.\n\nIsso não é só uma campanha de beleza. Isso é um dado de saúde mental coletiva.\n\nQuando a imagem que o mundo projeta sobre você não corresponde à sua experiência interna, a psicologia chama de dissonância de autoimagem. E dissonância sustentada cria:\n→ Ansiedade corporal crônica\n→ Vergonha que não tem origem em você\n→ Sensação permanente de inadequação\n\nSe 8 em cada 10 mulheres sentem isso, o problema não é você. O problema é a imagem que construíram sem te perguntar.\n\n#RealBrazilianWomen #Dove #Autoimagem #CorpoFeminino #PriscilaAndrade #Psicologia #AutoestimaSaudavel"
         },
         "carrossel": {
-          "ideia": "Como as redes sociais afetam a imagem corporal feminina — e o que a psicologia diz sobre isso.",
+          "ideia": "Transformar o dado dos 80% em guia sobre dissonância de autoimagem, objetificação e como construir uma relação genuína com o próprio corpo.",
           "cards": [
             {
               "numero": 1,
               "tipo": "Capa",
-              "titulo": "As Redes Sociais Estão Distorcendo Sua Imagem Corporal",
-              "subtitulo": "O dado que prova — e o que você pode fazer sobre isso"
+              "titulo": "80% das mulheres brasileiras querem romper com o estereótipo do próprio corpo",
+              "subtitulo": "O que a psicologia diz sobre esse dado da Dove #RealBrazilianWomen"
             },
             {
               "numero": 2,
               "tipo": "Contextualização",
-              "titulo": "O dado",
-              "texto": "30,2% das pessoas no Brasil têm insatisfação corporal. Entre mulheres, esse número é significativamente maior. Pesquisas associam diretamente esse índice ao consumo de imagens idealizadas em plataformas como Instagram e TikTok."
+              "titulo": "A campanha que revelou uma crise",
+              "texto": "A Dove lançou #RealBrazilianWomen mostrando como o corpo da mulher brasileira é sexualizado globalmente. 80% das pesquisadas querem romper com esse estereótipo. Isso não é movimento de beleza. É um dado de saúde mental coletiva."
             },
             {
               "numero": 3,
               "tipo": "Desenvolvimento",
-              "titulo": "Como funciona o mecanismo",
-              "texto": "Você vê o resultado de horas de produção, iluminação, filtros e edição — e compara com seu reflexo real. O cérebro faz essa comparação automaticamente. E quanto mais você consome, mais intensa é a insatisfação. Isso não é fraqueza. É neuropsicologia."
+              "titulo": "Dissonância de autoimagem: o que acontece quando a imagem não corresponde a quem você é",
+              "texto": "Quando o mundo projeta sobre você uma imagem que não corresponde à sua experiência interna, há dissonância. E dissonância sustentada gera ansiedade corporal, vergonha e sensação crônica de inadequação — mesmo sem 'motivo'."
             },
             {
               "numero": 4,
               "tipo": "Virada",
-              "titulo": "O que poucos percebem",
-              "texto": "Insatisfação corporal não é questão de estética — é saúde mental. Ela está associada a distúrbios alimentares, baixa autoestima, ansiedade e depressão. Tratar isso exige mais do que 'fazer as pazes com o espelho' — exige entender o sistema que criou essa insatisfação."
+              "titulo": "O problema não é seu corpo. É a narrativa que construíram sem te perguntar.",
+              "texto": "Se 8 em cada 10 mulheres sentem isso, a origem não está em você. Está em décadas de objetificação de um corpo que foi reduzido a um estereótipo. Reconhecer isso é o primeiro passo para separar a sua autoimagem real da imagem que te venderam."
             },
             {
               "numero": 5,
               "tipo": "CTA",
               "titulo": "E você?",
-              "texto": "Você já percebeu as redes sociais te fazendo sentir mal com o seu próprio corpo? Conta aqui — e salva esse carrossel para quando precisar lembrar que o que você vê online não é real."
+              "texto": "A imagem que fizeram do seu corpo corresponde a como você se sente por dentro? Conta aqui."
             }
           ],
-          "legenda": "30% das mulheres têm insatisfação corporal. E parte disso vem do que você consome nas redes todos os dias. 📱\n\nArrastando 👉 para entender como funciona esse mecanismo — e o que a psicologia diz sobre isso.\n\n💛 Salva para quem precisa ouvir isso.\n\n#ImagemCorporal #Autoestima #RedesSociais #Psicologia #PsicologiaFeminina #SaúdeMental #PriscillaAndrade"
+          "legenda": "80% das mulheres brasileiras querem romper com o estereótipo do próprio corpo. Esse dado da campanha Dove merece muito mais do que uma curtida. 💙\n\nSalva esse carrossel e manda para quem precisa ouvir isso hoje.\n\n#RealBrazilianWomen #Dove #Autoimagem #PriscilaAndrade #Psicologia #CorpoFeminino"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "titulo": "€500 milhões para mulheres empreendedoras na Amazônia: autonomia financeira é autonomia psicológica",
+      "resumo": "EIB Global e Banco do Brasil fecharam acordo de €500 milhões em microcrédito para mulheres líderes de microempresas na Amazônia Legal (setembro 2026). O dado é concreto, recente e oferece a Priscilla um gancho para falar sobre autonomia econômica como pilar de saúde mental e identidade feminina — tema com alta identificação no público de psicologia.",
+      "pilar": "Posicionamento & Carreira",
+      "urgencia": "semana",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "post-estatico"
+      ],
+      "fonte": "European Times — EIB Global e Banco do Brasil €500 milhões setembro 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "Quando mulheres têm autonomia financeira, a psicologia muda — a relação com o próprio valor, com relacionamentos e com a tomada de decisões.",
+          "gancho": "€500 milhões foram destinados esta semana para mulheres empreendedoras na Amazônia. E como psicóloga, o que me chamou atenção não foi o número — foi o que ele simboliza.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "€500 milhões para mulheres empreendedoras na Amazônia. Essa notícia saiu essa semana. E eu quero falar sobre o que autonomia financeira feminina tem a ver com saúde mental."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "EIB Global e Banco do Brasil assinaram um acordo para liberar €500 milhões em microcrédito para cerca de 50.000 mulheres que lideram microempresas na Amazônia. São mulheres que já empreendiam — com pouco recurso. O que muda com acesso a capital?"
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia documenta de forma consistente: quando a mulher tem autonomia econômica, sua relação com o próprio valor muda. Ela toma decisões a partir de si mesma, não da necessidade de depender. Ela permanece em relacionamentos por escolha, não por obrigação financeira. E a autoestima que vem de construir algo com as próprias mãos é diferente da autoestima que vem de aparência ou validação externa."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "Autonomia financeira mudou alguma coisa na sua relação com você mesma? Me conta."
+            }
+          ],
+          "legenda": "€500 milhões para mulheres empreendedoras na Amazônia. A notícia saiu essa semana. E como psicóloga, o que me tocou foi diferente. 💚\n\nEIB Global e Banco do Brasil vão liberar microcrédito para 50.000 mulheres que já empreendiam — com poucos recursos e muito gás.\n\nPorque autonomia financeira não é só uma questão econômica. É uma questão psicológica.\n\nQuando a mulher constrói sua própria renda:\n→ Ela toma decisões a partir de si mesma, não da necessidade\n→ Ela permanece em relacionamentos por escolha, não por obrigação financeira\n→ A autoestima que vem de construir algo com as próprias mãos é diferente de qualquer outra\n\nPoder econômico é poder psicológico. E 50.000 mulheres vão ter acesso a isso.\n\n#EmpreendedorismoFeminino #AutonomiaPinanceira #SaudeMental #PriscilaAndrade #Psicologia #MulherEmpoderada"
+        },
+        "post-estatico": {
+          "ideia": "Frase sobre a relação entre autonomia financeira e autoestima feminina, ancorando no dado concreto da semana.",
+          "titulo_visual": "Autonomia financeira não é só dinheiro.\n\nÉ uma mulher que escolhe — e não precisa.",
+          "legenda": "€500 milhões foram destinados a mulheres empreendedoras na Amazônia essa semana 💚\n\nEsse número importa. Mas o que me toca como psicóloga é o que está por trás dele:\n\nQuando a mulher tem autonomia econômica, ela se relaciona consigo mesma de forma diferente. Ela não tolera o que tolera por necessidade. Ela escolhe — de verdade.\n\nAutonomia financeira é autonomia psicológica.\n\n#Empreendedorismo #AutonomiaFinanceira #MulherEmpoderada #PriscilaAndrade #Psicologia",
+          "cta": "Compartilha com uma mulher que está construindo sua própria autonomia."
+        }
+      }
+    },
+    {
+      "id": 10,
+      "titulo": "Slow Living + Sagrado Feminino: a tendência que está redefinindo o que significa 'estar bem' em 2026",
+      "resumo": "O Slow Living consolidou-se como a macro-tendência dominante de 2026 especialmente entre o público feminino: descanso intencional, reconexão com ciclos naturais e o conceito de 'self-trust' como âncora emocional. A intersecção entre espiritualidade feminina e psicologia é um gap editorial real que Priscilla pode ocupar com autoridade.",
+      "pilar": "Estilo de Vida & Espiritualidade",
+      "urgencia": "evergreen",
+      "formato_principal": "reels-react",
+      "formatos_alternativos": [
+        "lo-fi"
+      ],
+      "fonte": "Estado de Minas — Slow Living 2026; Jovem Pan — Espiritualidade Feminina; Medium/Activated Thinker — Spiritual Trends 2026; Sebrae PR — Autoconhecimento e Empreendedorismo Feminino 2026",
+      "copies": {
+        "reels-react": {
+          "ideia_central": "O Slow Living não é preguiça nem estética — é um movimento de saúde mental coletiva que a psicologia confirma: desacelerar não é improdutividade, é regulação do sistema nervoso.",
+          "gancho": "Em 2026, a maior tendência no universo feminino não é uma cor ou um produto. É descanso intencional. E a psicologia tem muito a dizer sobre por que isso está acontecendo agora.",
+          "roteiro": [
+            {
+              "tempo": "0–3s",
+              "descricao": "Abertura",
+              "fala": "A maior tendência do público feminino em 2026 não é moda nem procedimento estético. É Slow Living. Descanso intencional. Tempo offline. Reconexão com o próprio ritmo. E a psicologia explica exatamente por que isso está explodindo agora."
+            },
+            {
+              "tempo": "3–15s",
+              "descricao": "Contexto",
+              "fala": "Depois de anos de cultura de produtividade tóxica — fazer mais, ser mais, produzir mais — o colapso chegou. Burnout virou epidemia. Ansiedade bateu recordes. E o público feminino, que historicamente carrega o peso de duas jornadas, foi o primeiro a dizer 'chega'. O Slow Living não é preguiça. É reação de sobrevivência."
+            },
+            {
+              "tempo": "15–25s",
+              "descricao": "Virada psicológica",
+              "fala": "A psicologia do sistema nervoso confirma: o corpo humano não foi feito para viver em modo de ativação permanente. Quando você desacelera de forma intencional — não por obrigação, mas por escolha — você está regulando o sistema nervoso. Você está saindo do modo luta-ou-fuga. Isso não é espiritual no sentido de místico. É neurobiologia."
+            },
+            {
+              "tempo": "25–30s",
+              "descricao": "CTA",
+              "fala": "O que desacelerar significa para você? Não o que o Instagram mostra — o que de verdade te faz descansar? Me conta."
+            }
+          ],
+          "legenda": "A maior tendência do universo feminino em 2026 não é um produto. É descanso intencional. 🌿\n\nSlow Living. Tempo offline. Reconexão com o próprio ritmo. Sagrado Feminino. Fases da lua como âncora semanal.\n\nIsso não é estética. É saúde mental.\n\nE a psicologia confirma:\n\n→ O sistema nervoso humano não foi feito para ativação permanente\n→ Desacelerar de forma intencional regula o sistema nervoso — neurobiologia, não misticismo\n→ Mulheres que retomam conexão com seus próprios ciclos reportam menos ansiedade e mais clareza de decisão\n\nCultura de produtividade tóxica nos ensinou que parar é fraqueza.\n\nA ciência diz o contrário.\n\nO que desacelerar significa para você — de verdade?\n\n#SlowLiving #SagradoFeminino #SaudeMental #Regulacao #PriscilaAndrade #Psicologia #Autoconhecimento"
+        },
+        "lo-fi": {
+          "ideia": "Conversa íntima sobre o que desacelerar realmente significa — não como estética de redes, mas como prática psicológica real.",
+          "gancho": "Posso te falar uma coisa que a psicologia confirma e que o Instagram muitas vezes distorce?",
+          "o_que_falar": [
+            "Contextualiza: Slow Living é a maior tendência de 2026 no universo feminino — e não é só estética",
+            "Diferencia: descanso intencional vs. descanso como fuga; Sagrado Feminino como reconexão vs. performance espiritual",
+            "Insight psicológico: regulação do sistema nervoso — a neurobiologia do descanso, não misticismo",
+            "CTA: perguntar o que desacelerar significa na vida prática delas — não o que o Instagram mostra"
+          ],
+          "legenda": "Descansar não é improdutividade. É regulação. 🌿\n\nA psicologia confirma o que o Slow Living está propondo — e é mais simples e mais profundo do que parece.\n\nO que desacelerar significa para você hoje?\n\n#SlowLiving #Regulacao #SaudeMental #PriscilaAndrade #Psicologia",
+          "vibe": "Câmera estática, ambiente aconchegante, luz quente — janela ou varanda. Tom íntimo e reflexivo, sem pressa. Como uma pausa no meio do dia."
         }
       }
     }
